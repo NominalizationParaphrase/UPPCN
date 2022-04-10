@@ -1,4 +1,4 @@
-# UPPCN
+# Unsupervised Paraphrasability Prediction for Compound Nominalizations
 
 ## Abstract
 Commonly found in academic and formal texts, a nominalization uses a deverbal noun to describe an event associated with its corresponding verb. Nominalizations can be difficult to interpret because of ambiguous semantic relations between the deverbal noun and its arguments. Automatic
@@ -8,7 +8,7 @@ the prenominal modifier can be re-written as a noun or adverb in a clausal parap
 ## Tools
 1. Spacy == 2.2.4
 2. Pandas
-3. T5-small
+3. BERT-based Masked Language Model : https://demo.allennlp.org/masked-lm
 4. TextualEntailment : https://demo.allennlp.org/textual-entailment/roberta-snli
 5. GPT & DistilBert : https://github.com/awslabs/mlm-scoring
 6. Sentence Embeddings : https://huggingface.co/sentence-transformers/stsb-roberta-large
