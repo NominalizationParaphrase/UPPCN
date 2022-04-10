@@ -1,0 +1,2987 @@
+3. sentence : Guided by the ethereal appearanceof her sister Daphne, Bloom is told about final moments of her planet.
+adj/noun : ethereal
+n_v : appearance
+prep : of
+pobj : her sister Daphne
+originalPattern : ethereal appearance of her sister Daphne
+MVO : ethereal appears her sister Daphne
+MVOScore : -49.27122497558594
+OVM : her sister Daphne appears ethereal
+OVMScore : -46.37394332885742
+OVpM : her sister Daphne appears as an ethereal
+OVpMScore : -47.96256256103516
+VOpM : appear her sister Daphne as an ethereal
+VOpMScore : -52.63449096679688
+VpOpM : appear with her sister Daphne as an ethereal
+VpOpMScore : -53.94962692260742
+VMpO : appear ethereal as her sister Daphne
+VMpOScore : -48.463134765625
+VpMpO : appear as ethereal as her sister Daphne
+VpMpOScore : -50.11078643798828
+M : the appearance of her sister Daphne is ethereal
+MScore : -51.27895355224609
+V1 : her sister Daphne has an ethereal appearance
+V1Score : -48.86915588378906
+V2 : mimic ethereal appearance of her sister Daphne
+V2Score : -60.79465866088867
+OVB : her sister Daphne appears nebulously
+OVBScore : -50.50122451782227
+VOB : appear her sister Daphne nebulously
+VOBScore : -57.71839141845703
+MVpOPassive : ethereal is appeared by her sister Daphne
+MVpOPassiveScore : -55.07621002197266
+MpOVPassive : ethereal of her sister Daphne is appeared
+MpOVPassiveScore : -54.38232040405273
+OVpMPassive : her sister Daphne is appeared as an ethereal
+OVpMPassiveScore : -55.00472640991211
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : N
+FinalLabel : True
+
+4. sentence : This led to the summary execution of some 200 senior officers loyal to the Republic (one of them his own cousin).
+adj/noun : summary
+n_v : execution
+prep : of
+pobj : some 200 senior officers
+originalPattern : summary execution of some 200 senior officers
+MVO : summaries execute some 200 senior officers
+MVOScore : -56.06444931030273
+OVM : some 200 senior officers execute summary
+OVMScore : -51.20051574707031
+OVpM : some 200 senior officers execute in summary
+OVpMScore : -59.88642120361328
+VOpM : execute some 200 senior officers in summary
+VOpMScore : -58.44564437866211
+VpOpM : execute of some 200 senior officers in summary
+VpOpMScore : -58.76340103149414
+VMpO : execute summaries of some 200 senior officers
+VMpOScore : -52.37905120849609
+VpMpO : execute of a summary of some 200 senior officers
+VpMpOScore : -58.79840469360352
+M : the execution of some 200 senior officers is summary
+MScore : -58.37154769897461
+V1 : some 200 senior officers face a summary execution
+V1Score : -54.34324264526367
+V2 : prevent summary execution of some 200 senior officers
+V2Score : -54.97768783569336
+MVpOPassive : summaries are executed by some 200 senior officers
+MVpOPassiveScore : -54.54567718505859
+MpOVPassive : the summaries of the some 200 senior officers are executed
+MpOVPassiveScore : -63.0346794128418
+OVpMPassive : some 200 senior officers are executed in summary
+OVpMPassiveScore : -57.52904510498047
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : N
+FinalLabel : True
+
+5. sentence : There is scarcely more agreement today than a hundred years ago, when Charles Darwin's theory of evolution by natural selection provoked a rash of armchair speculations on the topic.
+adj/noun : armchair
+n_v : speculations
+prep : on
+pobj : the topic
+originalPattern : armchair speculations on the topic
+MVO : armchair speculates the topic
+MVOScore : -39.50276565551758
+MVpO : armchair speculates on the topic
+MVpOScore : -38.19947814941406
+OVM : the topic speculates armchair
+OVMScore : -43.45195007324219
+OVpM : the topic speculates on armchair
+OVpMScore : -45.60647964477539
+VOpM : speculate the topic of armchair
+VOpMScore : -42.32720184326172
+VpOpM : speculate on the topic of armchair
+VpOpMScore : -41.63035583496094
+VMpO : speculate armchair on the topic
+VMpOScore : -43.63165664672852
+VpMpO : speculate in an armchair on the topic
+VpMpOScore : -45.10603332519531
+M : some speculations on the topic are armchair
+MScore : -48.0291633605957
+V1 : the topic becomes the armchair speculations
+V1Score : -48.97509765625
+V2 : encourage armchair speculations on the topic
+V2Score : -45.25556182861328
+MVpOPassive : armchair is speculated as the topic
+MVpOPassiveScore : -44.39995574951172
+MpOVPassive : armchair on the topic is speculated
+MpOVPassiveScore : -44.15148162841797
+OVpMPassive : the topic is speculated by the armchair
+OVpMPassiveScore : -45.94807434082031
+OriginalHighestScorePattern : V2
+HighestScorePattern : V2
+adj/noun-label : N
+FinalLabel : True
+
+6. sentence : In mid June 1940, however, following the lightning advance of the Germans through France and the subsequent Dunkirk evacuation, the British War Office put out a call for volunteers to carry out raids along the coasts of the occupied territories and Durnford-Slater was able to convince his commanding officer to recommend him for the special force that was being raised to do this.
+adj/noun : lightning
+n_v : advance
+prep : of
+pobj : the Germans
+originalPattern : lightning advance of the Germans
+MVO : lightning advances the Germans
+MVOScore : -37.23058319091797
+OVM : the Germans advance lightning
+OVMScore : -38.77724456787109
+OVpM : the Germans advance like lightning
+OVpMScore : -39.0483512878418
+VOpM : advance the Germans with lightning
+VOpMScore : -43.02399444580078
+VpOpM : advance of the Germans with lightning
+VpOpMScore : -45.56128692626953
+VMpO : advance the lightnings of the Germans
+VMpOScore : -45.86888885498047
+VpMpO : advance of lightning against the Germans
+VpMpOScore : -47.46675491333008
+M : the advance of the Germans is lightning
+MScore : -47.06540679931641
+V1 : the Germans make a lightning advance
+V1Score : -42.02820205688477
+V2 : counter lightning advance of the Germans
+V2Score : -49.94141006469727
+MVpOPassive : lightning is advanced by the Germans
+MVpOPassiveScore : -39.61399841308594
+MpOVPassive : lightnings of all the Germans are advanced
+MpOVPassiveScore : -49.65141296386719
+OVpMPassive : the Germans are advanced by lightning
+OVpMPassiveScore : -42.1597785949707
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : N
+FinalLabel : True
+
+16. sentence : For example, the bombing of Guernica has been called an act of terrorism, as well as the sneak attack on Pearl Harbor.
+adj/noun : sneak
+n_v : attack
+prep : on
+pobj : Pearl Harbor
+originalPattern : sneak attack on Pearl Harbor
+MVO : sneak attacks Pearl Harbor
+MVOScore : -32.28187942504883
+MVpO : sneak attacks on Pearl Harbor
+MVpOScore : -30.92553520202637
+OVM : Pearl Harbor attacks sneak
+OVMScore : -31.88938140869141
+OVpM : Pearl Harbor attacks by sneak
+OVpMScore : -35.78671646118164
+VOpM : attack Pearl Harbor to sneak
+VOpMScore : -36.63722610473633
+VpOpM : attack on Pearl Harbor to sneak
+VpOpMScore : -36.06616973876953
+VMpO : attack sneaks to Pearl Harbor
+VMpOScore : -37.01142883300781
+VpMpO : attack on the sneak into Pearl Harbor
+VpMpOScore : -42.36130523681641
+M : the attack on Pearl Harbor is sneak
+MScore : -40.96411514282227
+V1 : Pearl Harbor launches a sneak attack
+V1Score : -37.3961067199707
+V2 : launch sneak attack on Pearl Harbor
+V2Score : -41.53475570678711
+MVpOPassive : sneak is attacked at Pearl Harbor
+MVpOPassiveScore : -42.91034317016602
+MpOVPassive : sneaks on Pearl Harbor is attacked
+MpOVPassiveScore : -47.10520553588867
+OVpMPassive : Pearl Harbor is attacked by a sneak
+OVpMPassiveScore : -37.0699348449707
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : N
+FinalLabel : True
+
+24. sentence : Dr. von Bering (who had earlier told Ehrlich to give up his pipe dreams of cures by chemicals), who was called by the defense to denounce 606, instead states that he believes that 606 is responsible for the death of syphilis itself, the 39th death as he calls it.
+adj/noun : pipe
+n_v : dreams
+prep : of
+pobj : cures
+originalPattern : pipe dreams of cures
+MVO : pipe dreams cures
+MVOScore : -34.35134124755859
+OVM : cures dream pipe
+OVMScore : -39.19057464599609
+OVpM : cures dream of pipe
+OVpMScore : -41.24109649658203
+VOpM : dream cures in pipes
+VOpMScore : -39.29833221435547
+VpOpM : dream of cures in pipes
+VpOpMScore : -41.50048065185547
+VMpO : dream a pipe of cures
+VMpOScore : -42.65724945068359
+VpMpO : dream of a pipe of cures
+VpMpOScore : -43.09936904907227
+M : the dreams of cures are pipe
+MScore : -46.27214050292969
+V1 : cures make pipe dreams
+V1Score : -39.43218994140625
+V2 : make pipe dreams of cures
+V2Score : -39.18240356445312
+MVpOPassive : pipes are dreamed of cures
+MVpOPassiveScore : -48.41192245483398
+MpOVPassive : the pipes of the cures are dreamed
+MpOVPassiveScore : -51.83343505859375
+OVpMPassive : cures are dreamed by pipe
+OVpMPassiveScore : -49.34955596923828
+OriginalHighestScorePattern : V2
+HighestScorePattern : V2
+adj/noun-label : N
+FinalLabel : True
+
+26. sentence : Originally, Penhold was one of the many whistle stops along the Canadian Pacific Railway.
+adj/noun : whistle
+n_v : stops
+prep : along
+pobj : the Canadian Pacific Railway
+originalPattern : whistle stops along the Canadian Pacific Railway
+MVO : the whistle stops the Canadian Pacific Railway
+MVOScore : -41.87559127807617
+MVpO : the whistle stops along the Canadian Pacific Railway
+MVpOScore : -43.91849517822266
+OVM : the Canadian Pacific Railway stops a whistle
+OVMScore : -45.01403427124023
+OVpM : the Canadian Pacific Railway stops to whistle
+OVpMScore : -47.36966705322266
+VOpM : stop the Canadian Pacific Railway with a whistle
+VOpMScore : -48.35929870605469
+VpOpM : stop at the Canadian Pacific Railway with a whistle
+VpOpMScore : -51.01398086547852
+VMpO : stop the whistle of the Canadian Pacific Railway
+VMpOScore : -45.55017471313477
+VpMpO : stop at the whistle of the Canadian Pacific Railway
+VpMpOScore : -47.7409553527832
+M : some stops along the Canadian Pacific Railway are whistle
+MScore : -61.50814437866211
+V1 : the Canadian Pacific Railway operates the whistle stops
+V1Score : -51.19267654418945
+V2 : become whistle stops along the Canadian Pacific Railway
+V2Score : -54.91403961181641
+MVpOPassive : the whistle is stopped by the Canadian Pacific Railway
+MVpOPassiveScore : -46.83025360107422
+MpOVPassive : whistle along the Canadian Pacific Railway is stopped
+MpOVPassiveScore : -52.14936447143555
+OVpMPassive : the Canadian Pacific Railway is stopped by a whistle
+OVpMPassiveScore : -48.26757049560547
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : N
+FinalLabel : True
+
+27. sentence : The candidates stood on a platform of zero tolerance of crime and improved facilities for young people.
+adj/noun : zero
+n_v : tolerance
+prep : of
+pobj : crime
+originalPattern : zero tolerance of crime
+MVO : zero tolerate crime
+MVOScore : -31.92776298522949
+OVM : crime tolerates zero
+OVMScore : -36.2585563659668
+OVpM : crime tolerates at zero
+OVpMScore : -43.54611587524414
+VOpM : tolerate crime with a zero
+VOpMScore : -37.16125869750977
+VMpO : tolerate zeros in crime
+VMpOScore : -41.88790130615234
+VpMpO : tolerate to the zero of crime
+VpMpOScore : -47.16448974609375
+M : the tolerance of crime is zero
+MScore : -37.17098236083984
+V1 : crime has a zero tolerance
+V1Score : -29.31790161132812
+V2 : ensure zero tolerance of crime
+V2Score : -27.95656967163086
+MVpOPassive : zero are tolerated for crime
+MVpOPassiveScore : -41.10425567626953
+MpOVPassive : a zero of the crime is tolerated
+MpOVPassiveScore : -44.12068557739258
+OVpMPassive : crime is tolerated at zero
+OVpMPassiveScore : -39.26498413085938
+OriginalHighestScorePattern : V2
+HighestScorePattern : V2
+adj/noun-label : N
+FinalLabel : True
+
+33. sentence : The Conservatives won control of this council in shadow elections in May 2008, winning a majority of seats in the Ellesmere Port area for the first time.
+adj/noun : shadow
+n_v : elections
+prep : in
+pobj : May 2008
+originalPattern : shadow elections in May 2008
+MVO : shadow elects May 2008
+MVOScore : -42.66091156005859
+MVpO : shadow elects in May 2008
+MVpOScore : -44.48392486572266
+OVM : May 2008 elect shadow
+OVMScore : -43.44356918334961
+OVpM : May 2008 elect to the shadow
+OVpMScore : -50.91294860839844
+VOpM : elect May 2008 in shadow
+VOpMScore : -45.74211502075195
+VpOpM : elect since May 2008 in the shadow
+VpOpMScore : -44.39888000488281
+VMpO : elect shadow since May 2008
+VMpOScore : -41.47721862792969
+VpMpO : elect in the shadows in May 2008
+VpMpOScore : -46.9342041015625
+M : the elections in May 2008 are shadow
+MScore : -45.27878189086914
+V1 : May 2008 contest shadow elections
+V1Score : -46.69140243530273
+V2 : contest shadow elections in May 2008
+V2Score : -49.29640579223633
+MVpOPassive : shadow is elected in May 2008
+MVpOPassiveScore : -42.78667831420898
+MpOVPassive : a shadow in May 2008 is elected
+MpOVPassiveScore : -48.19595336914062
+OVpMPassive : May 2008 are elected in shadow
+OVpMPassiveScore : -49.80292510986328
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : N
+FinalLabel : True
+
+34. sentence : In Sept 13 he was selected to become a Member of the Royal College of Defence Studies; the RCDS provides the capstone education for those officers, senior officials and industry leaders with the potential for the highest levels of strategic leadership.
+adj/noun : capstone
+n_v : education
+prep : for
+pobj : those officers, senior officials and industry leaders
+originalPattern : capstone education for those officers, senior officials and industry leaders
+MVO : capstone educates those officers, senior officials and industry leaders
+MVOScore : -71.00076293945312
+MVpO : capstone educates for those officers, senior officials and industry leaders
+MVpOScore : -76.93911743164062
+OVM : those officers, senior officials and industry leaders educate capstone
+OVMScore : -73.76593780517578
+OVpM : those officers, senior officials and industry leaders educate in capstone
+OVpMScore : -76.67377471923828
+VOpM : educate those officers, senior officials and industry leaders of the capstone
+VOpMScore : -72.8636474609375
+VpOpM : educate on those officers, senior officials and industry leaders as a capstone
+VpOpMScore : -83.45536041259766
+VMpO : educate the capstone of those officers, senior officials and industry leaders
+VMpOScore : -72.04676055908203
+VpMpO : educate as a capstone for those officers, senior officials and industry leaders
+VpMpOScore : -75.37498474121094
+M : the education for those officers, senior officials and industry leaders is capstone
+MScore : -82.03666687011719
+V1 : those officers, senior officials and industry leaders provide a capstone education
+V1Score : -74.9415512084961
+V2 : provide capstone education for those officers, senior officials and industry leaders
+V2Score : -72.65621185302734
+MVpOPassive : capstone is educated by those officers, senior officials and industry leaders
+MVpOPassiveScore : -74.96412658691406
+MpOVPassive : a capstone for all those officers, senior officials and industry leaders is educated
+MpOVPassiveScore : -82.55552673339844
+OVpMPassive : those officers, senior officials and industry leaders are educated in capstone
+OVpMPassiveScore : -73.32787322998047
+OriginalHighestScorePattern : V2
+HighestScorePattern : V2
+adj/noun-label : N
+FinalLabel : True
+
+38. sentence : "Barbarism" is variously interpreted as meaning either a technologically advanced but extremely exploitative and oppressive society (e.g. a victory and world domination by Nazi Germany and its Fascist allies); a collapse of technological civilization due to Capitalism causing a Nuclear War or ecological disaster; or the one form of barbarism bringing on the other.
+adj/noun : world
+n_v : domination
+prep : by
+pobj : Nazi Germany and its Fascist allies
+originalPattern : world domination by Nazi Germany and its Fascist allies
+MVO : the world dominates Nazi Germany and its Fascist allies
+MVOScore : -51.60620498657227
+MVpO : the world dominates by Nazi Germany and its Fascist allies
+MVpOScore : -55.28378295898438
+OVM : Nazi Germany and its Fascist allies dominate the world
+OVMScore : -39.27276611328125
+OVpM : Nazi Germany and its Fascist allies dominate over the world
+OVpMScore : -47.49287796020508
+VOpM : dominate Nazi Germany and its Fascist allies around the world
+VOpMScore : -52.22874069213867
+VpOpM : dominate in Nazi Germany and its Fascist allies around the world
+VpOpMScore : -55.62336730957031
+VMpO : dominate the worlds of Nazi Germany and its Fascist allies
+VMpOScore : -51.74118041992188
+VpMpO : dominate over the worlds of Nazi Germany and its Fascist allies
+VpMpOScore : -56.24178314208984
+M : the domination by Nazi Germany and its Fascist allies is world
+MScore : -59.90204238891602
+V1 : Nazi Germany and its Fascist allies achieve world domination
+V1Score : -46.25881576538086
+V2 : achieve world domination by Nazi Germany and its Fascist allies
+V2Score : -51.36606216430664
+MVpOPassive : the world is dominated by Nazi Germany and its Fascist allies
+MVpOPassiveScore : -46.25485992431641
+MpOVPassive : a world by Nazi Germany and its Fascist allies is dominated
+MpOVPassiveScore : -59.46446228027344
+OVpMPassive : Nazi Germany and its Fascist allies are dominated by a world
+OVpMPassiveScore : -49.99624252319336
+gold : Nazi Germany and its Fascist allies dominate the world
+reducedGold : nazi germany and -pron- fascist ally dominate world 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : Nazi Germany and its Fascist allies dominate the world
+reducedParaphrase : nazi germany and -pron- fascist ally dominate world 
+adj/noun-label : arg1
+FinalLabel : True
+
+39. sentence : A 2006 court case, "Abigail Alliance v. von Eschenbach", would have forced radical changes in FDA regulation of unapproved drugs.
+adj/noun : FDA
+n_v : regulation
+prep : of
+pobj : unapproved drugs
+originalPattern : FDA regulation of unapproved drugs
+MVO : FDA regulates unapproved drugs
+MVOScore : -27.41285133361816
+OVM : unapproved drugs regulate FDA
+OVMScore : -42.03818130493164
+OVpM : unapproved drugs regulate by FDA
+OVpMScore : -44.11309051513672
+VOpM : regulate unapproved drugs by the FDA
+VOpMScore : -38.86494064331055
+VMpO : regulate the FDA for unapproved drugs
+VMpOScore : -37.91299819946289
+VpMpO : regulate with the FDA for unapproved drugs
+VpMpOScore : -43.00226593017578
+M : the regulation of unapproved drugs is FDA
+MScore : -43.81578063964844
+V1 : unapproved drugs improve the FDA regulation
+V1Score : -53.34690475463867
+V2 : improve FDA regulation of unapproved drugs
+V2Score : -39.59764099121094
+MVpOPassive : the FDA is regulated for unapproved drugs
+MVpOPassiveScore : -42.49569320678711
+MpOVPassive : the FDA of all unapproved drugs is regulated
+MpOVPassiveScore : -46.51702117919922
+OVpMPassive : unapproved drugs are regulated by the FDA
+OVpMPassiveScore : -35.42815399169922
+gold : FDA regulate unapproved drugs
+reducedGold : fda regulate unapproved drug 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : FDA regulates unapproved drugs
+reducedParaphrase : fda regulate unapproved drug 
+adj/noun-label : arg0
+FinalLabel : True
+
+40. sentence : A direct contribution of this section was to aid the war preparations of the government by designing propaganda and public awareness posters.
+adj/noun : war
+n_v : preparations
+prep : of
+pobj : the government
+originalPattern : war preparations of the government
+MVO : war prepares the government
+MVOScore : -34.82439804077148
+OVM : the government prepares war
+OVMScore : -32.02890014648438
+OVpM : the government prepares for war
+OVpMScore : -27.44855690002441
+VOpM : prepare the government for war
+VOpMScore : -30.21321105957031
+VpOpM : prepare for the government for war
+VpOpMScore : -37.09693908691406
+VMpO : prepare a war against the government
+VMpOScore : -35.31129837036133
+VpMpO : prepare for a war against the government
+VpMpOScore : -32.37165832519531
+M : the preparations of the government are war
+MScore : -42.55796813964844
+V1 : the government begins the war preparations
+V1Score : -41.66928482055664
+V2 : support war preparations of the government
+V2Score : -46.00466156005859
+MVpOPassive : war is prepared by the government
+MVpOPassiveScore : -32.03506088256836
+MpOVPassive : war of the government is prepared
+MpOVPassiveScore : -37.93901062011719
+OVpMPassive : the government is prepared for war
+OVpMPassiveScore : -29.80065536499023
+gold : the government prepare for war
+reducedGold : government prepare for war 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : the government prepares for war
+reducedParaphrase : government prepare for war 
+adj/noun-label : PP
+FinalLabel : True
+
+41. sentence : A popular way to gauge teaching performance is to use student evaluations of teachers (SETS), but these evaluations have been criticized for being counterproductive to learning and inaccurate due to student bias.
+adj/noun : student
+n_v : evaluations
+prep : of
+pobj : teachers
+originalPattern : student evaluations of teachers
+MVO : students evaluate teachers
+MVOScore : -30.84975433349609
+OVM : teachers evaluate students
+OVMScore : -24.68885803222656
+OVpM : teachers evaluate if the student
+OVpMScore : -34.22861480712891
+VOpM : evaluate teachers for students
+VOpMScore : -35.10441589355469
+VpOpM : evaluate by teachers of the students
+VpOpMScore : -41.89141082763672
+VMpO : evaluate students as teachers
+VMpOScore : -32.23366928100586
+VpMpO : evaluate as a student with teachers
+VpMpOScore : -41.76606369018555
+M : the evaluations of teachers are student
+MScore : -42.20555877685547
+V1 : teachers conduct student evaluations
+V1Score : -31.36078453063965
+V2 : improve student evaluations of teachers
+V2Score : -32.53843307495117
+MVpOPassive : students are evaluated by teachers
+MVpOPassiveScore : -31.81447410583496
+MpOVPassive : a student of the teachers is evaluated
+MpOVPassiveScore : -40.83999633789062
+OVpMPassive : teachers are evaluated by students
+OVpMPassiveScore : -31.28254127502441
+gold : students evaluate teachers
+reducedGold : student evaluate teacher 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : students evaluate teachers
+reducedParaphrase : student evaluate teacher 
+adj/noun-label : arg0
+FinalLabel : True
+
+43. sentence : Anton and Phelps have provided a detailed manual on how to conduct the performance evaluation of the business, whereas others are using various scientific technologies to do the jobs.
+adj/noun : performance
+n_v : evaluation
+prep : of
+pobj : the business
+originalPattern : performance evaluation of the business
+MVO : performance evaluates the business
+MVOScore : -31.92006301879883
+OVM : the business evaluates the performance
+OVMScore : -31.45215225219727
+OVpM : the business evaluates on the performance
+OVpMScore : -39.13704681396484
+VOpM : evaluate the business of performances
+VOpMScore : -38.18040466308594
+VpOpM : evaluate of the business on the performance
+VpOpMScore : -44.54281997680664
+VMpO : evaluate the performance of the business
+VMpOScore : -29.55728530883789
+VpMpO : evaluate on the performance of the business
+VpMpOScore : -37.34566116333008
+M : the evaluation of the business is performance
+MScore : -42.13116455078125
+V1 : the business improves the performance evaluation
+V1Score : -45.22228622436523
+V2 : improve performance evaluation of the business
+V2Score : -39.75137710571289
+MVpOPassive : performance is evaluated by the business
+MVpOPassiveScore : -35.15295791625977
+MpOVPassive : the performance of all the business is evaluated
+MpOVPassiveScore : -43.91730117797852
+OVpMPassive : the business is evaluated for performance
+OVpMPassiveScore : -34.57549285888672
+gold : evaluate the performance of the business
+reducedGold : evaluate performance of business 
+OriginalHighestScorePattern : VMpO
+HighestScorePattern : VMpO
+HighestScorePatternSentence : evaluate the performance of the business
+reducedParaphrase : evaluate performance of business 
+adj/noun-label : arg1
+FinalLabel : True
+
+46. sentence : Attempts have been made to model the developmental process of language acquisition in children from a computational angle, leading to both statistical grammars and connectionist models.
+adj/noun : language
+n_v : acquisition
+prep : in
+pobj : children
+originalPattern : language acquisition in children
+MVO : languages acquire children
+MVOScore : -33.174560546875
+MVpO : languages acquire in children
+MVpOScore : -36.54612350463867
+OVM : children acquire language
+OVMScore : -28.95342254638672
+OVpM : children acquire from the language
+OVpMScore : -40.80143737792969
+VOpM : acquire children by language
+VOpMScore : -33.02801513671875
+VpOpM : acquire of children by language
+VpOpMScore : -37.07676696777344
+VMpO : acquire the languages of children
+VMpOScore : -34.50399017333984
+VpMpO : acquire in the language of children
+VpMpOScore : -38.51647567749023
+M : the acquisition in children is language
+MScore : -46.51862716674805
+V1 : children have a language acquisition
+V1Score : -35.70269393920898
+V2 : promote language acquisition in children
+V2Score : -35.11945343017578
+MVpOPassive : languages are acquired by children
+MVpOPassiveScore : -33.52634429931641
+MpOVPassive : languages in the children are acquired
+MpOVPassiveScore : -41.40229034423828
+OVpMPassive : children are acquired by language
+OVpMPassiveScore : -36.98653411865234
+gold : children acquire language
+reducedGold : child acquire language 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : children acquire language
+reducedParaphrase : child acquire language 
+adj/noun-label : arg1
+FinalLabel : True
+
+48. sentence : Displeased with what he saw as an over-cautious police response to the rioting, Daley chastised police superintendent James B. Conlisk and subsequently related that conversation at a City Hall press conference as follows:
+adj/noun : police
+n_v : response
+prep : to
+pobj : the rioting
+originalPattern : police response to the rioting
+MVO : police respond the rioting
+MVOScore : -37.1829948425293
+MVpO : police respond to the rioting
+MVpOScore : -30.2380542755127
+OVM : the rioting responds the police
+OVMScore : -39.18627166748047
+OVpM : the rioting responds to the police
+OVpMScore : -36.52140426635742
+VOpM : respond the rioting to the police
+VOpMScore : -38.32868957519531
+VpOpM : respond to the rioting with police
+VpOpMScore : -36.61411666870117
+VMpO : respond the police to the rioting
+VMpOScore : -38.37697601318359
+VpMpO : respond with the police to the rioting
+VpMpOScore : -41.5676383972168
+M : the response to the rioting is police
+MScore : -42.16707992553711
+V1 : the rioting prompts a police response
+V1Score : -38.59184265136719
+V2 : improve police response to the rioting
+V2Score : -37.8058967590332
+MVpOPassive : police are responded to the rioting
+MVpOPassiveScore : -39.63243103027344
+MpOVPassive : the police to the rioting is responded
+MpOVPassiveScore : -48.50527954101562
+OVpMPassive : the rioting is responded by the police
+OVpMPassiveScore : -40.39054870605469
+gold : The police respond to the rioting
+reducedGold : police respond to rioting 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : police respond to the rioting
+reducedParaphrase : police respond to rioting 
+adj/noun-label : arg0
+FinalLabel : True
+
+51. sentence : For virtually all Japanese film professionals, the first years after the end of the Pacific War were a difficult and disorienting period, as they were forced to confront a new kind of film censorship from the victorious Americans, one that seemed, with its alien values, in the words of Audie Bock, "to be trying to change the very fabric of Japanese daily life, from which they drew their subject matter."
+adj/noun : film
+n_v : censorship
+prep : from
+pobj : the victorious Americans
+originalPattern : film censorship from the victorious Americans
+MVO : the film censors the victorious Americans
+MVOScore : -49.68940353393555
+MVpO : film censors from the victorious Americans
+MVpOScore : -49.23003387451172
+OVM : the victorious Americans censor film
+OVMScore : -47.60659408569336
+OVpM : the victorious Americans censor in a film
+OVpMScore : -55.02851867675781
+VOpM : censor the victorious Americans in the film
+VOpMScore : -57.34420776367188
+VpOpM : censor of the victorious Americans in the film
+VpOpMScore : -55.72667694091797
+VMpO : censor film of the victorious Americans
+VMpOScore : -52.51235961914062
+VpMpO : censor of a film about the victorious Americans
+VpMpOScore : -55.93680191040039
+M : the censorship from the victorious Americans is film
+MScore : -61.43511962890625
+V1 : the victorious Americans abolish all film censorship
+V1Score : -57.52680587768555
+V2 : remove film censorship from the victorious Americans
+V2Score : -61.571533203125
+MVpOPassive : film is censored by the victorious Americans
+MVpOPassiveScore : -50.16271591186523
+MpOVPassive : films from all the victorious Americans are censored
+MpOVPassiveScore : -57.76291656494141
+OVpMPassive : the victorious Americans are censored in the film
+OVpMPassiveScore : -51.30410766601562
+gold : the victorious American censor films
+reducedGold : victorious american censor film 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the victorious Americans censor film
+reducedParaphrase : victorious americans censor film 
+adj/noun-label : arg1
+FinalLabel : True
+
+60. sentence : Insolvency practitioner Ottmar Hermann followed some of the approach seen with the earlier insolvency of Woolworths' German business, and the Karmann business is emerging with little independence, but supported by significant cash investment from long-standing customer Volkswagen.
+adj/noun : cash
+n_v : investment
+prep : from
+pobj : long-standing customer Volkswagen
+originalPattern : cash investment from long-standing customer Volkswagen
+MVO : cash invests long-standing customer Volkswagen
+MVOScore : -60.33417129516602
+MVpO : cash invests from long-standing customer Volkswagen
+MVpOScore : -63.32047653198242
+OVM : long-standing customer Volkswagen invests cash
+OVMScore : -62.32326889038086
+OVpM : long-standing customer Volkswagen invests in cash
+OVpMScore : -64.33873748779297
+VOpM : invest long-standing customer Volkswagen with cash
+VOpMScore : -65.36516571044922
+VpOpM : invest in long-standing customer Volkswagen with cash
+VpOpMScore : -63.12571716308594
+VMpO : invest the cash of long-standing customer Volkswagen
+VMpOScore : -60.20711898803711
+VpMpO : invest in the cash of long-standing customer Volkswagen
+VpMpOScore : -64.35096740722656
+M : the investment from long-standing customer Volkswagen is cash
+MScore : -68.32007598876953
+V1 : long-standing customer Volkswagen attracts cash investment
+V1Score : -69.18037414550781
+V2 : attract cash investment from long-standing customer Volkswagen
+V2Score : -66.45986938476562
+MVpOPassive : cash is invested by long-standing customer Volkswagen
+MVpOPassiveScore : -62.19366455078125
+MpOVPassive : cash from the long-standing customer Volkswagen is invested
+MpOVPassiveScore : -66.6347427368164
+OVpMPassive : long-standing customer Volkswagen is invested in cash
+OVpMPassiveScore : -65.14107513427734
+gold : long-standing customer Volkswagen invest cash
+reducedGold : long - stand customer volkswagen invest cash 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : long-standing customer Volkswagen invests cash
+reducedParaphrase : long - stand customer volkswagen invest cash 
+adj/noun-label : arg1
+FinalLabel : True
+
+61. sentence : Interviewer evaluations of applicant responses also tend to be colored by how an applicant behaves in the interview.
+adj/noun : interviewer
+n_v : evaluations
+prep : of
+pobj : applicant responses
+originalPattern : interviewer evaluations of applicant responses
+MVO : the interviewer evaluates applicant responses
+MVOScore : -41.73752212524414
+OVM : applicant responses evaluate the interviewer
+OVMScore : -47.0426025390625
+OVpM : applicant responses evaluate by an interviewer
+OVpMScore : -52.58353424072266
+VOpM : evaluate applicant responses to interviewer
+VOpMScore : -42.97861099243164
+VpOpM : evaluate of applicant responses to interviewer
+VpOpMScore : -45.63478088378906
+VMpO : evaluate the interviewer for applicant responses
+VMpOScore : -46.68917083740234
+VpMpO : evaluate by an interviewer for applicant responses
+VpMpOScore : -53.01519012451172
+M : the evaluations of applicant responses are interviewer
+MScore : -51.85919952392578
+V1 : applicant responses give the interviewer evaluations
+V1Score : -55.48878479003906
+V2 : give interviewer evaluations of applicant responses
+V2Score : -50.83442687988281
+MVpOPassive : an interviewer is evaluated on applicant responses
+MVpOPassiveScore : -47.67443084716797
+MpOVPassive : an interviewer of the applicant responses is evaluated
+MpOVPassiveScore : -53.31086730957031
+OVpMPassive : applicant responses are evaluated by an interviewer
+OVpMPassiveScore : -43.43020248413086
+gold : interviewers evaluate applicant responses
+reducedGold : interviewer evaluate applicant response 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : the interviewer evaluates applicant responses
+reducedParaphrase : interviewer evaluate applicant response 
+adj/noun-label : arg0
+FinalLabel : True
+
+62. sentence : It deals with the influence of genetic variation on drug response in patients by correlating gene expression or single-nucleotide polymorphisms with a drug's efficacy or toxicity.
+adj/noun : drug
+n_v : response
+prep : in
+pobj : patients
+originalPattern : drug response in patients
+MVO : drug responds patients
+MVOScore : -34.79515075683594
+MVpO : drugs respond in patients
+MVpOScore : -34.43953704833984
+OVM : patients respond drug
+OVMScore : -33.1679573059082
+OVpM : patients respond to drugs
+OVpMScore : -27.83170509338379
+VOpM : respond patients with drug
+VOpMScore : -34.02098083496094
+VpOpM : respond to patients with drug
+VpOpMScore : -33.09200286865234
+VMpO : respond drugs to patients
+VMpOScore : -31.74500465393066
+VpMpO : respond with drugs to patients
+VpMpOScore : -35.43260192871094
+M : the response in patients is drug
+MScore : -43.00095748901367
+V1 : patients experience a drug response
+V1Score : -35.67826461791992
+V2 : improve drug response in patients
+V2Score : -32.5872802734375
+MVpOPassive : drug is responded to patients
+MVpOPassiveScore : -38.26563262939453
+MpOVPassive : drugs in the patients are responded
+MpOVPassiveScore : -43.00919723510742
+OVpMPassive : patients are responded to the drug
+OVpMPassiveScore : -36.82095336914062
+gold : patients respond to drugs
+reducedGold : patient respond to drug 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : patients respond to drugs
+reducedParaphrase : patient respond to drug 
+adj/noun-label : arg1
+FinalLabel : True
+
+63. sentence : It faced war damage to its economy and the problems of mass migration due to the expulsion of ethnic Germans from areas east of the Oder-Neisse Line.
+adj/noun : war
+n_v : damage
+prep : to
+pobj : its economy
+originalPattern : war damage to its economy
+MVO : war damages its economy
+MVOScore : -30.84110641479492
+MVpO : war damages to its economy
+MVpOScore : -34.08492660522461
+OVM : its economy damages the war
+OVMScore : -38.48443603515625
+OVpM : its economy damages during the war
+OVpMScore : -42.63103103637695
+VOpM : damage its economy during war
+VOpMScore : -38.76198959350586
+VpOpM : damage to its economy during the war
+VpOpMScore : -37.14596176147461
+VMpO : damage the war to its economy
+VMpOScore : -41.14376831054688
+VpMpO : damage from the war to its economy
+VpMpOScore : -39.39363861083984
+M : the damage to its economy is war
+MScore : -41.48025512695312
+V1 : its economy suffers war damage
+V1Score : -39.34768676757812
+V2 : prevent war damage to its economy
+V2Score : -39.08410263061523
+MVpOPassive : war is damaged in its economy
+MVpOPassiveScore : -41.45873260498047
+MpOVPassive : war to its economy is damaged
+MpOVPassiveScore : -45.60506439208984
+OVpMPassive : its economy is damaged by war
+OVpMPassiveScore : -33.93745803833008
+gold : the war damage its economy
+reducedGold : war damage -pron- economy 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : war damages its economy
+reducedParaphrase : war damage -pron- economy 
+adj/noun-label : arg0
+FinalLabel : True
+
+64. sentence : Jack Shaheen, in his book "Reel Bad Arabs", surveyed more than 900 film appearances of Arab characters.
+adj/noun : film
+n_v : appearances
+prep : of
+pobj : Arab characters
+originalPattern : film appearances of Arab characters
+MVO : film appears Arab characters
+MVOScore : -42.58931732177734
+OVM : Arab characters appear film
+OVMScore : -41.60182571411133
+OVpM : Arab characters appear in the film
+OVpMScore : -35.23861694335938
+VOpM : appear Arab characters in films
+VOpMScore : -42.2850456237793
+VpOpM : appear as Arab characters in the film
+VpOpMScore : -40.18239212036133
+VMpO : appear films with Arab characters
+VMpOScore : -44.16239166259766
+VpMpO : appear in films with Arab characters
+VpMpOScore : -41.08660507202148
+M : the appearances of Arab characters are film
+MScore : -47.05510330200195
+V1 : Arab characters make film appearances
+V1Score : -44.27182769775391
+V2 : enhance film appearances of Arab characters
+V2Score : -47.58422470092773
+MVpOPassive : a film is appeared with Arab characters
+MVpOPassiveScore : -49.88215255737305
+MpOVPassive : the films of the Arab characters are appeared
+MpOVPassiveScore : -49.21723175048828
+OVpMPassive : Arab characters are appeared in film
+OVpMPassiveScore : -42.40400314331055
+gold : Arab characters appear in films
+reducedGold : arab character appear in film 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : Arab characters appear in the film
+reducedParaphrase : arab character appear in film 
+adj/noun-label : PP
+FinalLabel : True
+
+67. sentence : Most Ironman events have a strict time limit of 17 hours to complete the race.
+adj/noun : time
+n_v : limit
+prep : of
+pobj : 17 hours
+originalPattern : time limit of 17 hours
+MVO : time limits 17 hours
+MVOScore : -33.02606964111328
+OVM : 17 hours limit time
+OVMScore : -34.66836166381836
+OVpM : 17 hours limit of time
+OVpMScore : -37.67520904541016
+VOpM : limit 17 hours at a time
+VOpMScore : -34.33526611328125
+VpOpM : limit of 17 hours at a time
+VpOpMScore : -36.33163452148438
+VMpO : limit time of 17 hours
+VMpOScore : -33.23978042602539
+VpMpO : limit of the time to 17 hours
+VpMpOScore : -38.85318756103516
+M : a limit of 17 hours is time
+MScore : -42.71249008178711
+V1 : 17 hours impose a time limit
+V1Score : -38.00967788696289
+V2 : impose time limit of 17 hours
+V2Score : -36.52144622802734
+MVpOPassive : time is limited to 17 hours
+MVpOPassiveScore : -32.80202484130859
+MpOVPassive : a time of 17 hours is limited
+MpOVPassiveScore : -42.86206436157227
+OVpMPassive : 17 hours are limited by time
+OVpMPassiveScore : -36.17930221557617
+gold : limit time to 17 hours
+reducedGold : limit time to 17 hour 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO
+HighestScorePatternSentence : limit time to 17 hours
+reducedParaphrase : limit time to 17 hour 
+adj/noun-label : arg1
+FinalLabel : True
+
+68. sentence : mpeachment of ministers has been a fairly commonly used tactic in the power struggle between the president and the assembly during the last several governments.
+adj/noun : power
+n_v : struggle
+prep : between
+pobj : the president and the assembly
+originalPattern : power struggle between the president and the assembly
+MVO : power struggles the president and the assembly
+MVOScore : -45.31903457641602
+MVpO : power struggles between the president and the assembly
+MVpOScore : -42.40806198120117
+OVM : the president and the assembly struggle power
+OVMScore : -47.50887680053711
+OVpM : the president and the assembly struggle for power
+OVpMScore : -43.38329315185547
+VOpM : struggle the president and the assembly for power
+VOpMScore : -47.07283782958984
+VpOpM : struggle between the president and the assembly for power
+VpOpMScore : -45.74726867675781
+VMpO : struggle the power of the president and the assembly
+VMpOScore : -47.32803344726562
+VpMpO : struggle for power between the president and the assembly
+VpMpOScore : -42.7904052734375
+M : the struggle between the president and the assembly is power
+MScore : -50.3608283996582
+V1 : the president and the assembly face a power struggle
+V1Score : -44.69739532470703
+V2 : avoid power struggle between the president and the assembly
+V2Score : -49.4507942199707
+MVpOPassive : power is struggled between the president and the assembly
+MVpOPassiveScore : -54.34643173217773
+MpOVPassive : power between both the president and the assembly is struggled
+MpOVPassiveScore : -60.44388580322266
+OVpMPassive : the president and the assembly are struggled for power
+OVpMPassiveScore : -50.81128692626953
+gold : the president and the assembly struggle for power
+reducedGold : president and assembly struggle for power 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : the president and the assembly struggle for power
+reducedParaphrase : president and assembly struggle for power 
+adj/noun-label : PP
+FinalLabel : True
+
+69. sentence : New Left targets ranged from the SDS to the InterUniversity Committee for Debate on Foreign Policy, from Antioch College ("vanguard of the New Left") to the New Mexico Free University and other "alternate" schools, and from underground newspapers to students' protesting university censorship of a student publication by carrying signs with four-letter words on them.
+adj/noun : university
+n_v : censorship
+prep : of
+pobj : a student publication
+originalPattern : university censorship of a student publication
+MVO : the university censors a student publication
+MVOScore : -38.61908721923828
+OVM : a student publication censors university
+OVMScore : -44.17948150634766
+OVpM : a student publication censors at universities
+OVpMScore : -47.98435592651367
+VOpM : censor a student publication of the university
+VOpMScore : -48.77108764648438
+VpOpM : censor of a student publication of the university
+VpOpMScore : -49.10737228393555
+VMpO : censor the university with a student publication
+VMpOScore : -50.16884231567383
+VpMpO : censor of the university with a student publication
+VpMpOScore : -51.93234252929688
+M : the censorship of a student publication is university
+MScore : -49.65900802612305
+V1 : a student publication prevents the university censorship
+V1Score : -56.6513671875
+V2 : prevent university censorship of a student publication
+V2Score : -47.95827102661133
+MVpOPassive : university is censored as a student publication
+MVpOPassiveScore : -46.54653167724609
+MpOVPassive : university of a student publication is censored
+MpOVPassiveScore : -49.85753631591797
+OVpMPassive : a student publication is censored by the university
+OVpMPassiveScore : -44.23591232299805
+gold : the university censor a student publication
+reducedGold : university censor student publication 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : the university censors a student publication
+reducedParaphrase : university censor student publication 
+adj/noun-label : arg0
+FinalLabel : True
+
+70. sentence : Only large DCI corps typically have the funding and time commitment from members to participate in DCI's touring circuit, where corps spend the majority of the summer traveling around the continent performing at different local and regional contests.
+adj/noun : time
+n_v : commitment
+prep : from
+pobj : members
+originalPattern : time commitment from members
+MVO : times commission members
+MVOScore : -30.70690536499023
+MVpO : time commits from members
+MVpOScore : -32.96167755126953
+OVM : members commit time
+OVMScore : -26.80887222290039
+OVpM : members commit at a time
+OVpMScore : -32.27825927734375
+VOpM : commission members at the time
+VOpMScore : -31.21937561035156
+VpOpM : commission of members at the time
+VpOpMScore : -37.16679763793945
+VMpO : commission times of members
+VMpOScore : -31.64394760131836
+VpMpO : commission at the time of members
+VpMpOScore : -36.70211410522461
+M : the commitment from members is time
+MScore : -41.68595504760742
+V1 : members have a time commitment
+V1Score : -34.05810928344727
+V2 : reduce time commitment from members
+V2Score : -35.79000091552734
+MVpOPassive : time is committed to members
+MVpOPassiveScore : -36.28076934814453
+MpOVPassive : time from the members is committed
+MpOVPassiveScore : -43.92079162597656
+OVpMPassive : members are commissioned at a time
+OVpMPassiveScore : -36.22719192504883
+gold : members commit time
+reducedGold : member commit time 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : members commit time
+reducedParaphrase : member commit time 
+adj/noun-label : arg1
+FinalLabel : True
+
+72. sentence : Police investigations into the mob took hold after boss Nick Civella was recorded discussing gambling bets on Super Bowl IV (where the Kansas City Chiefs defeated the Minnesota Vikings).
+adj/noun : police
+n_v : investigations
+prep : into
+pobj : the mob
+originalPattern : police investigations into the mob
+MVO : police investigate the mob
+MVOScore : -29.53486061096191
+MVpO : police investigate into the mob
+MVpOScore : -36.41785430908203
+OVM : the mob investigates police
+OVMScore : -31.7179012298584
+OVpM : the mob investigates by police
+OVpMScore : -37.03635406494141
+VOpM : investigate the mob with police
+VOpMScore : -37.62265396118164
+VpOpM : investigate of the mob with police
+VpOpMScore : -44.12785720825195
+VMpO : investigate police in the mob
+VMpOScore : -38.90227127075195
+VpMpO : investigate with police in the mob
+VpMpOScore : -42.90500640869141
+M : the investigations into the mob are police
+MScore : -48.48074722290039
+V1 : the mob begins the police investigations
+V1Score : -42.1355094909668
+V2 : begin police investigations into the mob
+V2Score : -41.49900054931641
+MVpOPassive : the police is investigated by the mob
+MVpOPassiveScore : -40.07528305053711
+MpOVPassive : police into the mob are investigated
+MpOVPassiveScore : -45.70485305786133
+OVpMPassive : the mob is investigated by the police
+OVpMPassiveScore : -34.46544647216797
+gold : the police investigate the mob
+reducedGold : police investigate mob 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : police investigate the mob
+reducedParaphrase : police investigate mob 
+adj/noun-label : arg0
+FinalLabel : True
+
+73. sentence : Since the IBM acquisition of Lotus in 1995, some industry analysts and mainstream business press writers, along with IBM competitors, have made repeated predictions of the decline or impending demise of IBM Notes and Domino.
+adj/noun : IBM
+n_v : acquisition
+prep : of
+pobj : Lotus
+originalPattern : IBM acquisition of Lotus
+MVO : IBM acquires Lotus
+MVOScore : -27.39237403869629
+OVM : Lotus acquires IBM
+OVMScore : -31.7789134979248
+OVpM : Lotus acquires from IBM
+OVpMScore : -37.25651168823242
+VOpM : acquire Lotus as an IBM
+VOpMScore : -42.53955078125
+VMpO : acquire the IBMs from Lotus
+VMpOScore : -47.05044937133789
+VpMpO : acquire of IBMs of Lotus
+VpMpOScore : -52.8400764465332
+M : the acquisition of Lotus is IBM
+MScore : -46.06650924682617
+V1 : Lotus prevents the IBM acquisition
+V1Score : -46.90788269042969
+V2 : prevent IBM acquisition of Lotus
+V2Score : -43.27687072753906
+MVpOPassive : IBM is acquired by Lotus
+MVpOPassiveScore : -30.88515853881836
+MpOVPassive : IBM of Lotus is acquired
+MpOVPassiveScore : -41.28352355957031
+OVpMPassive : Lotus is acquired by IBM
+OVpMPassiveScore : -33.31072616577148
+gold : IBM acquire Lotus
+reducedGold : ibm acquire lotus 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : IBM acquires Lotus
+reducedParaphrase : ibm acquire lotus 
+adj/noun-label : arg0
+FinalLabel : True
+
+74. sentence : Some Member States, in particular France, and all farming professional organisations wanted to maintain strong state intervention in agriculture.
+adj/noun : state
+n_v : intervention
+prep : in
+pobj : agriculture
+originalPattern : state intervention in agriculture
+MVO : state intervenes agriculture
+MVOScore : -35.84091186523438
+MVpO : states intervene in agriculture
+MVpOScore : -32.74964141845703
+OVM : agriculture intervenes state
+OVMScore : -34.17569351196289
+OVpM : agriculture intervenes in state
+OVpMScore : -33.32877349853516
+VOpM : intervene agriculture in the state
+VOpMScore : -40.33078384399414
+VpOpM : intervene in agriculture in the state
+VpOpMScore : -35.93597793579102
+VMpO : intervene state of agriculture
+VMpOScore : -37.37846374511719
+VpMpO : intervene in the state of agriculture
+VpMpOScore : -36.25380325317383
+M : the intervention in agriculture is state
+MScore : -40.35553359985352
+V1 : agriculture increases the state intervention
+V1Score : -43.24418640136719
+V2 : increase state intervention in agriculture
+V2Score : -35.8299674987793
+MVpOPassive : state is intervened by agriculture
+MVpOPassiveScore : -40.39619064331055
+MpOVPassive : a state in agriculture is intervened
+MpOVPassiveScore : -46.28224945068359
+OVpMPassive : agriculture is intervened by the state
+OVpMPassiveScore : -40.71506881713867
+gold : the state intervene in agriculture
+reducedGold : state intervene in agriculture 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : states intervene in agriculture
+reducedParaphrase : state intervene in agriculture 
+adj/noun-label : arg0
+FinalLabel : True
+
+75. sentence : Sports participation among college women has risen from 372 percent over that time, from 32,000 to more than 150,000 women (McDonagh, Pappano, 2008, 108).
+adj/noun : sports
+n_v : participation
+prep : among
+pobj : college women
+originalPattern : sports participation among college women
+MVO : sports participate college women
+MVOScore : -41.9067497253418
+MVpO : sports participate among college women
+MVpOScore : -46.43968963623047
+OVM : college women participate sports
+OVMScore : -36.78659820556641
+OVpM : college women participate in sports
+OVpMScore : -32.06442260742188
+VOpM : participate college women in sports
+VOpMScore : -38.99470520019531
+VpOpM : participate with college women in sports
+VpOpMScore : -40.14615631103516
+VMpO : participate sports for college women
+VMpOScore : -43.23689270019531
+VpMpO : participate in sports for college women
+VpMpOScore : -39.66275024414062
+M : the participation among college women is sports
+MScore : -53.05059814453125
+V1 : college women have sports participation
+V1Score : -40.20524597167969
+V2 : increase sports participation among college women
+V2Score : -39.99342346191406
+MVpOPassive : sports are participated by college women
+MVpOPassiveScore : -47.15312957763672
+MpOVPassive : the sports among the college women are participated
+MpOVPassiveScore : -56.09598541259766
+OVpMPassive : college women are participated in sports
+OVpMPassiveScore : -40.53820037841797
+gold : college women participate in sports
+reducedGold : college woman participate in sport 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : college women participate in sports
+reducedParaphrase : college woman participate in sport 
+adj/noun-label : arg1
+FinalLabel : True
+
+76. sentence : Texas A&M ranks 13th among U.S. research universities in exchange agreements with institutions abroad and student participation in study abroad programs, and has strong research collaborations with the National Natural Science Foundation of China and many leading universities in China.
+adj/noun : student
+n_v : participation
+prep : in
+pobj : study abroad programs
+originalPattern : student participation in study abroad programs
+MVO : students participate study abroad programs
+MVOScore : -42.69381713867188
+MVpO : students participate in study abroad programs
+MVpOScore : -35.06277847290039
+OVM : study abroad programs participate students
+OVMScore : -40.31968688964844
+OVpM : study abroad programs participate in student
+OVpMScore : -38.6176872253418
+VOpM : participate study abroad programs for students
+VOpMScore : -42.44784545898438
+VpOpM : participate in study abroad programs for students
+VpOpMScore : -37.61301040649414
+VMpO : participate students in study abroad programs
+VMpOScore : -39.89052581787109
+VpMpO : participate as a student in study abroad programs
+VpMpOScore : -39.80950927734375
+M : the participation in study abroad programs is student
+MScore : -49.71823501586914
+V1 : study abroad programs increase the student participation
+V1Score : -45.49802780151367
+V2 : increase student participation in study abroad programs
+V2Score : -39.11593627929688
+MVpOPassive : students are participated in study abroad programs
+MVpOPassiveScore : -43.83092880249023
+MpOVPassive : students in the study abroad programs are participated
+MpOVPassiveScore : -51.45441436767578
+OVpMPassive : study abroad programs are participated by students
+OVpMPassiveScore : -43.92773818969727
+gold : students participate in study abroad programs
+reducedGold : student participate in study abroad program 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : students participate in study abroad programs
+reducedParaphrase : student participate in study abroad program 
+adj/noun-label : arg0
+FinalLabel : True
+
+77. sentence : The Catholic Church leadership was divided between those like Archbishop of Dublin John Charles McQuaid who believed that it was the exclusive right of all parents to provide healthcare for their child, and younger moderates like William Philbin who saw some merit in state assistance to families.
+adj/noun : state
+n_v : assistance
+prep : to
+pobj : families
+originalPattern : state assistance to families
+MVO : state assists families
+MVOScore : -30.02310371398926
+MVpO : state assists to families
+MVpOScore : -32.03769683837891
+OVM : families assist state
+OVMScore : -32.95135116577148
+OVpM : families assist with the state
+OVpMScore : -37.43989944458008
+VOpM : assist families in state
+VOpMScore : -31.98794174194336
+VMpO : assist states with families
+VMpOScore : -34.32540130615234
+VpMpO : assist in the states with families
+VpMpOScore : -42.44090270996094
+M : the assistance to families is state
+MScore : -43.5798225402832
+V1 : families receive state assistance
+V1Score : -32.33283996582031
+V2 : provide state assistance to families
+V2Score : -30.61381530761719
+MVpOPassive : state is assisted by families
+MVpOPassiveScore : -35.50520324707031
+MpOVPassive : states to families are assisted
+MpOVPassiveScore : -43.19458389282227
+OVpMPassive : families are assisted by state
+OVpMPassiveScore : -34.10736083984375
+gold : the state assist families
+reducedGold : state assist family 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : state assists families
+reducedParaphrase : state assist family 
+adj/noun-label : arg0
+FinalLabel : True
+
+80. sentence : The choice to introduce a shrimp burger was no coincidence, as a 1989 study stated that world consumption of shrimp was "led by Japan."
+adj/noun : world
+n_v : consumption
+prep : of
+pobj : shrimp
+originalPattern : world consumption of shrimp
+MVO : world consumes shrimp
+MVOScore : -32.17594146728516
+OVM : shrimp consumes the world
+OVMScore : -33.87320709228516
+OVpM : shrimp consumes throughout the world
+OVpMScore : -37.250732421875
+VOpM : consume shrimp around the world
+VOpMScore : -33.77504730224609
+VpOpM : consume of shrimp in world
+VpOpMScore : -43.55158233642578
+VMpO : consume a world of shrimp
+VMpOScore : -37.29264068603516
+VpMpO : consume in a world of shrimp
+VpMpOScore : -41.24516677856445
+M : the consumption of shrimp is world
+MScore : -40.64572525024414
+V1 : shrimp reduces the world consumption
+V1Score : -43.28764724731445
+V2 : reduce world consumption of shrimp
+V2Score : -38.05124664306641
+MVpOPassive : the world is consumed by shrimp
+MVpOPassiveScore : -34.63890075683594
+MpOVPassive : world of shrimp is consumed
+MpOVPassiveScore : -37.32843780517578
+OVpMPassive : shrimp is consumed throughout the world
+OVpMPassiveScore : -33.38919067382812
+gold : the world consume shrimp
+reducedGold : world consume shrimp 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : world consumes shrimp
+reducedParaphrase : world consume shrimp 
+adj/noun-label : arg0
+FinalLabel : True
+
+83. sentence : The International Helsinki Federation for Human Rights reported that police abuse of suspects, particularly during initial arrest and detention, and police harassment of ethnic minorities is ongoing.
+adj/noun : police
+n_v : abuse
+prep : of
+pobj : suspects
+originalPattern : police abuse of suspects
+MVO : police abuse suspects
+MVOScore : -25.51593589782715
+OVM : suspects abuse police
+OVMScore : -28.47550964355469
+OVpM : suspects hurt by police
+OVpMScore : -30.23652839660645
+VOpM : abuse suspects by police
+VOpMScore : -33.55001831054688
+VpOpM : abuse of suspects by police
+VpOpMScore : -29.79265594482422
+VMpO : abuse police as suspects
+VMpOScore : -32.97032928466797
+VpMpO : abuse by the police against suspects
+VpMpOScore : -34.07167434692383
+M : the abuse of suspects is police
+MScore : -40.01669311523438
+V1 : suspects prevent the police abuse
+V1Score : -40.5495491027832
+V2 : prevent police abuse of suspects
+V2Score : -32.73089981079102
+MVpOPassive : police are abused by suspects
+MVpOPassiveScore : -36.34259033203125
+MpOVPassive : the police of the suspects is abused
+MpOVPassiveScore : -44.97415924072266
+OVpMPassive : suspects are abused by police
+OVpMPassiveScore : -32.17374420166016
+gold : the police abuse suspects
+reducedGold : police abuse suspect 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : police abuse suspects
+reducedParaphrase : police abuse suspect 
+adj/noun-label : arg0
+FinalLabel : True
+
+84. sentence : The National Anthem Project toured the United States in 2006, making "Road Show" stops in every state and Washington, D.C. The Road Shows featured music performances by student ensembles, an interactive education center, and music education advocacy materials.
+adj/noun : music
+n_v : performances
+prep : by
+pobj : student ensembles
+originalPattern : music performances by student ensembles
+MVO : music performs student ensembles
+MVOScore : -43.72273254394531
+MVpO : music performs by student ensembles
+MVpOScore : -47.36280059814453
+OVM : student ensembles perform music
+OVMScore : -41.36348724365234
+OVpM : student ensembles perform with the music
+OVpMScore : -48.7418098449707
+VOpM : perform student ensembles of music
+VOpMScore : -44.58769607543945
+VpOpM : perform with student ensembles of music
+VpOpMScore : -47.59143447875977
+VMpO : perform music with student ensembles
+VMpOScore : -42.37632369995117
+VpMpO : perform to the music of student ensembles
+VpMpOScore : -49.26116943359375
+M : the performances by student ensembles are music
+MScore : -53.16484069824219
+V1 : student ensembles perform music performances
+V1Score : -47.28285980224609
+V2 : facilitate music performances by student ensembles
+V2Score : -50.19973754882812
+MVpOPassive : music is performed by student ensembles
+MVpOPassiveScore : -43.59108352661133
+MpOVPassive : music by the student ensembles is performed
+MpOVPassiveScore : -55.02696990966797
+OVpMPassive : student ensembles are performed with music
+OVpMPassiveScore : -47.76846694946289
+gold : student ensembles perform music
+reducedGold : student ensemble perform music 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : student ensembles perform music
+reducedParaphrase : student ensemble perform music 
+adj/noun-label : arg1
+FinalLabel : True
+
+85. sentence : The road changes names to North Road at Main Street, and county maintenance of the highway resumes at the north village line as CR 61.
+adj/noun : county
+n_v : maintenance
+prep : of
+pobj : the highway
+originalPattern : county maintenance of the highway
+MVO : county maintains the highway
+MVOScore : -35.69419479370117
+OVM : the highway maintains the county
+OVMScore : -37.79500198364258
+OVpM : the highway maintains throughout the county
+OVpMScore : -41.55466079711914
+VOpM : maintain the highway within the county
+VOpMScore : -38.49128341674805
+VpOpM : maintain of the highway through county
+VpOpMScore : -43.52615737915039
+VMpO : maintain counties along the highway
+VMpOScore : -39.25069046020508
+VpMpO : maintain of the counties along the highway
+VpMpOScore : -46.02203750610352
+M : the maintenance of the highway is county
+MScore : -43.13442993164062
+V1 : the highway has a county maintenance
+V1Score : -42.65428161621094
+V2 : maintain county maintenance of the highway
+V2Score : -44.2572135925293
+MVpOPassive : the county is maintained by the highway
+MVpOPassiveScore : -40.39827346801758
+MpOVPassive : the county of the highway is maintained
+MpOVPassiveScore : -41.91899108886719
+OVpMPassive : the highway is maintained by the county
+OVpMPassiveScore : -33.82947540283203
+gold : the county maintain the highway
+reducedGold : county maintain highway 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : county maintains the highway
+reducedParaphrase : county maintain highway 
+adj/noun-label : arg0
+FinalLabel : True
+
+87. sentence : The school year was lengthened, school attendance for children was mandated, and the legislature created a Text Book Commission to assist local school boards in adopting textbooks.
+adj/noun : school
+n_v : attendance
+prep : for
+pobj : children
+originalPattern : school attendance for children
+MVO : school attends children
+MVOScore : -29.49048233032227
+MVpO : school attends for children
+MVpOScore : -32.56477355957031
+OVM : children attend school
+OVMScore : -23.07357025146484
+OVpM : children attend to a school
+OVpMScore : -31.95952224731445
+VOpM : attend children in school
+VOpMScore : -30.16608810424805
+VpOpM : attend to children in school
+VpOpMScore : -31.43232154846191
+VMpO : attend school for children
+VMpOScore : -25.13691329956055
+VpMpO : attend to a school for children
+VpMpOScore : -30.48141098022461
+M : the attendance for children is school
+MScore : -44.19375991821289
+V1 : children lack school attendance
+V1Score : -34.69298553466797
+V2 : increase school attendance for children
+V2Score : -30.59867477416992
+MVpOPassive : school is attended by children
+MVpOPassiveScore : -30.32961845397949
+MpOVPassive : school for the children is attended
+MpOVPassiveScore : -36.22412490844727
+OVpMPassive : children are attended by school
+OVpMPassiveScore : -32.82021713256836
+gold : children attend school
+reducedGold : child attend school 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : children attend school
+reducedParaphrase : child attend school 
+adj/noun-label : arg1
+FinalLabel : True
+
+88. sentence : The team makes home visits to patients to ensure that they continue to receive care for their conditions.
+adj/noun : home
+n_v : visits
+prep : to
+pobj : patients
+originalPattern : home visits to patients
+MVO : home visits patients
+MVOScore : -30.99107360839844
+MVpO : home visits to patients
+MVpOScore : -31.14990997314453
+OVM : patients visit home
+OVMScore : -28.03014755249023
+OVpM : patients visit at home
+OVpMScore : -32.37054061889648
+VOpM : visit patients at home
+VOpMScore : -30.9067325592041
+VpOpM : visit with patients at home
+VpOpMScore : -35.96445083618164
+VMpO : visit the homes of patients
+VMpOScore : -30.57186126708984
+VpMpO : visit to the homes of patients
+VpMpOScore : -35.18719100952148
+M : all visits to patients are home
+MScore : -45.21361923217773
+V1 : patients receive home visits
+V1Score : -30.87792778015137
+V2 : make home visits to patients
+V2Score : -34.96025466918945
+MVpOPassive : home is visited by patients
+MVpOPassiveScore : -34.6260986328125
+MpOVPassive : homes to the patients are visited
+MpOVPassiveScore : -43.69317245483398
+OVpMPassive : patients are visited at home
+OVpMPassiveScore : -33.58377456665039
+gold : visit patients at home
+reducedGold : visit patient at home 
+OriginalHighestScorePattern : VOpM
+HighestScorePattern : VOpM
+HighestScorePatternSentence : visit patients at home
+reducedParaphrase : visit patient at home 
+adj/noun-label : PP
+FinalLabel : True
+
+89. sentence : The total annual river discharge into the sea is 210 km3 and is relatively constant through the year, except for a minor increase in July.
+adj/noun : river
+n_v : discharge
+prep : into
+pobj : the sea
+originalPattern : river discharge into the sea
+MVO : the river discharges the sea
+MVOScore : -35.1746711730957
+MVpO : the river discharges into the sea
+MVpOScore : -30.7040843963623
+OVM : the sea releases a river
+OVMScore : -35.14936828613281
+OVpM : the sea discharges into the river
+OVpMScore : -35.01609802246094
+VOpM : fire the sea in the river
+VOpMScore : -35.27009582519531
+VpOpM : fire in the sea of rivers
+VpOpMScore : -33.81436920166016
+VMpO : fire river of the sea
+VMpOScore : -31.59963417053223
+VpMpO : fire from the river to the sea
+VpMpOScore : -34.68232345581055
+M : the discharge into the sea is river
+MScore : -43.4869499206543
+V1 : the sea makes the river discharge
+V1Score : -39.08815383911133
+V2 : make river discharge into the sea
+V2Score : -37.76314544677734
+MVpOPassive : river is released into the sea
+MVpOPassiveScore : -31.96601867675781
+MpOVPassive : river into the sea is released
+MpOVPassiveScore : -38.07325744628906
+OVpMPassive : the sea is released into the river
+OVpMPassiveScore : -37.20452117919922
+gold : the river discharge into the sea
+reducedGold : river discharge into sea 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : the river discharges into the sea
+reducedParaphrase : river discharge into sea 
+adj/noun-label : arg0
+FinalLabel : True
+
+90. sentence : The UNHCR, which mainly partners with the Syrian Red Crescent, also runs a number of educational, professional development, and psychosocial support programs; it additionally offers food, critical household goods, and direct cash assistance to some refugees.
+adj/noun : cash
+n_v : assistance
+prep : to
+pobj : some refugees
+originalPattern : cash assistance to some refugees
+MVO : cash assists some refugees
+MVOScore : -38.86633682250977
+MVpO : cash assists to some refugees
+MVpOScore : -42.15431594848633
+OVM : some refugees assist cash
+OVMScore : -42.94012451171875
+OVpM : some refugees assist with cash
+OVpMScore : -43.08065795898438
+VOpM : assist some refugees with cash
+VOpMScore : -37.34889602661133
+VpOpM : assist for some refugees with cash
+VpOpMScore : -44.39435577392578
+VMpO : assist cash for some refugees
+VMpOScore : -39.84021759033203
+VpMpO : assist with cash for some refugees
+VpMpOScore : -43.71239852905273
+M : the assistance to some refugees is cash
+MScore : -50.38567352294922
+V1 : some refugees receive some cash assistance
+V1Score : -42.33537292480469
+V2 : provide cash assistance to some refugees
+V2Score : -37.44457626342773
+MVpOPassive : cash is assisted by some refugees
+MVpOPassiveScore : -46.2733154296875
+MpOVPassive : cash to some refugees is assisted
+MpOVPassiveScore : -47.39657211303711
+OVpMPassive : some refugees are assisted with cash
+OVpMPassiveScore : -44.05992126464844
+gold : assist some refugees with cash
+reducedGold : assist refugee with cash 
+OriginalHighestScorePattern : VOpM
+HighestScorePattern : VOpM
+HighestScorePatternSentence : assist some refugees with cash
+reducedParaphrase : assist refugee with cash 
+adj/noun-label : PP
+FinalLabel : True
+
+91. sentence : The warming Arctic climate and summer shrinkage of the iced area has attracted the attention of many countries, such as China and the United States, toward the top of the world, where resources and shipping routes may soon be exploitable.
+adj/noun : summer
+n_v : shrinkage
+prep : of
+pobj : the iced area
+originalPattern : summer shrinkage of the iced area
+MVO : summer shrinks the iced area
+MVOScore : -51.51061248779297
+OVM : the iced area shrinks summer
+OVMScore : -51.33333969116211
+OVpM : the iced area shrinks in summer
+OVpMScore : -49.35412216186523
+VOpM : shrink the iced area in the summer
+VOpMScore : -52.33769226074219
+VpOpM : shrink of the iced area in summer
+VpOpMScore : -53.36748123168945
+VMpO : shrink summer in the iced area
+VMpOScore : -53.61186599731445
+VpMpO : shrink in summer in the iced area
+VpMpOScore : -55.49661636352539
+M : the shrinkage of the iced area is summer
+MScore : -58.44623947143555
+V1 : the iced area experiences a summer shrinkage
+V1Score : -64.2342758178711
+V2 : prevent summer shrinkage of the iced area
+V2Score : -60.43572616577148
+MVpOPassive : summer is shrunk by the iced area
+MVpOPassiveScore : -62.56671524047852
+MpOVPassive : summer of the iced area is shrunk
+MpOVPassiveScore : -60.90223693847656
+OVpMPassive : the iced area is shrunk in the summer
+OVpMPassiveScore : -53.78728866577148
+gold : the iced area shrink in the summer
+reducedGold : iced area shrink in summer 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : the iced area shrinks in summer
+reducedParaphrase : iced area shrink in summer 
+adj/noun-label : PP
+FinalLabel : True
+
+93. sentence : The family control of the firm (later Longmans, Green & Co.) was continued by Thomas Norton Longman, son of Thomas Longman.
+adj/noun : family
+n_v : control
+prep : of
+pobj : the firm
+originalPattern : family control of the firm
+MVO : the family controls the firm
+MVOScore : -33.94229888916016
+OVM : the firm control family
+OVMScore : -34.84737014770508
+OVpM : the firm control of the family
+OVpMScore : -36.12433242797852
+VOpM : control the firm as a family
+VOpMScore : -38.74484252929688
+VpOpM : control of the firm as a family
+VpOpMScore : -38.96730422973633
+VMpO : control family of the firm
+VMpOScore : -34.86534118652344
+VpMpO : control of the family of the firm
+VpMpOScore : -38.82552719116211
+M : the control of the firm is family
+MScore : -41.42636108398438
+V1 : the firm have the family control
+V1Score : -43.83592987060547
+V2 : maintain family control of the firm
+V2Score : -41.66740417480469
+MVpOPassive : family is controlled by the firm
+MVpOPassiveScore : -34.96865463256836
+MpOVPassive : the family of the firm is controlled
+MpOVPassiveScore : -41.22898483276367
+OVpMPassive : the firm are controlled by the family
+OVpMPassiveScore : -38.91275024414062
+gold : the family control the firm
+reducedGold : family control firm 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : the family controls the firm
+reducedParaphrase : family control firm 
+adj/noun-label : arg0
+FinalLabel : True
+
+94. sentence : The power consumption of a vacuum cleaner, in watts, is often the only figure stated.
+adj/noun : power
+n_v : consumption
+prep : of
+pobj : a vacuum cleaner
+originalPattern : power consumption of a vacuum cleaner
+MVO : power consumes a vacuum cleaner
+MVOScore : -35.81893920898438
+OVM : a vacuum cleaner consumes power
+OVMScore : -34.71913146972656
+OVpM : a vacuum cleaner consumes as a power
+OVpMScore : -45.512451171875
+VOpM : consume a vacuum cleaner for power
+VOpMScore : -38.55877304077148
+VpOpM : consume of a vacuum cleaner for power
+VpOpMScore : -44.29093170166016
+VMpO : consume the power of a vacuum cleaner
+VMpOScore : -33.92325592041016
+VpMpO : consume with the powers of a vacuum cleaner
+VpMpOScore : -42.52347564697266
+M : the consumption of a vacuum cleaner is power
+MScore : -43.64893341064453
+V1 : a vacuum cleaner reduces the power consumption
+V1Score : -35.61355590820312
+V2 : reduce power consumption of a vacuum cleaner
+V2Score : -34.84006500244141
+MVpOPassive : power is consumed by a vacuum cleaner
+MVpOPassiveScore : -36.59760665893555
+MpOVPassive : power of a vacuum cleaner is consumed
+MpOVPassiveScore : -38.49911117553711
+OVpMPassive : a vacuum cleaner is consumed by power
+OVpMPassiveScore : -39.58001327514648
+gold : a vacuum cleaner consume power
+reducedGold : vacuum cleaner consume power 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : a vacuum cleaner consumes power
+reducedParaphrase : vacuum cleaner consume power 
+adj/noun-label : arg1
+FinalLabel : True
+
+95. sentence : There is, also present, sporadic rains and cyclical floods which result in water erosion of the terrain, which made some parts of the valley uninhabitable, which influenced the settlement pattern of Cahuachi.
+adj/noun : water
+n_v : erosion
+prep : of
+pobj : the terrain
+originalPattern : water erosion of the terrain
+MVO : water erodes the terrain
+MVOScore : -35.47966766357422
+OVM : the terrain erodes the water
+OVMScore : -37.32907104492188
+OVpM : the terrain erodes by water
+OVpMScore : -40.18356704711914
+VOpM : erode the terrain with water
+VOpMScore : -34.38573455810547
+VpOpM : erode of the terrain with water
+VpOpMScore : -42.14094924926758
+VMpO : erode the waters of the terrain
+VMpOScore : -39.88089752197266
+VpMpO : erode of water in the terrain
+VpMpOScore : -41.45945358276367
+M : the erosion of the terrain is water
+MScore : -41.72880172729492
+V1 : the terrain has water erosion
+V1Score : -35.12607574462891
+V2 : prevent water erosion of the terrain
+V2Score : -38.54080963134766
+MVpOPassive : water is eroded from the terrain
+MVpOPassiveScore : -37.55224990844727
+MpOVPassive : water of the the terrain is eroded
+MpOVPassiveScore : -45.8913688659668
+OVpMPassive : the terrain is eroded by water
+OVpMPassiveScore : -33.12212371826172
+gold : water erode the terrain
+reducedGold : water erode terrain 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : water erodes the terrain
+reducedParaphrase : water erode terrain 
+adj/noun-label : arg0
+FinalLabel : True
+
+98. sentence : Waste and sewage are two major problems for cities, as is air pollution from various forms of combustion, including fireplaces, wood or coal-burning stoves, other heating systems, and internal combustion engines.
+adj/noun : air
+n_v : pollution
+prep : from
+pobj : various forms of combustion
+originalPattern : air pollution from various forms of combustion
+MVO : airs air various forms of combustion
+MVOScore : -45.96876525878906
+MVpO : air pollutes from various forms of combustion
+MVpOScore : -46.1466178894043
+OVM : various forms of combustion pollutes the air
+OVMScore : -48.37997055053711
+OVpM : various forms of combustion airs in the air
+OVpMScore : -51.24615097045898
+VOpM : air various forms of combustion in the air
+VOpMScore : -39.44075012207031
+VpOpM : pollute from various forms of combustion in the air
+VpOpMScore : -51.66154098510742
+VMpO : air air in various forms of combustion
+VMpOScore : -41.91233825683594
+VpMpO : air as air in various forms of combustion
+VpMpOScore : -43.54006576538086
+M : the pollution from various forms of combustion is air
+MScore : -47.89552688598633
+V1 : various forms of combustion includes air pollution
+V1Score : -49.84589004516602
+V2 : reduce air pollution from various forms of combustion
+V2Score : -39.57229614257812
+MVpOPassive : air is polluted by various forms of combustion
+MVpOPassiveScore : -40.31304168701172
+MpOVPassive : the air from the various forms of combustion is polluted
+MpOVPassiveScore : -50.02777099609375
+OVpMPassive : various forms of combustion is polluted by air
+OVpMPassiveScore : -53.77372360229492
+gold : various forms of combustion pollute the air
+reducedGold : various form of combustion pollute air 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : various forms of combustion pollutes the air
+reducedParaphrase : various form of combustion pollute air 
+adj/noun-label : arg1
+FinalLabel : True
+
+99. sentence : While historically presidents initiated the process for going to war, they asked for and received formal war declarations from Congress for the War of 1812, the Mexican–American War, the Spanish–American War, World War I, and World War II, although President Theodore Roosevelt's military move into Panama in 1903 did not get congressional approval.
+adj/noun : war
+n_v : declarations
+prep : from
+pobj : Congress
+originalPattern : war declarations from Congress
+MVO : war declares Congress
+MVOScore : -31.87849426269531
+MVpO : war declares from Congress
+MVpOScore : -36.50651168823242
+OVM : Congress declares war
+OVMScore : -19.91846656799316
+OVpM : Congress declares for a war
+OVpMScore : -33.78307723999023
+VOpM : declare Congress at war
+VOpMScore : -33.54698181152344
+VpOpM : declare by Congress into a war
+VpOpMScore : -45.80458450317383
+VMpO : declare war on Congress
+VMpOScore : -25.84378242492676
+VpMpO : declare of a war on Congress
+VpMpOScore : -36.57688522338867
+M : the declarations from Congress are war
+MScore : -43.15059661865234
+V1 : Congress issues the war declarations
+V1Score : -39.33792495727539
+V2 : obtain war declarations from Congress
+V2Score : -43.40957260131836
+MVpOPassive : war is declared by Congress
+MVpOPassiveScore : -32.37953567504883
+MpOVPassive : war from the Congress is declared
+MpOVPassiveScore : -40.58985900878906
+OVpMPassive : Congress is declared as a war
+OVpMPassiveScore : -34.42976379394531
+gold : Congress declare war
+reducedGold : congress declare war 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : Congress declares war
+reducedParaphrase : congress declare war 
+adj/noun-label : arg1
+FinalLabel : True
+
+100. sentence : Winter maintenance of roads and streets is managed by a local authority.
+adj/noun : winter
+n_v : maintenance
+prep : of
+pobj : roads and streets
+originalPattern : winter maintenance of roads and streets
+MVO : winter maintains roads and streets
+MVOScore : -43.16804885864258
+OVM : roads and streets maintain winter
+OVMScore : -42.51413726806641
+OVpM : roads and streets maintain during the winter
+OVpMScore : -44.58347702026367
+VOpM : maintain roads and streets in winter
+VOpMScore : -42.34392166137695
+VMpO : maintain winters on roads and streets
+VMpOScore : -44.65420913696289
+VpMpO : maintain during the winter on roads and streets
+VpMpOScore : -46.80047607421875
+M : the maintenance of roads and streets is winter
+MScore : -48.34939956665039
+V1 : roads and streets require winter maintenance
+V1Score : -44.79761505126953
+V2 : provide winter maintenance of roads and streets
+V2Score : -46.05524826049805
+MVpOPassive : winters are maintained by roads and streets
+MVpOPassiveScore : -46.76563262939453
+MpOVPassive : winters of the roads and streets are maintained
+MpOVPassiveScore : -48.23210906982422
+OVpMPassive : roads and streets are maintained during the winter
+OVpMPassiveScore : -41.4581184387207
+gold : maintain roads and streets during winter
+reducedGold : maintain road and street during winter 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : maintain roads and streets during winter
+reducedParaphrase : maintain road and street during winter 
+adj/noun-label : PP
+FinalLabel : True
+
+101. sentence : Written by and named after Senator Caleb H. Baumes, the chairman of the New York State Crime Commission, the law called for the automatic life imprisonment of any criminal convicted of more than three separate felonies, without regard to the nature of the offense or any attendant circumstances.
+adj/noun : life
+n_v : imprisonment
+prep : of
+pobj : any criminal
+originalPattern : life imprisonment of any criminal
+MVO : life imprisons any criminal
+MVOScore : -39.65876388549805
+OVM : any criminal imprisons life
+OVMScore : -43.89461517333984
+OVpM : any criminal imprisons for life
+OVpMScore : -44.76605987548828
+VOpM : imprison any criminal for life
+VOpMScore : -32.7342643737793
+VpOpM : imprison of any criminal for life
+VpOpMScore : -37.91454696655273
+VMpO : imprison the life of any criminal
+VMpOScore : -35.76922988891602
+VpMpO : imprison for life of any criminal
+VpMpOScore : -36.87400054931641
+M : the imprisonment of any criminal is life
+MScore : -42.21213912963867
+V1 : any criminal faces a life imprisonment
+V1Score : -41.15898513793945
+V2 : avoid life imprisonment of any criminal
+V2Score : -40.34188461303711
+MVpOPassive : life is imprisoned for any criminal
+MVpOPassiveScore : -40.63105773925781
+MpOVPassive : the life of any criminal is imprisoned
+MpOVPassiveScore : -40.07496643066406
+OVpMPassive : any criminal is imprisoned for life
+OVpMPassiveScore : -33.62773132324219
+gold : imprison any criminal for life
+reducedGold : imprison criminal for life 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : imprison any criminal for life
+reducedParaphrase : imprison criminal for life 
+adj/noun-label : PP
+FinalLabel : True
+
+102. sentence : A 2007 NASA analysis of impact avoidance strategies using various technologies stated://A 2007 NASA analysis of impact avoidance strategies using various technologies stated:
+adj/noun : NASA
+n_v : analysis
+prep : of
+pobj : impact avoidance strategies
+originalPattern : NASA analysis of impact avoidance strategies//NASA analysis of impact avoidance strategies
+MVO : NASA analyzes impact avoidance strategies//NASA analyzes impact avoidance strategies
+MVOScore : -42.50646209716797//-42.50646209716797
+MVpO : //
+MVpOScore : //
+OVM : impact avoidance strategies analyze NASA//impact avoidance strategies analyze NASA
+OVMScore : -53.40659713745117//-53.40659713745117
+OVpM : impact avoidance strategies analyze by NASA//impact avoidance strategies analyze by NASA
+OVpMScore : -60.18986892700195//-60.18986892700195
+VOpM : analyze impact avoidance strategies for NASA//analyze impact avoidance strategies for NASA
+VOpMScore : -52.98952865600586//-52.98952865600586
+VpOpM : //
+VpOpMScore : //
+VMpO : analyse NASAs for impact avoidance strategies//analyse NASAs for impact avoidance strategies
+VMpOScore : -62.68482208251953//-62.68482208251953
+VpMpO : //
+VpMpOScore : //
+M : an analysis of impact avoidance strategies is NASA//an analysis of impact avoidance strategies is NASA
+MScore : -55.6590690612793//-55.6590690612793
+V1 : impact avoidance strategies provide a NASA analysis//impact avoidance strategies provide a NASA analysis
+V1Score : -57.23986434936523//-57.23986434936523
+V2 : provide NASA analysis of impact avoidance strategies//provide NASA analysis of impact avoidance strategies
+V2Score : -52.65351486206055//-52.65351486206055
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : NASA is analyzed for impact avoidance strategies//NASA is analyzed for impact avoidance strategies
+MVpOPassiveScore : -49.9224739074707//-49.9224739074707
+MpOVPassive : NASA of the impact avoidance strategies is analyzed//NASA of the impact avoidance strategies is analyzed
+MpOVPassiveScore : -63.27862548828125//-63.27862548828125
+OVpMPassive : impact avoidance strategies are analyzed by NASA//impact avoidance strategies are analyzed by NASA
+OVpMPassiveScore : -54.40439987182617//-54.40439987182617
+gold : NASA analyze impact avoidance strategies//NASA analyse impact avoidance strategies
+reducedGold : nasa analyze impact avoidance strategy //nasa analyse impact avoidance strategy 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : NASA analyzes impact avoidance strategies//NASA analyzes impact avoidance strategies
+reducedParaphrase : nasa analyze impact avoidance strategy //nasa analyze impact avoidance strategy 
+adj/noun-label : arg0//arg0
+FinalLabel : True
+
+104. sentence : Abolition of the rule has been accomplished by enactment of statutory criminal codes, which had the effect of displacing the common-law definitions of crimes and corresponding defenses.
+adj/noun : common-law
+n_v : definitions
+prep : of
+pobj : crime
+originalPattern : common law definitions of crime
+MVO : the common law defines crime
+MVOScore : -32.56270599365234
+OVM : crime defines common law
+OVMScore : -33.18709564208984
+OVpM : crime defines in the common law
+OVpMScore : -38.04197692871094
+VOpM : define crime in common law
+VOpMScore : -45.72293853759766
+VMpO : define common law as crime
+VMpOScore : -45.24164581298828
+VpMpO : define in common law as crime
+VpMpOScore : -50.42132186889648
+M : the definitions of crime are common law
+MScore : -42.05419921875
+V1 : crime establishes the common law definitions
+V1Score : -42.02375411987305
+V2 : establish common law definitions of crime
+V2Score : -38.61861038208008
+MVpOPassive : the common law is defined as crime
+MVpOPassiveScore : -37.44828796386719
+MpOVPassive : common law of crime is defined
+MpOVPassiveScore : -38.63791656494141
+OVpMPassive : crime is defined by the common law
+OVpMPassiveScore : -30.63521003723145
+gold : the common law define crime
+reducedGold : common law define crime 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : the common law defines crime
+reducedParaphrase : common law define crime 
+adj/noun-label : arg0
+FinalLabel : True
+
+105. sentence : After this the legislation did prevent a cash distribution to members of less than two years standing, but the same result was obtained by permitting the issue of 'free' shares in the acquiring Plc, saleable for cash.
+adj/noun : cash
+n_v : distribution
+prep : to
+pobj : members
+originalPattern : cash distribution to members
+MVO : cash distributes members
+MVOScore : -32.2298469543457
+MVpO : cash distributes to members
+MVpOScore : -31.41357803344727
+OVM : members distribute cash
+OVMScore : -28.4514274597168
+OVpM : members distribute in cash
+OVpMScore : -35.26038360595703
+VOpM : distribute members with cash
+VOpMScore : -36.46107864379883
+VpOpM : distribute to members with cash
+VpOpMScore : -37.62796401977539
+VMpO : distribute cash to members
+VMpOScore : -32.06093597412109
+VpMpO : distribute in cash to members
+VpMpOScore : -37.13035583496094
+M : the distribution to members is cash
+MScore : -42.57382202148438
+V1 : members receive a cash distribution
+V1Score : -35.41275405883789
+V2 : provide cash distribution to members
+V2Score : -34.00475311279297
+MVpOPassive : cash is distributed to members
+MVpOPassiveScore : -31.15441131591797
+MpOVPassive : cash to the members is distributed
+MpOVPassiveScore : -37.59475326538086
+OVpMPassive : members are distributed in cash
+OVpMPassiveScore : -34.46250915527344
+gold : distribute cash to members
+reducedGold : distribute cash to member 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO
+HighestScorePatternSentence : distribute cash to members
+reducedParaphrase : distribute cash to member 
+adj/noun-label : PP
+FinalLabel : True
+
+112. sentence : Most drugs are rated by the Food and Drug Administration to a pregnancy category, which is a government assessment of the risk to the fetus that drug use by the mother incurs.
+adj/noun : government
+n_v : assessment
+prep : of
+pobj : the risk
+originalPattern : government assessment of the risk
+MVO : government assesses the risk
+MVOScore : -25.87402153015137
+OVM : the risk assesses government
+OVMScore : -37.90504837036133
+OVpM : the risk assesses by the government
+OVpMScore : -40.02198028564453
+VOpM : assess the risk to government
+VOpMScore : -34.39187240600586
+VpOpM : assess for the risk to government
+VpOpMScore : -42.50986862182617
+VMpO : assess the government for the risk
+VMpOScore : -39.18160247802734
+VpMpO : assess by government for the risk
+VpMpOScore : -44.94565582275391
+M : the assessment of the risk is government
+MScore : -43.63397979736328
+V1 : the risk provides a government assessment
+V1Score : -42.15510940551758
+V2 : provide government assessment of the risk
+V2Score : -36.89662551879883
+MVpOPassive : government is assessed for the risk
+MVpOPassiveScore : -36.94511795043945
+MpOVPassive : government of the risk is assessed
+MpOVPassiveScore : -39.96949005126953
+OVpMPassive : the risk is assessed by the government
+OVpMPassiveScore : -35.31535720825195
+gold : the government assess the risk
+reducedGold : government assess risk 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : government assesses the risk
+reducedParaphrase : government assess risk 
+adj/noun-label : arg0
+FinalLabel : True
+
+114. sentence : Since each case is different, court interpretations of the statutory law gets evolved and have either narrowed or widened their scope.
+adj/noun : court
+n_v : interpretations
+prep : of
+pobj : the statutory law
+originalPattern : court interpretations of the statutory law
+MVO : the court interprets the statutory law
+MVOScore : -35.29101181030273
+OVM : the statutory law interprets the court
+OVMScore : -41.65275955200195
+OVpM : the statutory law interprets as a court
+OVpMScore : -45.0821533203125
+VOpM : interpret the statutory law in court
+VOpMScore : -40.36760330200195
+VpOpM : interpret of the statutory law in court
+VpOpMScore : -43.93580627441406
+VMpO : interpret courts of the statutory law
+VMpOScore : -45.05315780639648
+VpMpO : interpret in court of the statutory law
+VpMpOScore : -47.62981414794922
+M : the interpretations of the statutory law are court
+MScore : -48.37207794189453
+V1 : the statutory law requires the court interpretations
+V1Score : -50.07671737670898
+V2 : ensure court interpretations of the statutory law
+V2Score : -45.4138069152832
+MVpOPassive : the court is interpreted by the statutory law
+MVpOPassiveScore : -44.34273910522461
+MpOVPassive : the courts of the statutory law are interpreted
+MpOVPassiveScore : -49.75588607788086
+OVpMPassive : the statutory law is interpreted by the courts
+OVpMPassiveScore : -39.39702987670898
+gold : the court interpret the statutory law
+reducedGold : court interpret statutory law 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : the court interprets the statutory law
+reducedParaphrase : court interpret statutory law 
+adj/noun-label : arg0
+FinalLabel : True
+
+115. sentence : The field of psychology has long been fascinated with the personality assessment of dictators, a notion that resulted in an extensive personality evaluation of Kim Jong-il.
+adj/noun : personality
+n_v : assessment
+prep : of
+pobj : dictators
+originalPattern : personality assessment of dictators
+MVO : personality assesses dictators
+MVOScore : -40.00057601928711
+OVM : dictators assess personalities
+OVMScore : -33.21274948120117
+OVpM : dictators assess on the personality
+OVpMScore : -41.66484069824219
+VOpM : assess dictators of personality
+VOpMScore : -45.35370254516602
+VpOpM : assess of dictators of personalities
+VpOpMScore : -53.4073600769043
+VMpO : assess the personalities of dictators
+VMpOScore : -39.83148574829102
+VpMpO : assess on the personality of dictators
+VpMpOScore : -46.81458282470703
+M : the assessment of dictators is personality
+MScore : -50.50189590454102
+V1 : dictators improve the personality assessment
+V1Score : -43.77949523925781
+V2 : improve personality assessment of dictators
+V2Score : -46.84165954589844
+MVpOPassive : personality is assessed by dictators
+MVpOPassiveScore : -41.26074600219727
+MpOVPassive : personality of the dictators is assessed
+MpOVPassiveScore : -43.28169250488281
+OVpMPassive : dictators are assessed by personality
+OVpMPassiveScore : -37.58047485351562
+gold : assess the personality of dictators
+reducedGold : assess personality of dictator 
+OriginalHighestScorePattern : VMpO
+HighestScorePattern : VMpO
+HighestScorePatternSentence : assess the personalities of dictators
+reducedParaphrase : assess personality of dictator 
+adj/noun-label : arg1
+FinalLabel : True
+
+116. sentence : The memoranda documented intelligence assessments of the terrorist threats to the United States and to U.S. interests abroad from al-Qa'ida and affiliated terrorist organizations.
+adj/noun : intelligence
+n_v : assessments
+prep : of
+pobj : the terrorist threats
+originalPattern : intelligence assessments of the terrorist threats
+MVO : intelligence assesses the terrorist threats
+MVOScore : -34.78535461425781
+OVM : the terrorist threats assess the intelligence
+OVMScore : -40.33147811889648
+OVpM : the terrorist threats assess by the intelligence
+OVpMScore : -43.74980926513672
+VOpM : assess the terrorist threats through intelligence
+VOpMScore : -44.10404968261719
+VpOpM : assess on the terrorist threats through intelligence
+VpOpMScore : -51.19354629516602
+VMpO : assess intelligence on the terrorist threats
+VMpOScore : -39.71041107177734
+VpMpO : assess on the intelligence of the terrorist threats
+VpMpOScore : -48.34737014770508
+M : the assessments of the terrorist threats are intelligence
+MScore : -54.21905136108398
+V1 : the terrorist threats conduct the intelligence assessments
+V1Score : -49.4305534362793
+V2 : conduct intelligence assessments of the terrorist threats
+V2Score : -42.83428573608398
+MVpOPassive : intelligence is assessed on the terrorist threats
+MVpOPassiveScore : -45.36829376220703
+MpOVPassive : intelligence of all the terrorist threats is assessed
+MpOVPassiveScore : -49.02033233642578
+OVpMPassive : the terrorist threats are assessed by intelligence
+OVpMPassiveScore : -41.6786003112793
+gold : the intelligence assess the terrorist threats
+reducedGold : intelligence assess terrorist threat 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : intelligence assesses the terrorist threats
+reducedParaphrase : intelligence assess terrorist threat 
+adj/noun-label : arg0
+FinalLabel : True
+
+118. sentence : This changed, however, after the UN definition of torture was outlined in detail in the 1984 Convention Against Torture (CAT).
+adj/noun : UN
+n_v : definition
+prep : of
+pobj : torture
+originalPattern : UN definition of torture
+MVO : UN defines torture
+MVOScore : -25.78524780273438
+OVM : torture defines UN
+OVMScore : -37.26802825927734
+OVpM : torture defines by the UN
+OVpMScore : -42.46842956542969
+VOpM : define torture under UN
+VOpMScore : -40.86797332763672
+VMpO : define UNs as torture
+VMpOScore : -46.43307495117188
+VpMpO : define by the UN as torture
+VpMpOScore : -52.63393783569336
+M : the definition of torture is UN
+MScore : -35.58029556274414
+V1 : torture alters the UN definition
+V1Score : -45.26041793823242
+V2 : alter UN definition of torture
+V2Score : -39.41682434082031
+MVpOPassive : UN is defined as torture
+MVpOPassiveScore : -36.58691787719727
+MpOVPassive : UN of torture is defined
+MpOVPassiveScore : -39.91395568847656
+OVpMPassive : torture is defined by the UN
+OVpMPassiveScore : -33.21869659423828
+gold : The UN define torture
+reducedGold : un define torture 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : UN defines torture
+reducedParaphrase : un define torture 
+adj/noun-label : arg0
+FinalLabel : True
+
+126. sentence : Changes in government approaches towards education meant that it was no longer regarded adequate for a child to leave education aged 14, as that is the age when they were seen to really understand and appreciate the value of education, as well as being the period when adolescence was at its height.
+adj/noun : government
+n_v : approaches
+prep : towards
+pobj : education
+originalPattern : government approaches towards education
+MVO : government approaches education
+MVOScore : -29.60249519348145
+MVpO : governments approach towards education
+MVpOScore : -36.39546203613281
+OVM : education approaches government
+OVMScore : -33.12138366699219
+OVpM : education approaches to government
+OVpMScore : -32.45806884765625
+VOpM : approach education in government
+VOpMScore : -35.63775634765625
+VpOpM : approach to education in government
+VpOpMScore : -31.72758293151855
+VMpO : approach governments on education
+VMpOScore : -32.99929428100586
+VpMpO : approach to government in education
+VpMpOScore : -33.56722640991211
+M : the approaches towards education are government
+MScore : -46.19363403320312
+V1 : education improves government approaches
+V1Score : -39.52217864990234
+V2 : improve government approaches towards education
+V2Score : -41.30768585205078
+MVpOPassive : governments are approached for education
+MVpOPassiveScore : -38.47829818725586
+MpOVPassive : government towards education is approached
+MpOVPassiveScore : -43.08974456787109
+OVpMPassive : education is approached by the government
+OVpMPassiveScore : -37.19834136962891
+gold : the government approach education
+reducedGold : government approach education 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : government approaches education
+reducedParaphrase : government approach education 
+adj/noun-label : arg0
+FinalLabel : True
+
+137. sentence : After a brief family relocation to Manchester, Georgiana moved on her marriage into Russell Street in 1860.//After a brief family relocation to Manchester, Georgiana moved on her marriage into Russell Street in 1860.
+adj/noun : family
+n_v : relocation
+prep : to
+pobj : Manchester
+originalPattern : family relocation to Manchester//family relocation to Manchester
+MVO : family relocates Manchester//family relocates Manchester
+MVOScore : -38.08220291137695//-38.08220291137695
+MVpO : families relocate to Manchester//families relocate to Manchester
+MVpOScore : -35.12690353393555//-35.12690353393555
+OVM : Manchester relocates family//Manchester relocates family
+OVMScore : -35.97383117675781//-35.97383117675781
+OVpM : Manchester relocates to family//Manchester relocates to family
+OVpMScore : -39.31129837036133//-39.31129837036133
+VOpM : relocate Manchester with family//relocate Manchester with family
+VOpMScore : -42.82666397094727//-42.82666397094727
+VpOpM : relocate to Manchester with family//relocate to Manchester with family
+VpOpMScore : -41.38517379760742//-41.38517379760742
+VMpO : relocate family to Manchester//relocate family to Manchester
+VMpOScore : -37.4088134765625//-37.4088134765625
+VpMpO : relocate with the family to Manchester//relocate with the family to Manchester
+VpMpOScore : -42.44258499145508//-42.44258499145508
+M : the relocation to Manchester is family//the relocation to Manchester is family
+MScore : -43.9370231628418//-43.9370231628418
+V1 : Manchester follows a family relocation//Manchester follows a family relocation
+V1Score : -40.37008285522461//-40.37008285522461
+V2 : prevent family relocation to Manchester//prevent family relocation to Manchester
+V2Score : -42.62335205078125//-42.62335205078125
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : the family is relocated to Manchester//the family is relocated to Manchester
+MVpOPassiveScore : -35.67210388183594//-35.67210388183594
+MpOVPassive : family to Manchester is relocated//family to Manchester is relocated
+MpOVPassiveScore : -44.49761581420898//-44.49761581420898
+OVpMPassive : Manchester is relocated to family//Manchester is relocated to family
+OVpMPassiveScore : -40.35072708129883//-40.35072708129883
+gold : the family relocate to Manchester//relocate family to Manchester
+reducedGold : family relocate to manchester //relocate family to manchester 
+OriginalHighestScorePattern : MVpO//MVpO
+HighestScorePattern : MVpO//MVpO
+HighestScorePatternSentence : families relocate to Manchester//families relocate to Manchester
+reducedParaphrase : family relocate to manchester //family relocate to manchester 
+adj/noun-label : arg0//arg1
+FinalLabel : True
+
+141. sentence : As the sole criterion for student admissions into universities in Iran, Concours has gone through many phases.//As the sole criterion for student admissions into universities in Iran, Concours has gone through many phases.
+adj/noun : student
+n_v : admissions
+prep : into
+pobj : universities in Iran
+originalPattern : student admissions into universities in Iran//student admissions into universities in Iran
+MVO : student admits universities in Iran//student admits universities in Iran
+MVOScore : -44.00540542602539//-44.00540542602539
+MVpO : students admit into universities in Iran//students admit into universities in Iran
+MVpOScore : -47.41751098632812//-47.41751098632812
+OVM : universities in Iran admits students//universities in Iran admits students
+OVMScore : -43.80644607543945//-43.80644607543945
+OVpM : universities in Iran admits to the student//universities in Iran admits to the student
+OVpMScore : -52.12393951416016//-52.12393951416016
+VOpM : admit universities in Iran for students//admit universities in Iran for students
+VOpMScore : -51.31694793701172//-51.31694793701172
+VpOpM : admit to universities in Iran as a student//admit to universities in Iran as a student
+VpOpMScore : -51.41044616699219//-51.41044616699219
+VMpO : admit students to universities in Iran//admit students to universities in Iran
+VMpOScore : -41.98487091064453//-41.98487091064453
+VpMpO : admit of student to universities in Iran//admit of student to universities in Iran
+VpMpOScore : -52.63777542114258//-52.63777542114258
+M : the admissions into universities in Iran are student//the admissions into universities in Iran are student
+MScore : -55.96659088134766//-55.96659088134766
+V1 : universities in Iran regulates the student admissions//universities in Iran regulates the student admissions
+V1Score : -57.40060043334961//-57.40060043334961
+V2 : encourage student admissions into universities in Iran//encourage student admissions into universities in Iran
+V2Score : -50.1876220703125//-50.1876220703125
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : students are admitted to universities in Iran//students are admitted to universities in Iran
+MVpOPassiveScore : -39.09439849853516//-39.09439849853516
+MpOVPassive : students into the universities in Iran are admitted//students into the universities in Iran are admitted
+MpOVPassiveScore : -52.68579483032227//-52.68579483032227
+OVpMPassive : universities in Iran is admitted to students//universities in Iran is admitted to students
+OVpMPassiveScore : -50.38801956176758//-50.38801956176758
+gold : universities in Iran admit students//admit students to universities in Iran
+reducedGold : university in iran admit student //admit student to university in iran 
+OriginalHighestScorePattern : MVpOPassive//MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO//MVpOPassiveVMpO
+HighestScorePatternSentence : admit students to universities in Iran//admit students to universities in Iran
+reducedParaphrase : admit student to university in iran //admit student to university in iran 
+adj/noun-label : arg1//arg1
+FinalLabel : True
+
+142. sentence : At the time, Island Volunteers itself had been criticised for cutting other services so it could concentrate on Solent TV, including removing a service that offered free home improvements for elderly people.//At the time, Island Volunteers itself had been criticised for cutting other services so it could concentrate on Solent TV, including removing a service that offered free home improvements for elderly people.
+adj/noun : home
+n_v : improvements
+prep : for
+pobj : elderly people
+originalPattern : home improvements for elderly people//home improvements for elderly people
+MVO : home improves elderly people//home improves elderly people
+MVOScore : -36.76057434082031//-36.76057434082031
+MVpO : home improves for elderly people//home improves for elderly people
+MVpOScore : -36.94946670532227//-36.94946670532227
+OVM : elderly people improve home//elderly people improve home
+OVMScore : -37.6707763671875//-37.6707763671875
+OVpM : elderly people improve at home//elderly people improve at home
+OVpMScore : -39.10125350952148//-39.10125350952148
+VOpM : improve elderly people at home//improve elderly people at home
+VOpMScore : -33.87976837158203//-33.87976837158203
+VpOpM : improve for elderly people at home//improve for elderly people at home
+VpOpMScore : -39.39398193359375//-39.39398193359375
+VMpO : improve homes for elderly people//improve homes for elderly people
+VMpOScore : -32.42911911010742//-32.42911911010742
+VpMpO : improve of the homes of elderly people//improve of the homes of elderly people
+VpMpOScore : -40.39472579956055//-40.39472579956055
+M : the improvements for elderly people are home//the improvements for elderly people are home
+MScore : -50.20625305175781//-50.20625305175781
+V1 : elderly people make some home improvements//elderly people make some home improvements
+V1Score : -42.33724975585938//-42.33724975585938
+V2 : promote home improvements for elderly people//promote home improvements for elderly people
+V2Score : -40.38372421264648//-40.38372421264648
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : homes are improved for elderly people//homes are improved for elderly people
+MVpOPassiveScore : -38.68642807006836//-38.68642807006836
+MpOVPassive : homes for the elderly people are improved//homes for the elderly people are improved
+MpOVPassiveScore : -44.3815803527832//-44.3815803527832
+OVpMPassive : elderly people are improved at home//elderly people are improved at home
+OVpMPassiveScore : -41.43416213989258//-41.43416213989258
+gold : improve the homes of elderly people//improve homes for elderly people
+reducedGold : improve home of elderly people //improve home for elderly people 
+OriginalHighestScorePattern : MVpOPassive//MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO//MVpOPassiveVMpO
+HighestScorePatternSentence : improve homes for elderly people//improve homes for elderly people
+reducedParaphrase : improve home for elderly people //improve home for elderly people 
+adj/noun-label : arg1//arg1
+FinalLabel : True
+
+143. sentence : Both had heard composer and music critic Deems Taylor provide intermission commentary during radio broadcasts of the New York Philharmonic, and agreed he would be most suitable for the role.//Both had heard composer and music critic Deems Taylor provide intermission commentary during radio broadcasts of the New York Philharmonic, and agreed he would be most suitable for the role.
+adj/noun : radio
+n_v : broadcasts
+prep : of
+pobj : the New York Philharmonic
+originalPattern : radio broadcasts of the New York Philharmonic//radio broadcasts of the New York Philharmonic
+MVO : radio broadcasts the New York Philharmonic//radio broadcasts the New York Philharmonic
+MVOScore : -36.19895172119141//-36.19895172119141
+MVpO : //
+MVpOScore : //
+OVM : the New York Philharmonic broadcasts radio//the New York Philharmonic broadcasts radio
+OVMScore : -38.23197937011719//-38.23197937011719
+OVpM : the New York Philharmonic broadcasts on radio//the New York Philharmonic broadcasts on radio
+OVpMScore : -38.43353652954102//-38.43353652954102
+VOpM : broadcast the New York Philharmonic on radio//broadcast the New York Philharmonic on radio
+VOpMScore : -42.73825073242188//-42.73825073242188
+VpOpM : broadcast by the New York Philharmonic on radio//broadcast by the New York Philharmonic on radio
+VpOpMScore : -41.37672424316406//-41.37672424316406
+VMpO : broadcast radio with the New York Philharmonic//broadcast radio with the New York Philharmonic
+VMpOScore : -40.84832763671875//-40.84832763671875
+VpMpO : broadcast on radio with the New York Philharmonic//broadcast on radio with the New York Philharmonic
+VpMpOScore : -42.46582794189453//-42.46582794189453
+M : the broadcasts of the New York Philharmonic are radio//the broadcasts of the New York Philharmonic are radio
+MScore : -45.97034072875977//-45.97034072875977
+V1 : the New York Philharmonic provides the radio broadcasts//the New York Philharmonic provides the radio broadcasts
+V1Score : -43.92542266845703//-43.92542266845703
+V2 : accompany radio broadcasts of the New York Philharmonic//accompany radio broadcasts of the New York Philharmonic
+V2Score : -48.03414535522461//-48.03414535522461
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : radio is broadcast by the New York Philharmonic//radio is broadcast by the New York Philharmonic
+MVpOPassiveScore : -39.14543533325195//-39.14543533325195
+MpOVPassive : radio of the New York Philharmonic is broadcast//radio of the New York Philharmonic is broadcast
+MpOVPassiveScore : -41.31985473632812//-41.31985473632812
+OVpMPassive : the New York Philharmonic is broadcast on radio//the New York Philharmonic is broadcast on radio
+OVpMPassiveScore : -40.83417129516602//-40.83417129516602
+gold : the radio broadcast the New York Philharmonic//broadcast the New York Philharmonic on the radio
+reducedGold : radio broadcast new york philharmonic //broadcast new york philharmonic on radio 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : radio broadcasts the New York Philharmonic//radio broadcasts the New York Philharmonic
+reducedParaphrase : radio broadcast new york philharmonic //radio broadcast new york philharmonic 
+adj/noun-label : arg0//PP
+FinalLabel : True
+
+144. sentence : Completion of GAP was scheduled for 2010 but has been delayed because the World Bank has withheld funding due to the lack of an official agreement on water sharing between Turkey and the downstream states on the Euphrates and the Tigris.//Completion of GAP was scheduled for 2010 but has been delayed because the World Bank has withheld funding due to the lack of an official agreement on water sharing between Turkey and the downstream states on the Euphrates and the Tigris.
+adj/noun : water
+n_v : sharing
+prep : between
+pobj : Turkey and the downstream states
+originalPattern : water sharing between Turkey and the downstream states//water sharing between Turkey and the downstream states
+MVO : water shares Turkey and the downstream states//water shares Turkey and the downstream states
+MVOScore : -55.29813766479492//-55.29813766479492
+MVpO : water shares between Turkey and the downstream states//water shares between Turkey and the downstream states
+MVpOScore : -53.27972793579102//-53.27972793579102
+OVM : Turkey and the downstream states share water//Turkey and the downstream states share water
+OVMScore : -47.83541870117188//-47.83541870117188
+OVpM : Turkey and the downstream states share in the water//Turkey and the downstream states share in the water
+OVpMScore : -55.20032501220703//-55.20032501220703
+VOpM : share Turkey and the downstream states by water//share Turkey and the downstream states by water
+VOpMScore : -64.62914276123047//-64.62914276123047
+VpOpM : share between Turkey and the downstream states of the water//share between Turkey and the downstream states of the water
+VpOpMScore : -64.85220336914062//-64.85220336914062
+VMpO : share the water between Turkey and the downstream states//share the water between Turkey and the downstream states
+VMpOScore : -59.29695129394531//-59.29695129394531
+VpMpO : share of water with Turkey and the downstream states//share of water with Turkey and the downstream states
+VpMpOScore : -60.28244400024414//-60.28244400024414
+M : sharing between Turkey and the downstream states is water//sharing between Turkey and the downstream states is water
+MScore : -62.74653625488281//-62.74653625488281
+V1 : Turkey and the downstream states support water sharing//Turkey and the downstream states support water sharing
+V1Score : -56.87587356567383//-56.87587356567383
+V2 : facilitate water sharing between Turkey and the downstream states//facilitate water sharing between Turkey and the downstream states
+V2Score : -58.22153091430664//-58.22153091430664
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : water is shared between Turkey and the downstream states//water is shared between Turkey and the downstream states
+MVpOPassiveScore : -54.3022346496582//-54.3022346496582
+MpOVPassive : waters between the Turkey and the downstream states are shared//waters between the Turkey and the downstream states are shared
+MpOVPassiveScore : -65.02124786376953//-65.02124786376953
+OVpMPassive : Turkey and the downstream states are shared by water//Turkey and the downstream states are shared by water
+OVpMPassiveScore : -54.34735870361328//-54.34735870361328
+gold : Turkey and the downstream states share water//sharing water between Turkey and the downstream states on the Euphrates and the Tigris.
+reducedGold : turkey and downstream state share water //share water between    turkey and downstream state on euphrates and tigris . 
+OriginalHighestScorePattern : OVM//OVM
+HighestScorePattern : OVM//OVM
+HighestScorePatternSentence : Turkey and the downstream states share water//Turkey and the downstream states share water
+reducedParaphrase : turkey and downstream state share water //turkey and downstream state share water 
+adj/noun-label : arg1//arg1
+FinalLabel : True
+
+147. sentence : He will be the patron saint of American possibility." Similarly, the fact that Ruth played when a relatively small portion of his fans had the opportunity to see him play, in the era before television coverage of baseball, allowed his legend to grow through word of mouth and the hyperbole of sports reporters.//He will be the patron saint of American possibility." Similarly, the fact that Ruth played when a relatively small portion of his fans had the opportunity to see him play, in the era before television coverage of baseball, allowed his legend to grow through word of mouth and the hyperbole of sports reporters.
+adj/noun : television
+n_v : coverage
+prep : of
+pobj : baseball
+originalPattern : television coverage of baseball//television coverage of baseball
+MVO : television covers baseball//television covers baseball
+MVOScore : -30.85074234008789//-30.85074234008789
+MVpO : //
+MVpOScore : //
+OVM : baseball covers television//baseball covers television
+OVMScore : -31.74885368347168//-31.74885368347168
+OVpM : baseball covers on television//baseball covers on television
+OVpMScore : -37.49729919433594//-37.49729919433594
+VOpM : cover baseball on television//cover baseball on television
+VOpMScore : -31.21758651733398//-31.21758651733398
+VpOpM : cover of baseball on television//cover of baseball on television
+VpOpMScore : -35.42807388305664//-35.42807388305664
+VMpO : cover television in baseball//cover television in baseball
+VMpOScore : -36.06269073486328//-36.06269073486328
+VpMpO : cover of television in baseball//cover of television in baseball
+VpMpOScore : -39.41327667236328//-39.41327667236328
+M : the coverage of baseball is television//the coverage of baseball is television
+MScore : -41.00553131103516//-41.00553131103516
+V1 : baseball provides the television coverage//baseball provides the television coverage
+V1Score : -38.23257064819336//-38.23257064819336
+V2 : provide television coverage of baseball//provide television coverage of baseball
+V2Score : -36.16480255126953//-36.16480255126953
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : television is covered by baseball//television is covered by baseball
+MVpOPassiveScore : -36.2098388671875//-36.2098388671875
+MpOVPassive : televisions of baseball are covered//televisions of baseball are covered
+MpOVPassiveScore : -41.68338394165039//-41.68338394165039
+OVpMPassive : baseball is covered by a television//baseball is covered by a television
+OVpMPassiveScore : -36.09100341796875//-36.09100341796875
+gold : the television cover baseball//cover baseball on television
+reducedGold : television cover baseball //cover baseball on television 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : television covers baseball//television covers baseball
+reducedParaphrase : television cover baseball //television cover baseball 
+adj/noun-label : arg0//PP
+FinalLabel : True
+
+151. sentence : In Africa, in order to reach the seven percent annual growth calculated to be required to meet the MDGs by 2015 would require infrastructure investments of about fifteen percent of GDP, or around US$93 billion a year.
+adj/noun : infrastructure
+n_v : investments
+prep : of
+pobj : about fifteen percent of GDP
+originalPattern : infrastructure investments of about fifteen percent of GDP
+MVO : infrastructure invests about fifteen percent of GDP
+MVOScore : -42.3043098449707
+OVM : about fifteen percent of GDP invests infrastructure
+OVMScore : -49.41102600097656
+OVpM : about fifteen percent of GDP invests in infrastructure
+OVpMScore : -42.15983581542969
+VOpM : invest about fifteen percent of GDP in infrastructure
+VOpMScore : -44.85212707519531
+VpOpM : invest in about fifteen percent of GDP in infrastructure
+VpOpMScore : -49.80493927001953
+VMpO : invest infrastructure for about fifteen percent of GDP
+VMpOScore : -52.72831344604492
+VpMpO : invest in infrastructure for about fifteen percent of GDP
+VpMpOScore : -49.59725189208984
+M : investments of about fifteen percent of GDP are infrastructure
+MScore : -50.83753967285156
+V1 : about fifteen percent of GDP represents the infrastructure investments
+V1Score : -52.38119506835938
+V2 : achieve infrastructure investments of about fifteen percent of GDP
+V2Score : -49.45832824707031
+MVpOPassive : infrastructure is invested in about fifteen percent of GDP
+MVpOPassiveScore : -49.46042251586914
+MpOVPassive : an infrastructure of about fifteen percent of GDP is invested
+MpOVPassiveScore : -55.54577255249023
+OVpMPassive : about fifteen percent of GDP is invested in infrastructure
+OVpMPassiveScore : -38.28255844116211
+gold : invest about fifteen percent of GDP in infrastructure
+reducedGold : invest about fifteen percent of gdp in infrastructure 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : invest about fifteen percent of GDP in infrastructure
+reducedParaphrase : invest about fifteen percent of gdp in infrastructure 
+adj/noun-label : PP
+FinalLabel : True
+
+153. sentence : In this way, all aspects of the clinical problem are canvassed in one phone call without impairing the emergency response of the transport team.//In this way, all aspects of the clinical problem are canvassed in one phone call without impairing the emergency response of the transport team.
+adj/noun : emergency
+n_v : response
+prep : of
+pobj : the transport team
+originalPattern : emergency response of the transport team//emergency response of the transport team
+MVO : emergency responds the transport team//emergency responds the transport team
+MVOScore : -44.06467819213867//-44.06467819213867
+MVpO : //
+MVpOScore : //
+OVM : the transport team responds an emergency//the transport team responds an emergency
+OVMScore : -43.05755615234375//-43.05755615234375
+OVpM : the transport team responds to an emergency//the transport team responds to an emergency
+OVpMScore : -38.31915283203125//-38.31915283203125
+VOpM : respond the transport team to an emergency//respond the transport team to an emergency
+VOpMScore : -44.71614837646484//-44.71614837646484
+VpOpM : respond to the transport team to an emergency//respond to the transport team to an emergency
+VpOpMScore : -46.88412475585938//-46.88412475585938
+VMpO : respond emergencies with the transport team//respond emergencies with the transport team
+VMpOScore : -48.63865661621094//-48.63865661621094
+VpMpO : respond to emergencies with the transport team//respond to emergencies with the transport team
+VpMpOScore : -45.43798828125//-45.43798828125
+M : the response of the transport team is emergency//the response of the transport team is emergency
+MScore : -48.16808319091797//-48.16808319091797
+V1 : the transport team provides the emergency response//the transport team provides the emergency response
+V1Score : -42.63906097412109//-42.63906097412109
+V2 : ensure emergency response of the transport team//ensure emergency response of the transport team
+V2Score : -44.77576065063477//-44.77576065063477
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : emergency is responded by the transport team//emergency is responded by the transport team
+MVpOPassiveScore : -46.3704833984375//-46.3704833984375
+MpOVPassive : emergencies of the transport team are responded//emergencies of the transport team are responded
+MpOVPassiveScore : -52.14501953125//-52.14501953125
+OVpMPassive : the transport team is responded to an emergency//the transport team is responded to an emergency
+OVpMPassiveScore : -47.20853424072266//-47.20853424072266
+gold : the transport team respond to the emergency//the transport team respond in an emergency
+reducedGold : transport team respond to emergency //transport team respond in emergency 
+OriginalHighestScorePattern : OVpM//OVpM
+HighestScorePattern : OVpM//OVpM
+HighestScorePatternSentence : the transport team responds to an emergency//the transport team responds to an emergency
+reducedParaphrase : transport team respond to emergency //transport team respond to emergency 
+adj/noun-label : arg1//PP
+FinalLabel : True
+
+155. sentence : Most alternative medical treatments are not patentable, which may lead to less research funding from the private sector.
+adj/noun : research
+n_v : funding
+prep : from
+pobj : the private sector
+originalPattern : research funding from the private sector
+MVO : research funds the private sector
+MVOScore : -30.11286354064941
+MVpO : research funds from the private sector
+MVpOScore : -29.46887588500977
+OVM : the private sector funds research
+OVMScore : -33.40163803100586
+OVpM : the private sector funds for the research
+OVpMScore : -38.65287017822266
+VOpM : fund the private sector for research
+VOpMScore : -35.3940544128418
+VpOpM : fund for the private sector for research
+VpOpMScore : -38.26113510131836
+VMpO : fund research in the private sector
+VMpOScore : -32.73031997680664
+VpMpO : fund of research in the private sector
+VpMpOScore : -36.05818557739258
+M : the funding from the private sector is research
+MScore : -42.95433044433594
+V1 : the private sector provides the research funding
+V1Score : -38.63150405883789
+V2 : attract research funding from the private sector
+V2Score : -33.72507476806641
+MVpOPassive : research is funded by the private sector
+MVpOPassiveScore : -30.71622848510742
+MpOVPassive : research from the private sector is funded
+MpOVPassiveScore : -36.08492660522461
+OVpMPassive : the private sector is funded by research
+OVpMPassiveScore : -35.85721206665039
+gold : the private sector fund research
+reducedGold : private sector fund research 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : OVM
+HighestScorePatternSentence : the private sector funds research
+reducedParaphrase : private sector fund research 
+adj/noun-label : arg1
+FinalLabel : True
+
+161. sentence : This journey was made by Queen Victoria in 1847, but by the mid-1850s the completion of the western railway link between London and Scotland over Shap Fell rendered Fleetwood's role as a transport terminus obsolete.//This journey was made by Queen Victoria in 1847, but by the mid-1850s the completion of the western railway link between London and Scotland over Shap Fell rendered Fleetwood's role as a transport terminus obsolete.
+adj/noun : railway
+n_v : link
+prep : between
+pobj : London and Scotland
+originalPattern : railway link between London and Scotland//railway link between London and Scotland
+MVO : railway links London and Scotland//railway links London and Scotland
+MVOScore : -35.25112152099609//-35.25112152099609
+MVpO : railway links between London and Scotland//railway links between London and Scotland
+MVpOScore : -32.19279861450195//-32.19279861450195
+OVM : London and Scotland link railway//London and Scotland link railway
+OVMScore : -35.1883659362793//-35.1883659362793
+OVpM : London and Scotland link by railway//London and Scotland link by railway
+OVpMScore : -38.90862655639648//-38.90862655639648
+VOpM : link London and Scotland by railway//link London and Scotland by railway
+VOpMScore : -43.63228225708008//-43.63228225708008
+VpOpM : link between London and Scotland by railway//link between London and Scotland by railway
+VpOpMScore : -44.62994384765625//-44.62994384765625
+VMpO : link railway between London and Scotland//link railway between London and Scotland
+VMpOScore : -36.38877105712891//-36.38877105712891
+VpMpO : link of railway between London and Scotland//link of railway between London and Scotland
+VpMpOScore : -41.83994674682617//-41.83994674682617
+M : the link between London and Scotland is railway//the link between London and Scotland is railway
+MScore : -47.20602416992188//-47.20602416992188
+V1 : London and Scotland provide a railway link//London and Scotland provide a railway link
+V1Score : -39.99305725097656//-39.99305725097656
+V2 : provide railway link between London and Scotland//provide railway link between London and Scotland
+V2Score : -41.48459243774414//-41.48459243774414
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : railway is linked to London and Scotland//railway is linked to London and Scotland
+MVpOPassiveScore : -40.43588256835938//-40.43588256835938
+MpOVPassive : railway between London and Scotland is linked//railway between London and Scotland is linked
+MpOVPassiveScore : -40.50309371948242//-40.50309371948242
+OVpMPassive : London and Scotland are linked by railway//London and Scotland are linked by railway
+OVpMPassiveScore : -35.34120178222656//-35.34120178222656
+gold : the railway link London and Scotland//link London and Scotland by railway
+reducedGold : railway link london and scotland //link london and scotland by railway 
+OriginalHighestScorePattern : OVpMPassive//OVpMPassive
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : railway links London and Scotland//railway links London and Scotland
+reducedParaphrase : railway link london and scotland //railway link london and scotland 
+adj/noun-label : arg0//PP
+FinalLabel : True
+
+162. sentence : To acknowledge outstanding research contributions to mathematics, through the awarding of scientific prizes and to encourage and support other international mathematical activities, considered likely to contribute to the development of mathematical science in any of its aspects, whether pure, applied, or educational.//To acknowledge outstanding research contributions to mathematics, through the awarding of scientific prizes and to encourage and support other international mathematical activities, considered likely to contribute to the development of mathematical science in any of its aspects, whether pure, applied, or educational.
+adj/noun : research
+n_v : contributions
+prep : to
+pobj : mathematics
+originalPattern : research contributions to mathematics//research contributions to mathematics
+MVO : research contributes mathematics//research contributes mathematics
+MVOScore : -32.51274871826172//-32.51274871826172
+MVpO : research contributes to mathematics//research contributes to mathematics
+MVpOScore : -29.99421882629395//-29.99421882629395
+OVM : mathematics contributes research//mathematics contributes research
+OVMScore : -33.04818725585938//-33.04818725585938
+OVpM : mathematics contributes to research//mathematics contributes to research
+OVpMScore : -31.61481094360352//-31.61481094360352
+VOpM : contribute mathematics to research//contribute mathematics to research
+VOpMScore : -33.70054626464844//-33.70054626464844
+VpOpM : contribute to mathematics as a research//contribute to mathematics as a research
+VpOpMScore : -38.37176513671875//-38.37176513671875
+VMpO : contribute research in mathematics//contribute research in mathematics
+VMpOScore : -32.70449066162109//-32.70449066162109
+VpMpO : contribute to research in mathematics//contribute to research in mathematics
+VpMpOScore : -31.40142631530762//-31.40142631530762
+M : contributions to mathematics are research//contributions to mathematics are research
+MScore : -39.95233535766602//-39.95233535766602
+V1 : mathematics makes research contributions//mathematics makes research contributions
+V1Score : -37.40846633911133//-37.40846633911133
+V2 : make research contributions to mathematics//make research contributions to mathematics
+V2Score : -35.29142761230469//-35.29142761230469
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : the research is contributed by mathematics//the research is contributed by mathematics
+MVpOPassiveScore : -38.23146820068359//-38.23146820068359
+MpOVPassive : research to mathematics is contributed//research to mathematics is contributed
+MpOVPassiveScore : -43.96188354492188//-43.96188354492188
+OVpMPassive : mathematics is contributed to the research//mathematics is contributed to the research
+OVpMPassiveScore : -38.63947296142578//-38.63947296142578
+gold : research contribute to mathematics//researchers contribute to mathematics
+reducedGold : research contribute to mathematic //researcher contribute to mathematic 
+OriginalHighestScorePattern : MVpO//MVpO
+HighestScorePattern : MVpO//MVpO
+HighestScorePatternSentence : research contributes to mathematics//research contributes to mathematics
+reducedParaphrase : research contribute to mathematic //research contribute to mathematic 
+adj/noun-label : arg0//arg0
+FinalLabel : True
+
+163. sentence : UAL was ranked 102nd out of 124 for graduate prospects, and 123rd out of 124 for student satisfaction with teaching.
+adj/noun : student
+n_v : satisfaction
+prep : with
+pobj : teaching
+originalPattern : student satisfaction with teaching
+MVO : student satisfies teaching
+MVOScore : -34.42737579345703
+MVpO : students satisfy with teaching
+MVpOScore : -37.86430358886719
+OVM : teaching satisfies students
+OVMScore : -31.09755325317383
+OVpM : teaching satisfies for the student
+OVpMScore : -39.62535858154297
+VOpM : satisfy teaching of students
+VOpMScore : -37.42581558227539
+VpOpM : satisfy with teaching of students
+VpOpMScore : -41.95219421386719
+VMpO : satisfy the students by teaching
+VMpOScore : -34.86429595947266
+VpMpO : satisfy as a student by teaching
+VpMpOScore : -40.55674743652344
+M : the satisfaction with teaching is student
+MScore : -42.96873092651367
+V1 : teaching increases the student satisfaction
+V1Score : -39.25826263427734
+V2 : increase student satisfaction with teaching
+V2Score : -34.63034820556641
+MVpOPassive : student is satisfied with teaching
+MVpOPassiveScore : -33.13571166992188
+MpOVPassive : a student with teaching is satisfied
+MpOVPassiveScore : -42.48939895629883
+OVpMPassive : teaching is satisfied by students
+OVpMPassiveScore : -37.02331161499023
+gold : the teaching satisfy the students
+reducedGold : teaching satisfy student 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : teaching satisfies students
+reducedParaphrase : teach satisfie student 
+adj/noun-label : arg1
+FinalLabel : True
+
+173. sentence : The scholarly detective work of Douglass Adair in 1944 postulated the following assignments of authorship, corroborated in 1964 by a computer analysis of the text://The scholarly detective work of Douglass Adair in 1944 postulated the following assignments of authorship, corroborated in 1964 by a computer analysis of the text://The scholarly detective work of Douglass Adair in 1944 postulated the following assignments of authorship, corroborated in 1964 by a computer analysis of the text://The scholarly detective work of Douglass Adair in 1944 postulated the following assignments of authorship, corroborated in 1964 by a computer analysis of the text:
+adj/noun : computer
+n_v : analysis
+prep : of
+pobj : the text
+originalPattern : computer analysis of the text//computer analysis of the text//computer analysis of the text//computer analysis of the text
+MVO : the computer analyzes the text//the computer analyzes the text//the computer analyzes the text//the computer analyzes the text
+MVOScore : -31.38922119140625//-31.38922119140625//-31.38922119140625//-31.38922119140625
+MVpO : //////
+MVpOScore : //////
+OVM : the text analyses computer//the text analyses computer//the text analyses computer//the text analyses computer
+OVMScore : -34.07014846801758//-34.07014846801758//-34.07014846801758//-34.07014846801758
+OVpM : the text analyses by computer//the text analyses by computer//the text analyses by computer//the text analyses by computer
+OVpMScore : -37.90787506103516//-37.90787506103516//-37.90787506103516//-37.90787506103516
+VOpM : analyze the text on a computer//analyze the text on a computer//analyze the text on a computer//analyze the text on a computer
+VOpMScore : -34.30329513549805//-34.30329513549805//-34.30329513549805//-34.30329513549805
+VpOpM : analyze of the text by computer//analyze of the text by computer//analyze of the text by computer//analyze of the text by computer
+VpOpMScore : -41.31648635864258//-41.31648635864258//-41.31648635864258//-41.31648635864258
+VMpO : analyze a computer for the text//analyze a computer for the text//analyze a computer for the text//analyze a computer for the text
+VMpOScore : -40.26238632202148//-40.26238632202148//-40.26238632202148//-40.26238632202148
+VpMpO : analyze with a computer for the text//analyze with a computer for the text//analyze with a computer for the text//analyze with a computer for the text
+VpMpOScore : -44.45036697387695//-44.45036697387695//-44.45036697387695//-44.45036697387695
+M : the analysis of the text is computer//the analysis of the text is computer//the analysis of the text is computer//the analysis of the text is computer
+MScore : -38.65708923339844//-38.65708923339844//-38.65708923339844//-38.65708923339844
+V1 : the text requires a computer analysis//the text requires a computer analysis//the text requires a computer analysis//the text requires a computer analysis
+V1Score : -42.10356903076172//-42.10356903076172//-42.10356903076172//-42.10356903076172
+V2 : enable computer analysis of the text//enable computer analysis of the text//enable computer analysis of the text//enable computer analysis of the text
+V2Score : -39.78391647338867//-39.78391647338867//-39.78391647338867//-39.78391647338867
+OVB : //////
+OVBScore : //////
+VOB : //////
+VOBScore : //////
+MVpOPassive : computers are analyzed by the text//computers are analyzed by the text//computers are analyzed by the text//computers are analyzed by the text
+MVpOPassiveScore : -38.46477890014648//-38.46477890014648//-38.46477890014648//-38.46477890014648
+MpOVPassive : computer of the text is analyzed//computer of the text is analyzed//computer of the text is analyzed//computer of the text is analyzed
+MpOVPassiveScore : -40.14436340332031//-40.14436340332031//-40.14436340332031//-40.14436340332031
+OVpMPassive : the text is analyzed by a computer//the text is analyzed by a computer//the text is analyzed by a computer//the text is analyzed by a computer
+OVpMPassiveScore : -35.42051315307617//-35.42051315307617//-35.42051315307617//-35.42051315307617
+gold : the computer analyze the text//the computer analyse the text//analyze text with a computer//analyse text with a computer
+reducedGold : computer analyze text //computer analyse text //analyze text with computer //analyse text with computer 
+OriginalHighestScorePattern : MVO//MVO//MVO//MVO
+HighestScorePattern : MVO//MVO//MVO//MVO
+HighestScorePatternSentence : the computer analyzes the text//the computer analyzes the text//the computer analyzes the text//the computer analyzes the text
+reducedParaphrase : computer analyze text //computer analyze text //computer analyze text //computer analyze text 
+adj/noun-label : arg0//arg0//PP//PP
+FinalLabel : True
+

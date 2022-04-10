@@ -1,0 +1,4289 @@
+0. sentence : The breadth of services provided are career coaching with academic advisors and career counselors, self assessments for students , networking resources, resume preparation, interview preparation, on campus recruiting, career development series, videos, handouts and special alumni services.
+adj/noun : self
+n_v : assessments
+prep : for
+pobj : students
+originalPattern : self assessments for students
+MVO : self assesses students
+MVOScore : -33.0286865234375
+MVpO : self assesses for students
+MVpOScore : -39.42282867431641
+OVM : students assess self
+OVMScore : -30.63168334960938
+OVpM : students assess for self
+OVpMScore : -36.2728271484375
+VOpM : assess students to self
+VOpMScore : -37.81260299682617
+VMpO : assess the self of students
+VMpOScore : -38.14400863647461
+VpMpO : assess to the self of students
+VpMpOScore : -46.1817626953125
+M : the assessments for students are self
+MScore : -41.5526008605957
+V1 : students take the self assessments
+V1Score : -40.97928619384766
+V2 : provide self assessments for students
+V2Score : -37.98703765869141
+MVpOPassive : self is assessed by students
+MVpOPassiveScore : -35.68453216552734
+MpOVPassive : self for all students is assessed
+MpOVPassiveScore : -45.2452278137207
+OVpMPassive : students are assessed as self
+OVpMPassiveScore : -34.57801055908203
+gold : students assess themselves
+reducedGold : student assess -pron- 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : self assesses students
+reducedParaphrase : self assess student 
+adj/noun-label : arg0
+FinalLabel : False
+
+1. sentence : Direct maritime trade between Europe and China started in the 16th century, after the Portuguese established the settlement of Goa, India in December 1510, and thereafter that of Macau in southern China in 1557.
+adj/noun : maritime
+n_v : trade
+prep : between
+pobj : Europe and China
+originalPattern : maritime trade between Europe and China
+MVO : maritime trades Europe and China
+MVOScore : -43.14384841918945
+MVpO : maritime trades between Europe and China
+MVpOScore : -38.75983047485352
+OVM : Europe and China trade maritime
+OVMScore : -33.20988082885742
+OVpM : Europe and China trade in maritime
+OVpMScore : -31.59544944763184
+VOpM : trade Europe and China in the maritime
+VOpMScore : -47.85762786865234
+VpOpM : trade between Europe and China in the maritime
+VpOpMScore : -41.95733642578125
+VMpO : trade maritimes between Europe and China
+VMpOScore : -41.70294952392578
+VpMpO : trade in maritime between Europe and China
+VpMpOScore : -41.06415939331055
+M : the trade between Europe and China is maritime
+MScore : -43.54164886474609
+V1 : Europe and China have maritime trade
+V1Score : -35.26256561279297
+V2 : facilitate maritime trade between Europe and China
+V2Score : -41.56977081298828
+MVpOPassive : maritime is traded between Europe and China
+MVpOPassiveScore : -44.4411506652832
+MpOVPassive : maritime between Europe and China is traded
+MpOVPassiveScore : -45.72611236572266
+OVpMPassive : Europe and China are traded in maritime
+OVpMPassiveScore : -41.12466812133789
+gold : Europe and China trade on the sea
+reducedGold : europe and china trade on sea 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : Europe and China trade maritime
+reducedParaphrase : europe and china trade maritime 
+adj/noun-label : PP
+FinalLabel : False
+
+2. sentence : The only method used in Canada for capital punishment of civilians after the end of the French regime was hanging.
+adj/noun : capital
+n_v : punishment
+prep : of
+pobj : civilians
+originalPattern : capital punishment of civilians
+MVO : capital punishes civilians
+MVOScore : -33.14039611816406
+OVM : civilians punishes capital
+OVMScore : -38.24615097045898
+OVpM : civilians punishes in capital
+OVpMScore : -42.14642333984375
+VOpM : punish civilians in capital
+VOpMScore : -34.69081878662109
+VMpO : punish capital of civilians
+VMpOScore : -40.77532196044922
+VpMpO : punish in the capital with civilians
+VpMpOScore : -47.46060943603516
+M : the punishment of civilians is capital
+MScore : -38.81929397583008
+V1 : civilians faces the capital punishment
+V1Score : -40.84973526000977
+V2 : reduce capital punishment of civilians
+V2Score : -36.42835998535156
+MVpOPassive : capital is punished by civilians
+MVpOPassiveScore : -38.06418609619141
+MpOVPassive : capital of the civilians is punished
+MpOVPassiveScore : -45.15123748779297
+OVpMPassive : civilians is punished in capital
+OVpMPassiveScore : -41.0418815612793
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : capital punishes civilians
+reducedParaphrase : capital punish civilian 
+adj/noun-label : N
+FinalLabel : False
+
+7. sentence : By definition, in Euclidean space the dot product of two unit vectors is simply the cosine of the angle between them.
+adj/noun : dot
+n_v : product
+prep : of
+pobj : two unit vectors
+originalPattern : dot product of two unit vectors
+MVO : dot produces two unit vectors
+MVOScore : -42.80979156494141
+OVM : two unit vectors produce dots
+OVMScore : -50.36573028564453
+OVpM : two unit vectors produce as a dot
+OVpMScore : -57.52787399291992
+VOpM : produce two unit vectors of dots
+VOpMScore : -50.37900543212891
+VMpO : produce dots with two unit vectors
+VMpOScore : -48.6011848449707
+VpMpO : produce as a dot with two unit vectors
+VpMpOScore : -54.97092819213867
+M : the product of two unit vectors is dot
+MScore : -58.3940544128418
+V2 : obtain dot product of two unit vectors
+V2Score : -61.23945617675781
+MVpOPassive : dots are produced by two unit vectors
+MVpOPassiveScore : -45.14497375488281
+MpOVPassive : dots of the two unit vectors are produced
+MpOVPassiveScore : -54.57126617431641
+OVpMPassive : two unit vectors are produced by the dot
+OVpMPassiveScore : -50.97464752197266
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : OVM
+HighestScorePatternSentence : two unit vectors produce dots
+reducedParaphrase : two unit vector produce dot 
+adj/noun-label : N
+FinalLabel : False
+
+8. sentence : The paper went on to say that when Kaps gave a sample performance for his colleagues, it "…nearly brought the house down."
+adj/noun : sample
+n_v : performance
+prep : for
+pobj : his colleagues
+originalPattern : sample performance for his colleagues
+MVO : sample performs his colleagues
+MVOScore : -42.35441589355469
+MVpO : samples perform for his colleagues
+MVpOScore : -44.50459289550781
+OVM : his colleagues perform samples
+OVMScore : -36.71849822998047
+OVpM : his colleagues perform on samples
+OVpMScore : -39.97489929199219
+VOpM : perform his colleagues on a sample
+VOpMScore : -42.74528121948242
+VpOpM : perform with his colleagues on a sample
+VpOpMScore : -43.113037109375
+VMpO : perform samples with his colleagues
+VMpOScore : -39.33993911743164
+VpMpO : perform on a sample with his colleagues
+VpMpOScore : -45.48107147216797
+M : the performance for his colleagues is sample
+MScore : -49.00641250610352
+V1 : his colleagues study the sample performance
+V1Score : -46.89572143554688
+V2 : improve sample performance for his colleagues
+V2Score : -46.717529296875
+OVB : his colleagues perform snappishly
+OVBScore : -46.52816390991211
+VOB : perform his colleagues snappishly
+VOBScore : -49.98440170288086
+MVpOPassive : samples are performed by his colleagues
+MVpOPassiveScore : -39.89932250976562
+MpOVPassive : samples for all his colleagues are performed
+MpOVPassiveScore : -48.47389221191406
+OVpMPassive : his colleagues are performed on samples
+OVpMPassiveScore : -43.32208251953125
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : his colleagues perform samples
+reducedParaphrase : -pron- colleague perform sample 
+adj/noun-label : N
+FinalLabel : False
+
+9. sentence : He was stopped by Detective Micheal Cordova who was in plainclothes because he was working a sting operation against ticket scalpers.
+adj/noun : sting
+n_v : operation
+prep : against
+pobj : ticket scalpers
+originalPattern : sting operation against ticket scalpers
+MVO : sting operate ticket scalpers
+MVOScore : -46.22735977172852
+MVpO : a sting operates against ticket scalpers
+MVpOScore : -47.85868835449219
+OVM : ticket scalpers operate a sting
+OVMScore : -40.52104568481445
+OVpM : ticket scalpers operate as sting
+OVpMScore : -42.66512680053711
+VOpM : operate ticket scalpers for sting
+VOpMScore : -49.66471862792969
+VpOpM : operate on ticket scalpers as a sting
+VpOpMScore : -53.64033508300781
+VMpO : operate a sting for ticket scalpers
+VMpOScore : -47.59089279174805
+VpMpO : operate as a sting for ticket scalpers
+VpMpOScore : -50.30451583862305
+M : the operation against ticket scalpers is sting
+MScore : -54.09337615966797
+V1 : ticket scalpers conduct a sting operation
+V1Score : -40.02322006225586
+V2 : conduct sting operation against ticket scalpers
+V2Score : -49.87986755371094
+MVpOPassive : stings are operated by ticket scalpers
+MVpOPassiveScore : -45.19954299926758
+MpOVPassive : stings against the ticket scalpers are operated
+MpOVPassiveScore : -56.24890518188477
+OVpMPassive : ticket scalpers are operated as a sting
+OVpMPassiveScore : -49.2552375793457
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : sting operate ticket scalpers
+reducedParaphrase : ste operate ticket scalper 
+adj/noun-label : N
+FinalLabel : False
+
+10. sentence : It also focused much of its business on custom installation of electronics for homes and automobiles.
+adj/noun : custom
+n_v : installation
+prep : of
+pobj : electronics
+originalPattern : custom installation of electronics
+MVO : custom installs electronics
+MVOScore : -35.39904022216797
+OVM : electronics installs custom
+OVMScore : -32.95073699951172
+OVpM : electronics installs with custom
+OVpMScore : -36.19026947021484
+VOpM : install electronics with custom
+VOpMScore : -33.37086868286133
+VpOpM : install of electronics through customs
+VpOpMScore : -42.48822402954102
+VMpO : Instal the customs of electronics
+VMpOScore : -48.08066558837891
+M : the installation of electronics is custom
+MScore : -40.00161361694336
+V1 : electronics requires a custom installation
+V1Score : -36.16584777832031
+V2 : facilitate custom installation of electronics
+V2Score : -40.79841613769531
+MVpOPassive : custom is installed in electronics
+MVpOPassiveScore : -39.96097946166992
+MpOVPassive : custom of the electronics is installed
+MpOVPassiveScore : -42.1382942199707
+OVpMPassive : electronics is installed in a custom
+OVpMPassiveScore : -37.38863372802734
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : custom installs electronics
+reducedParaphrase : custom install electronics 
+adj/noun-label : N
+FinalLabel : False
+
+11. sentence : However, the timing of the election was thwarted twice by external events, in particular the hunger strikes of IRA volunteers for political status.
+adj/noun : hunger
+n_v : strikes
+prep : of
+pobj : IRA volunteers
+originalPattern : hunger strikes of IRA volunteers
+MVO : hunger strikes IRA volunteers
+MVOScore : -37.44498062133789
+OVM : IRA volunteers strike hunger
+OVMScore : -49.28642272949219
+OVpM : IRA volunteers strike on hunger
+OVpMScore : -49.62289810180664
+VOpM : strike IRA volunteers on hunger
+VOpMScore : -46.80145263671875
+VpOpM : strike of IRA volunteers on hunger
+VpOpMScore : -49.72148132324219
+VMpO : strike the hunger of IRA volunteers
+VMpOScore : -46.40412521362305
+VpMpO : strike of hunger for IRA volunteers
+VpMpOScore : -48.22823715209961
+M : the strikes of IRA volunteers are hunger
+MScore : -52.93213653564453
+V1 : IRA volunteers begin the hunger strikes
+V1Score : -54.19435501098633
+V2 : protest hunger strikes of IRA volunteers
+V2Score : -49.0623893737793
+MVpOPassive : hunger is struck by IRA volunteers
+MVpOPassiveScore : -52.86896896362305
+MpOVPassive : the hunger of the IRA volunteers is struck
+MpOVPassiveScore : -56.87436294555664
+OVpMPassive : IRA volunteers are struck by the hunger
+OVpMPassiveScore : -53.07144546508789
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : IRA volunteers strike hunger
+reducedParaphrase : ira volunteer strike hunger 
+adj/noun-label : N
+FinalLabel : False
+
+12. sentence : In 2012, Cárdenas also passed landmark amendments to the City's daytime curfew ordinance.
+adj/noun : landmark
+n_v : amendments
+prep : to
+pobj : the City's daytime curfew ordinance
+originalPattern : landmark amendments to the City's daytime curfew ordinance
+MVO : landmark amends the City's daytime curfew ordinance
+MVOScore : -58.52022552490234
+MVpO : landmark amends to the City's daytime curfew ordinance
+MVpOScore : -65.76583099365234
+OVM : the City's daytime curfew ordinance amends the landmark
+OVMScore : -60.43049240112305
+OVpM : the City's daytime curfew ordinance amends for the landmark
+OVpMScore : -68.47631072998047
+VOpM : amend the City's daytime curfew ordinance as a landmark
+VOpMScore : -62.8596305847168
+VpOpM : amend to the City's daytime curfew ordinance for landmark
+VpOpMScore : -66.26612854003906
+VMpO : amend a landmark to the City's daytime curfew ordinance
+VMpOScore : -63.17033004760742
+VpMpO : amend of a landmark to the City's daytime curfew ordinance
+VpMpOScore : -65.38841247558594
+M : the amendments to the City's daytime curfew ordinance are landmark
+MScore : -63.23176956176758
+V1 : the City's daytime curfew ordinance makes these landmark amendments
+V1Score : -70.2054214477539
+V2 : make landmark amendments to the City's daytime curfew ordinance
+V2Score : -60.26761245727539
+MVpOPassive : landmark is amended by the City's daytime curfew ordinance
+MVpOPassiveScore : -67.29863739013672
+MpOVPassive : a landmark to the City's daytime curfew ordinance is amended
+MpOVPassiveScore : -67.93119049072266
+OVpMPassive : the City's daytime curfew ordinance is amended by a landmark
+OVpMPassiveScore : -63.23911285400391
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : landmark amends the City's daytime curfew ordinance
+reducedParaphrase : landmark amend city 's daytime curfew ordinance 
+adj/noun-label : N
+FinalLabel : False
+
+13. sentence : The sea change in ethnic and religious relations in the United States came from the military experience in World War II.
+adj/noun : sea
+n_v : change
+prep : in
+pobj : ethnic and religious relations
+originalPattern : sea change in ethnic and religious relations
+MVO : sea changes ethnic and religious relations
+MVOScore : -40.50000762939453
+MVpO : sea changes in ethnic and religious relations
+MVpOScore : -39.49223709106445
+OVM : ethnic and religious relations change sea
+OVMScore : -47.00226211547852
+OVpM : ethnic and religious relations change at sea
+OVpMScore : -46.53949356079102
+VOpM : change ethnic and religious relations at sea
+VOpMScore : -45.12945938110352
+VpOpM : change in ethnic and religious relations at sea
+VpOpMScore : -44.99771118164062
+VMpO : change the sea of ethnic and religious relations
+VMpOScore : -47.74443435668945
+VpMpO : change in the sea of ethnic and religious relations
+VpMpOScore : -45.2392578125
+M : the change in ethnic and religious relations is sea
+MScore : -52.43210220336914
+V1 : ethnic and religious relations prevent a sea change
+V1Score : -49.56714248657227
+V2 : prevent sea change in ethnic and religious relations
+V2Score : -50.65332412719727
+MVpOPassive : the sea is changed by ethnic and religious relations
+MVpOPassiveScore : -48.88657379150391
+MpOVPassive : seas in the ethnic and religious relations are changed
+MpOVPassiveScore : -57.87300491333008
+OVpMPassive : ethnic and religious relations are changed at sea
+OVpMPassiveScore : -49.16341400146484
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : sea changes ethnic and religious relations
+reducedParaphrase : sea change ethnic and religious relation 
+adj/noun-label : N
+FinalLabel : False
+
+14. sentence : According to David Kirkpatrick's book "The Facebook Effect", Hoffman arranged the first meeting between Mark Zuckerberg and Peter Thiel, which led to Thiel's initial $500,000 angel investment in the company.
+adj/noun : angel
+n_v : investment
+prep : in
+pobj : the company
+originalPattern : angel investment in the company
+MVO : angels invest the company
+MVOScore : -35.28478622436523
+MVpO : angels invest in the company
+MVpOScore : -32.68336486816406
+OVM : the company invests angel
+OVMScore : -34.76782608032227
+OVpM : the company invests in angel
+OVpMScore : -32.34418106079102
+VOpM : invest the company with angel
+VOpMScore : -35.34644317626953
+VpOpM : invest in the company of angels
+VpOpMScore : -34.54074478149414
+VMpO : invest angels in the company
+VMpOScore : -33.62024307250977
+VpMpO : invest as an angel in the company
+VpMpOScore : -39.52822494506836
+M : the investment in the company is angel
+MScore : -41.55930709838867
+V1 : the company have an angel investment
+V1Score : -37.77033615112305
+V2 : pursue angel investment in the company
+V2Score : -46.12525177001953
+MVpOPassive : angel is invested in the company
+MVpOPassiveScore : -35.03952789306641
+MpOVPassive : the angel in the company is invested
+MpOVPassiveScore : -44.13786315917969
+OVpMPassive : the company is invested in angel
+OVpMPassiveScore : -33.65290832519531
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : angels invest in the company
+reducedParaphrase : angel invest in company 
+adj/noun-label : N
+FinalLabel : False
+
+15. sentence : There she won a bronze medal in a photo finish in the 1,000 m.
+adj/noun : photo
+n_v : finish
+prep : in
+pobj : the 1,000 m
+originalPattern : photo finish in the 1,000 m
+MVO : photos finish the 1,000 m
+MVOScore : -43.50139617919922
+MVpO : photos finish in the 1,000 m
+MVpOScore : -43.3518180847168
+OVM : the 1,000 m finish photo
+OVMScore : -48.25164031982422
+OVpM : the 1,000 m finish in the photo
+OVpMScore : -52.50877380371094
+VOpM : finish the 1,000 m with a photo
+VOpMScore : -48.47933959960938
+VpOpM : finish of the 1,000 m in the photo
+VpOpMScore : -52.69597625732422
+VMpO : finish photos of the 1,000 m
+VMpOScore : -42.9946174621582
+VpMpO : finish with photos of the 1,000 m
+VpMpOScore : -45.76198196411133
+M : the finish in the 1,000 m is photo
+MScore : -56.40375518798828
+V1 : the 1,000 m make the photo finish
+V1Score : -55.00364685058594
+V2 : make photo finish in the 1,000 m
+V2Score : -53.82218933105469
+MVpOPassive : photos are finished in the 1,000 m
+MVpOPassiveScore : -48.81706619262695
+MpOVPassive : a photo in the 1,000 m is finished
+MpOVPassiveScore : -55.85092163085938
+OVpMPassive : the 1,000 m are finished with photos
+OVpMPassiveScore : -52.48413467407227
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : photos finish in the 1,000 m
+reducedParaphrase : photo finish in 1,000 m 
+adj/noun-label : N
+FinalLabel : False
+
+17. sentence : In 1998, he was arrested by authorities following an article covering the house arrest of opposition leader Etienne Tshisekedi.
+adj/noun : house
+n_v : arrest
+prep : of
+pobj : opposition leader
+originalPattern : house arrest of opposition leader
+MVO : house arrests opposition leader
+MVOScore : -33.70063018798828
+OVM : opposition leader arrests house
+OVMScore : -37.34617233276367
+OVpM : opposition leader arrests in house
+OVpMScore : -40.55149459838867
+VOpM : arrest opposition leader in house
+VOpMScore : -38.06223297119141
+VpOpM : arrest of opposition leader in house
+VpOpMScore : -37.42649078369141
+VMpO : arrest house of opposition leader
+VMpOScore : -36.44855880737305
+VpMpO : arrest in the house of opposition leader
+VpMpOScore : -37.04206466674805
+M : the arrest of opposition leader is house
+MScore : -46.12471008300781
+V1 : opposition leader faces a house arrest
+V1Score : -37.17033386230469
+V2 : prevent house arrest of opposition leader
+V2Score : -40.2572135925293
+MVpOPassive : house is arrested by opposition leader
+MVpOPassiveScore : -40.62031555175781
+MpOVPassive : house of the opposition leader is arrested
+MpOVPassiveScore : -39.98286819458008
+OVpMPassive : opposition leader is arrested in house
+OVpMPassiveScore : -38.23064804077148
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : house arrests opposition leader
+reducedParaphrase : house arrest opposition leader 
+adj/noun-label : N
+FinalLabel : False
+
+18. sentence : Garciaparra's walk-off home run against Arizona propelled the Dodgers to win their last seven games of the regular season, helping the Dodgers to make the playoffs.
+adj/noun : home
+n_v : run
+prep : against
+pobj : Arizona
+originalPattern : home run against Arizona
+MVO : home runs Arizona
+MVOScore : -30.15463638305664
+MVpO : home runs against Arizona
+MVpOScore : -30.7684268951416
+OVM : Arizona runs home
+OVMScore : -26.97311210632324
+OVpM : Arizona runs at home
+OVpMScore : -27.79734230041504
+VOpM : run Arizona at home
+VOpMScore : -33.97073745727539
+VpOpM : run against Arizona at home
+VpOpMScore : -36.41427230834961
+VMpO : run home against Arizona
+VMpOScore : -33.27311706542969
+VpMpO : run at home against Arizona
+VpMpOScore : -34.84858322143555
+M : the run against Arizona is home
+MScore : -46.70697402954102
+V1 : Arizona hits a home run
+V1Score : -27.60364532470703
+V2 : hit home run against Arizona
+V2Score : -28.77815628051758
+MVpOPassive : home is run by Arizona
+MVpOPassiveScore : -35.04089736938477
+MpOVPassive : home against Arizona is run
+MpOVPassiveScore : -41.57537460327148
+OVpMPassive : Arizona is run by a home
+OVpMPassiveScore : -31.94315910339355
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : home runs against Arizona
+reducedParaphrase : home run against arizona 
+adj/noun-label : N
+FinalLabel : False
+
+19. sentence : During his time in WCCW, he and Hyatt would feud with Scott Casey and his valet Sunshine which resulted in several cat fights between Hyatt and Sunshine.
+adj/noun : cat
+n_v : fights
+prep : between
+pobj : Hyatt and Sunshine
+originalPattern : cat fights between Hyatt and Sunshine
+MVO : cats fight Hyatt and Sunshine
+MVOScore : -51.44631195068359
+MVpO : cats fight between Hyatt and Sunshine
+MVpOScore : -51.791259765625
+OVM : Hyatt and Sunshine fight cat
+OVMScore : -53.79090881347656
+OVpM : Hyatt and Sunshine fight like cats
+OVpMScore : -56.16458129882812
+VOpM : fight Hyatt and Sunshine as cats
+VOpMScore : -58.40124893188477
+VpOpM : fight with Hyatt and Sunshine as cats
+VpOpMScore : -62.33708190917969
+VMpO : fight cats with Hyatt and Sunshine
+VMpOScore : -58.48655319213867
+VpMpO : fight like a cat with Hyatt and Sunshine
+VpMpOScore : -60.06047439575195
+M : the fights between Hyatt and Sunshine are cat
+MScore : -61.55223846435547
+V1 : Hyatt and Sunshine have some cat fights
+V1Score : -57.22096633911133
+V2 : stop cat fights between Hyatt and Sunshine
+V2Score : -58.86083221435547
+MVpOPassive : cat is fought by Hyatt and Sunshine
+MVpOPassiveScore : -57.41707611083984
+MpOVPassive : cats between the Hyatt and Sunshine are fought
+MpOVPassiveScore : -66.9321517944336
+OVpMPassive : Hyatt and Sunshine are fought by cats
+OVpMPassiveScore : -57.36559295654297
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : cats fight between Hyatt and Sunshine
+reducedParaphrase : cat fight between hyatt and sunshine 
+adj/noun-label : N
+FinalLabel : False
+
+20. sentence : He gave a speech on the mezzanine level of the building following his tour of the facility, praising the project for helping to reverse the brain drain of scientists from Canada.
+adj/noun : brain
+n_v : drain
+prep : of
+pobj : scientists
+originalPattern : brain drain of scientists
+MVO : brain drains scientists
+MVOScore : -32.55685806274414
+OVM : scientists drain brain
+OVMScore : -31.49390602111816
+OVpM : scientists drain out the brain
+OVpMScore : -36.51816177368164
+VOpM : drain scientists from brain
+VOpMScore : -37.69733428955078
+VpOpM : drain of scientists from brain
+VpOpMScore : -42.04766464233398
+VMpO : drain the brains of scientists
+VMpOScore : -29.46904182434082
+VpMpO : drain out the brains of scientists
+VpMpOScore : -35.45824813842773
+M : the drain of scientists is brain
+MScore : -45.98481369018555
+V1 : scientists fear a brain drain
+V1Score : -34.73591995239258
+V2 : reduce brain drain of scientists
+V2Score : -40.47593307495117
+MVpOPassive : brain is drained by scientists
+MVpOPassiveScore : -39.65655899047852
+MpOVPassive : the brains of the scientists are drained
+MpOVPassiveScore : -40.14361572265625
+OVpMPassive : scientists are drained of brain
+OVpMPassiveScore : -37.71568298339844
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : brain drains scientists
+reducedParaphrase : brain drain scientist 
+adj/noun-label : N
+FinalLabel : False
+
+21. sentence : Seven inches of rain fell within a four-hour time span, setting off a chain reaction of disasters .
+adj/noun : chain
+n_v : reaction
+prep : of
+pobj : disasters
+originalPattern : chain reaction of disasters
+MVO : chains react disasters
+MVOScore : -36.79679107666016
+OVM : disasters react chain
+OVMScore : -37.70799255371094
+OVpM : disasters react in chains
+OVpMScore : -38.83502578735352
+VOpM : react disasters in chain
+VOpMScore : -37.9459114074707
+VpOpM : react to disasters in chain
+VpOpMScore : -36.51683044433594
+VMpO : react a chain of disasters
+VMpOScore : -37.47619247436523
+VpMpO : react to a chain of disasters
+VpMpOScore : -35.49227142333984
+M : the reaction of disasters is chain
+MScore : -46.39424133300781
+V1 : disasters prevent a chain reaction
+V1Score : -35.22266006469727
+V2 : prevent chain reaction of disasters
+V2Score : -36.26177215576172
+MVpOPassive : chain is reacted to disasters
+MVpOPassiveScore : -41.39665222167969
+MpOVPassive : a chain of disasters is reacted
+MpOVPassiveScore : -40.24806594848633
+OVpMPassive : disasters are reacted by a chain
+OVpMPassiveScore : -42.94492340087891
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : disasters react in chains
+reducedParaphrase : disaster react in chain 
+adj/noun-label : N
+FinalLabel : False
+
+22. sentence : The relationship between the massive carpet bombing of Cambodia by the United States and the growth of the Khmer Rouge, in terms of recruitment and popular support, has been a matter of interest to historians.
+adj/noun : carpet
+n_v : bombing
+prep : of
+pobj : Cambodia
+originalPattern : carpet bombing of Cambodia
+MVO : a carpet bombs Cambodia
+MVOScore : -38.58962631225586
+OVM : Cambodia bombs carpet
+OVMScore : -35.66106414794922
+OVpM : Cambodia bombs on the carpet
+OVpMScore : -39.04225158691406
+VOpM : bomb Cambodia on the carpet
+VOpMScore : -41.85825347900391
+VpOpM : bomb in Cambodia with a carpet
+VpOpMScore : -41.54360580444336
+VMpO : bomb carpet in Cambodia
+VMpOScore : -35.74951553344727
+VpMpO : bomb on the carpet in Cambodia
+VpMpOScore : -38.53651428222656
+M : the bombing of Cambodia is carpet
+MScore : -42.80870819091797
+V1 : Cambodia prevents the carpet bombing
+V1Score : -43.31401062011719
+V2 : prevent carpet bombing of Cambodia
+V2Score : -42.25514221191406
+MVpOPassive : carpet is bombed in Cambodia
+MVpOPassiveScore : -41.5960807800293
+MpOVPassive : the carpet of the Cambodia is bombed
+MpOVPassiveScore : -48.99619293212891
+OVpMPassive : Cambodia is bombed with carpet
+OVpMPassiveScore : -39.14710998535156
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : a carpet bombs Cambodia
+reducedParaphrase : carpet bomb cambodia 
+adj/noun-label : N
+FinalLabel : False
+
+23. sentence : His field work with colleagues includes expeditions to the Northern Line Islands in 2005 and 2010, and to the Southern Line Islands in 2009.
+adj/noun : field
+n_v : work
+prep : with
+pobj : colleagues
+originalPattern : field work with colleagues
+MVO : field works colleagues
+MVOScore : -32.88771820068359
+MVpO : field works with colleagues
+MVpOScore : -30.61187171936035
+OVM : colleagues work the field
+OVMScore : -34.16418838500977
+OVpM : colleagues work in the field
+OVpMScore : -32.54103088378906
+VOpM : work colleagues in the field
+VOpMScore : -28.29124641418457
+VpOpM : work with colleagues in the field
+VpOpMScore : -27.35407257080078
+VMpO : work the field with colleagues
+VMpOScore : -33.29897308349609
+VpMpO : work in the field with colleagues
+VpMpOScore : -30.45794296264648
+M : the work with colleagues is field
+MScore : -41.70731735229492
+V1 : colleagues do the field work
+V1Score : -36.05013275146484
+V2 : conduct field work with colleagues
+V2Score : -37.27273178100586
+MVpOPassive : field is worked by colleagues
+MVpOPassiveScore : -36.80978393554688
+MpOVPassive : field with the colleagues is worked
+MpOVPassiveScore : -45.37013626098633
+OVpMPassive : colleagues are worked in the field
+OVpMPassiveScore : -38.1390495300293
+OriginalHighestScorePattern : VpOpM
+HighestScorePattern : VpOpM
+HighestScorePatternSentence : work with colleagues in the field
+reducedParaphrase : work with colleague in field 
+adj/noun-label : N
+FinalLabel : False
+
+25. sentence : Henry asks Wendy for a rain check on their date.
+adj/noun : rain
+n_v : check
+prep : on
+pobj : their date
+originalPattern : rain check on their date
+MVO : rain checks their date
+MVOScore : -38.78505706787109
+MVpO : rain checks on their date
+MVpOScore : -40.42786026000977
+OVM : their date checks rain
+OVMScore : -43.63489532470703
+OVpM : their date checks for rain
+OVpMScore : -43.62419891357422
+VOpM : check their date for rain
+VOpMScore : -37.4338264465332
+VpOpM : check out their date for rain
+VpOpMScore : -39.05934906005859
+VMpO : check the rain on their date
+VMpOScore : -40.77793884277344
+VpMpO : check for rain on their date
+VpMpOScore : -41.61685180664062
+M : the check on their date is rain
+MScore : -51.40507125854492
+V1 : their date gets a rain check
+V1Score : -44.72029495239258
+V2 : get rain check on their date
+V2Score : -44.47181701660156
+MVpOPassive : rain is checked on their date
+MVpOPassiveScore : -44.11275100708008
+MpOVPassive : rain on their date is checked
+MpOVPassiveScore : -46.7357177734375
+OVpMPassive : their date is checked for rain
+OVpMPassiveScore : -45.53141021728516
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : rain checks their date
+reducedParaphrase : rain check -pron- date 
+adj/noun-label : N
+FinalLabel : False
+
+28. sentence : The CRO provides the human resources, incurs the costs related to the team's employment, and is responsible for line management of the team.
+adj/noun : line
+n_v : management
+prep : of
+pobj : the team
+originalPattern : line management of the team
+MVO : line manages the team
+MVOScore : -32.10824203491211
+OVM : the team manages the line
+OVMScore : -32.93607711791992
+OVpM : the team manages along the lines
+OVpMScore : -35.81304931640625
+VOpM : manage the team on a line
+VOpMScore : -38.32723999023438
+VpOpM : manage for the team on a line
+VpOpMScore : -43.28916931152344
+VMpO : manage lines of the team
+VMpOScore : -36.15611267089844
+VpMpO : manage along the lines of the team
+VpMpOScore : -37.64653778076172
+M : the management of the team is line
+MScore : -41.73311233520508
+V1 : the team provides line management
+V1Score : -37.48734283447266
+V2 : maintain line management of the team
+V2Score : -42.80920028686523
+MVpOPassive : line is managed by the team
+MVpOPassiveScore : -31.55960655212402
+MpOVPassive : line of the team is managed
+MpOVPassiveScore : -36.55649948120117
+OVpMPassive : the team is managed by line
+OVpMPassiveScore : -36.03085708618164
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the team manages the line
+reducedParaphrase : team manage line 
+adj/noun-label : N
+FinalLabel : False
+
+29. sentence : U.S. Figure Skating is the national governing body for the sport of figure skating on ice in the United States.
+adj/noun : figure
+n_v : skating
+prep : on
+pobj : ice
+originalPattern : figure skating on ice
+MVO : figure skates ice
+MVOScore : -31.42576217651367
+MVpO : figure skates on ice
+MVpOScore : -30.40142631530762
+OVM : ice skates figure
+OVMScore : -31.617431640625
+OVpM : ice skates in figure
+OVpMScore : -34.3415641784668
+VOpM : skate ice with a figure
+VOpMScore : -42.11168670654297
+VpOpM : skate on ice with a figure
+VpOpMScore : -40.90109634399414
+VMpO : skate figure on ice
+VMpOScore : -34.79761123657227
+VpMpO : skate as a figure on ice
+VpMpOScore : -41.77595138549805
+M : skating on ice is figure
+MScore : -43.52371597290039
+V1 : ice plays figure skating
+V1Score : -29.97007942199707
+V2 : play figure skating on ice
+V2Score : -31.37712097167969
+MVpOPassive : figure is skated on ice
+MVpOPassiveScore : -42.46855926513672
+MpOVPassive : a figure on the ice is skated
+MpOVPassiveScore : -42.81888961791992
+OVpMPassive : ice is skated in figure
+OVpMPassiveScore : -41.56765365600586
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : figure skates on ice
+reducedParaphrase : figure skate on ice 
+adj/noun-label : N
+FinalLabel : False
+
+30. sentence : Instead of a blanket prohibition against all political appointments, a more nuanced approach is in order, one that recognizes the realities of political life.
+adj/noun : blanket
+n_v : prohibition
+prep : of
+pobj : all political appointments
+originalPattern : blanket prohibition of all political appointments
+MVO : blanket bans all political appointments
+MVOScore : -43.30792236328125
+OVM : all political appointments ban blanket
+OVMScore : -46.71972274780273
+OVpM : all political appointments ban as a blanket
+OVpMScore : -53.55941009521484
+VOpM : ban all political appointments under the blanket
+VOpMScore : -49.30756759643555
+VpOpM : ban on all political appointments under the blanket
+VpOpMScore : -49.95039749145508
+VMpO : ban the blanket of all political appointments
+VMpOScore : -48.54843521118164
+VpMpO : ban on the blanket of all political appointments
+VpMpOScore : -51.54991149902344
+M : the prohibition of all political appointments is blanket
+MScore : -51.51459503173828
+V1 : all political appointments have a blanket prohibition
+V1Score : -45.78014373779297
+V2 : repeal blanket prohibition of all political appointments
+V2Score : -52.87709808349609
+MVpOPassive : blanket is banned in all political appointments
+MVpOPassiveScore : -46.73662567138672
+MpOVPassive : blanket of all political appointments is prohibited
+MpOVPassiveScore : -51.73310089111328
+OVpMPassive : all political appointments are prohibited under the blanket
+OVpMPassiveScore : -49.69085311889648
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : blanket bans all political appointments
+reducedParaphrase : blanket ban political appointment 
+adj/noun-label : N
+FinalLabel : False
+
+31. sentence : The flash storage on Android devices is split into several partitions, such as codice_1 for the operating system itself, and codice_2 for user data and application installations.
+adj/noun : flash
+n_v : storage
+prep : on
+pobj : Android devices
+originalPattern : flash storage on Android devices
+MVO : flash stores Android devices
+MVOScore : -36.30138397216797
+MVpO : flash stores on Android devices
+MVpOScore : -35.23625183105469
+OVM : Android devices store flash
+OVMScore : -32.85514068603516
+OVpM : Android devices store in a flash
+OVpMScore : -38.1805305480957
+VOpM : store Android devices with flash
+VOpMScore : -36.23243713378906
+VpOpM : store for Android devices with a flash
+VpOpMScore : -38.35042572021484
+VMpO : store flashes on Android devices
+VMpOScore : -38.61770629882812
+VpMpO : store of flashes on Android devices
+VpMpOScore : -44.63231658935547
+M : the storage on Android devices is flash
+MScore : -44.87677383422852
+V1 : Android devices have a flash storage
+V1Score : -33.80448913574219
+V2 : provide flash storage on Android devices
+V2Score : -36.10226440429688
+MVpOPassive : flash is stored on Android devices
+MVpOPassiveScore : -37.72745513916016
+MpOVPassive : flashes on the Android devices are stored
+MpOVPassiveScore : -44.89242935180664
+OVpMPassive : Android devices are stored in flash
+OVpMPassiveScore : -33.76129531860352
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : Android devices store flash
+reducedParaphrase : android device store flash 
+adj/noun-label : N
+FinalLabel : False
+
+32. sentence : At the time of Caillebotte's death, the Impressionists were still largely condemned by the art establishment in France, which was dominated by Academic art and specifically the Académie des beaux-arts.
+adj/noun : art
+n_v : establishment
+prep : in
+pobj : France
+originalPattern : art establishment in France
+MVO : art establishes France
+MVOScore : -34.22197723388672
+MVpO : art establishes in France
+MVpOScore : -37.51901626586914
+OVM : France establishes art
+OVMScore : -29.94148635864258
+OVpM : France establishes as an art
+OVpMScore : -40.90261840820312
+VOpM : establish France as an art
+VOpMScore : -36.46794128417969
+VpOpM : establish in France as an art
+VpOpMScore : -40.76100921630859
+VMpO : establish art in France
+VMpOScore : -34.03074264526367
+VpMpO : establish of the arts in France
+VpMpOScore : -38.96089935302734
+M : the establishment in France is art
+MScore : -41.27871322631836
+V1 : France establishes an art establishment
+V1Score : -41.46419525146484
+V2 : establish art establishment in France
+V2Score : -42.57419204711914
+MVpOPassive : art is established in France
+MVpOPassiveScore : -33.53065872192383
+MpOVPassive : arts in France are established
+MpOVPassiveScore : -37.21780395507812
+OVpMPassive : France is established as an art
+OVpMPassiveScore : -34.18501663208008
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO
+HighestScorePatternSentence : establish art in France
+reducedParaphrase : establish art in france 
+adj/noun-label : N
+FinalLabel : False
+
+35. sentence : A runaway greenhouse effect is a process in which a net positive feedback between surface temperature and atmospheric opacity increases the strength of the greenhouse effect on a planet until its oceans boil away.
+adj/noun : greenhouse
+n_v : effect
+prep : on
+pobj : a planet
+originalPattern : greenhouse effect on a planet
+MVO : the greenhouse effects a planet
+MVOScore : -34.76332473754883
+MVpO : the greenhouse effects on a planet
+MVpOScore : -35.23081970214844
+OVM : a planet effects greenhouse
+OVMScore : -35.05068588256836
+OVpM : a planet effects on the greenhouse
+OVpMScore : -40.95288848876953
+VOpM : cause a planet with a greenhouse
+VOpMScore : -36.4827995300293
+VpOpM : effect of a planet with a greenhouse
+VpOpMScore : -39.93292999267578
+VMpO : cause the greenhouse of a planet
+VMpOScore : -37.40264129638672
+VpMpO : cause of greenhouses on a planet
+VpMpOScore : -41.06860733032227
+M : the effect on a planet is greenhouse
+MScore : -43.41463470458984
+V1 : a planet creates a greenhouse effect
+V1Score : -34.66150665283203
+V2 : create greenhouse effect on a planet
+V2Score : -38.57499694824219
+MVpOPassive : the greenhouse is caused by a planet
+MVpOPassiveScore : -37.18756484985352
+MpOVPassive : a greenhouse on a planet is caused
+MpOVPassiveScore : -42.29581832885742
+OVpMPassive : a planet is caused by greenhouse
+OVpMPassiveScore : -33.97276306152344
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : the greenhouse effects a planet
+reducedParaphrase : greenhouse effect planet 
+adj/noun-label : N
+FinalLabel : False
+
+36. sentence : Critics protest that, while legacy preferences are long established and constitutional for institutions of higher education (colleges and universities), legacy enrollment in public schools is anti-democratic, constitutionally questionable, and subvert public education to the benefit of the wealthy.
+adj/noun : legacy
+n_v : enrollment
+prep : in
+pobj : public schools
+originalPattern : legacy enrollment in public schools
+MVO : legacy enrolls public schools
+MVOScore : -37.30141830444336
+MVpO : legacy enrolls in public schools
+MVpOScore : -37.10439682006836
+OVM : public schools enroll legacy
+OVMScore : -42.00008010864258
+OVpM : public schools enroll in legacy
+OVpMScore : -41.75322341918945
+VOpM : enroll public schools in the legacy
+VOpMScore : -42.8021240234375
+VpOpM : enroll in public schools with legacy
+VpOpMScore : -41.7611083984375
+VMpO : enroll the legacy of public schools
+VMpOScore : -44.26680755615234
+VpMpO : enroll in the legacy of public schools
+VpMpOScore : -40.64530563354492
+M : the enrollment in public schools is legacy
+MScore : -42.81487274169922
+V1 : public schools have a legacy enrollment
+V1Score : -46.65771865844727
+V2 : increase legacy enrollment in public schools
+V2Score : -41.76627731323242
+MVpOPassive : legacy is enrolled in public schools
+MVpOPassiveScore : -38.60943984985352
+MpOVPassive : legacy in the public schools is enrolled
+MpOVPassiveScore : -45.68897247314453
+OVpMPassive : public schools are enrolled in legacy
+OVpMPassiveScore : -43.07037734985352
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : legacy enrolls in public schools
+reducedParaphrase : legacy enroll in public school 
+adj/noun-label : N
+FinalLabel : False
+
+37. sentence : However, the idea of plane travel fills Marge with anxiety as she has a fear of flying, and after a panic attack on the plane, the trip is postponed.
+adj/noun : panic
+n_v : attack
+prep : on
+pobj : the plane
+originalPattern : panic attack on the plane
+MVO : panic attacks the plane
+MVOScore : -34.74542999267578
+MVpO : panic attacks on the plane
+MVpOScore : -32.67736053466797
+OVM : the plane attacks panic
+OVMScore : -37.29897308349609
+OVpM : the plane attacks in panic
+OVpMScore : -39.63159942626953
+VOpM : attack the plane in panic
+VOpMScore : -34.30017471313477
+VpOpM : attack on the plane in panic
+VpOpMScore : -37.24375534057617
+VMpO : attack panic on the plane
+VMpOScore : -36.8238525390625
+VpMpO : attack of panic on the plane
+VpMpOScore : -37.64615249633789
+M : the attack on the plane is panic
+MScore : -40.01496505737305
+V1 : the plane catches a panic attack
+V1Score : -39.38927459716797
+V2 : prevent panic attack on the plane
+V2Score : -34.65396881103516
+MVpOPassive : panic is attacked by the plane
+MVpOPassiveScore : -41.10569000244141
+MpOVPassive : panic on the plane is attacked
+MpOVPassiveScore : -40.88462448120117
+OVpMPassive : the plane is attacked by panic
+OVpMPassiveScore : -37.43678665161133
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : panic attacks on the plane
+reducedParaphrase : panic attack on plane 
+adj/noun-label : N
+FinalLabel : False
+
+42. sentence : After the student protests of 1968 many professors in many universities had stopped wearing academical gowns also in the formal occasions but since the nineties people have started to use them again, mostly in humanities faculties.
+adj/noun : student
+n_v : protests
+prep : of
+pobj : 1968
+originalPattern : student protests of 1968
+MVO : student protests 1968
+MVOScore : -31.92206192016602
+OVM : 1968 protest student
+OVMScore : -31.90166473388672
+OVpM : 1968 protest by students
+OVpMScore : -32.5053596496582
+VOpM : protest 1968 for students
+VOpMScore : -38.01773071289062
+VpOpM : protest in 1968 for students
+VpOpMScore : -35.93984222412109
+VMpO : protest students in 1968
+VMpOScore : -32.42801666259766
+VpMpO : protest by students in 1968
+VpMpOScore : -32.56739044189453
+M : the protests of 1968 are student
+MScore : -42.06070327758789
+V1 : 1968 protest student protests
+V1Score : -35.47949981689453
+V2 : protest student protests of 1968
+V2Score : -38.57444381713867
+MVpOPassive : a student is protested in 1968
+MVpOPassiveScore : -40.09681701660156
+MpOVPassive : a student of the 1968 is protested
+MpOVPassiveScore : -48.12800979614258
+OVpMPassive : 1968 are protested by students
+OVpMPassiveScore : -41.71294403076172
+gold : students protest in 1968
+reducedGold : student protest in 1968 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : student protests 1968
+reducedParaphrase : student protest 1968 
+adj/noun-label : arg0
+FinalLabel : False
+
+44. sentence : As of October 2005, the Federal Aviation Administration (FAA) has begun a safety evaluation of the aircraft and decided that the aircraft has met its certification requirements - it is safe when operated by properly trained pilots who operate properly maintained aircraft.
+adj/noun : safety
+n_v : evaluation
+prep : of
+pobj : the aircraft
+originalPattern : safety evaluation of the aircraft
+MVO : safety evaluates the aircraft
+MVOScore : -33.69728088378906
+OVM : the aircraft evaluates the safety
+OVMScore : -35.86081695556641
+OVpM : the aircraft evaluates for safety
+OVpMScore : -37.82188034057617
+VOpM : evaluate the aircraft for safety
+VOpMScore : -33.77237701416016
+VpOpM : evaluate of the aircraft for safety
+VpOpMScore : -39.29201126098633
+VMpO : evaluate the safety of the aircraft
+VMpOScore : -30.75957679748535
+VpMpO : evaluate for the safety of the aircraft
+VpMpOScore : -38.32119750976562
+M : the evaluation of the aircraft is safety
+MScore : -43.16464996337891
+V1 : the aircraft undergoes a safety evaluation
+V1Score : -35.90607452392578
+V2 : conduct safety evaluation of the aircraft
+V2Score : -38.03663635253906
+MVpOPassive : safety is evaluated on the aircraft
+MVpOPassiveScore : -37.53816604614258
+MpOVPassive : safety of the aircraft is evaluated
+MpOVPassiveScore : -35.91257858276367
+OVpMPassive : the aircraft is evaluated for safety
+OVpMPassiveScore : -34.45930480957031
+gold : evaluate the safety of the aircraft
+reducedGold : evaluate safety of aircraft 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : safety evaluates the aircraft
+reducedParaphrase : safety evaluate aircraft 
+adj/noun-label : arg1
+FinalLabel : False
+
+45. sentence : As the post on Davids' Island grew, the Army invested in new brick construction of more than 20 new buildings, including officers' quarters, enlisted men's barracks, mess halls, hospital buildings, and support facilities.
+adj/noun : brick
+n_v : construction
+prep : of
+pobj : more than 20 new buildings
+originalPattern : brick construction of more than 20 new buildings
+MVO : brick constructs more than 20 new buildings
+MVOScore : -46.73966217041016
+OVM : more than 20 new buildings construct brick
+OVMScore : -53.06169891357422
+OVpM : more than 20 new buildings construct with bricks
+OVpMScore : -54.96069717407227
+VOpM : construct more than 20 new buildings with bricks
+VOpMScore : -47.79054260253906
+VpOpM : construct of more than 20 new buildings in brick
+VpOpMScore : -51.14006042480469
+VMpO : construct bricks for more than 20 new buildings
+VMpOScore : -49.72695541381836
+VpMpO : construct of the bricks for more than 20 new buildings
+VpMpOScore : -56.42863464355469
+M : the construction of more than 20 new buildings is brick
+MScore : -53.57853317260742
+V1 : more than 20 new buildings have brick construction
+V1Score : -54.34302520751953
+V2 : facilitate brick construction of more than 20 new buildings
+V2Score : -52.3564338684082
+MVpOPassive : brick is constructed in more than 20 new buildings
+MVpOPassiveScore : -51.32989501953125
+MpOVPassive : the bricks of the more than 20 new buildings are constructed
+MpOVPassiveScore : -56.13288116455078
+OVpMPassive : more than 20 new buildings are constructed of brick
+OVpMPassiveScore : -50.08908843994141
+gold : construct more than 20 new buildings with bricks
+reducedGold : construct more than 20 new building with brick 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : construct more than 20 new buildings of bricks
+reducedParaphrase : construct more than 20 new building of brick 
+adj/noun-label : PP
+FinalLabel : False
+
+47. sentence : Composer Jeff Lynne described writing the song in a 1990 radio interview with Roger Scott:
+adj/noun : radio
+n_v : interview
+prep : with
+pobj : Roger Scott
+originalPattern : radio interview with Roger Scott
+MVO : radio interviews Roger Scott
+MVOScore : -35.05254364013672
+MVpO : radio interviews with Roger Scott
+MVpOScore : -34.77492141723633
+OVM : Roger Scott interviews radio
+OVMScore : -35.86321258544922
+OVpM : Roger Scott interviews on the radio
+OVpMScore : -39.16762924194336
+VOpM : interview Roger Scott on radio
+VOpMScore : -39.47085571289062
+VpOpM : interview with Roger Scott on radio
+VpOpMScore : -38.28370666503906
+VMpO : question radio by Roger Scott
+VMpOScore : -43.60646057128906
+VpMpO : question on the radio with Roger Scott
+VpMpOScore : -45.29517364501953
+M : an interview with Roger Scott is radio
+MScore : -43.88864517211914
+V1 : Roger Scott does a radio interview
+V1Score : -36.22054672241211
+V2 : do radio interview with Roger Scott
+V2Score : -43.64613342285156
+MVpOPassive : radio is interviewed by Roger Scott
+MVpOPassiveScore : -43.03720092773438
+MpOVPassive : radio with Roger Scott is interviewed
+MpOVPassiveScore : -50.56295776367188
+OVpMPassive : Roger Scott is interviewed on the radio
+OVpMPassiveScore : -36.84118270874023
+gold : Roger Scott interview on radio
+reducedGold : roger scott interview on radio 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : radio interviews Roger Scott
+reducedParaphrase : radio interview roger scott 
+adj/noun-label : PP
+FinalLabel : False
+
+49. sentence : During the art market boom, collectors put a premium on high-profile contemporary art sales like the Art Basel fairs in Switzerland and Miami and the biannual modern and contemporary art sales of Christie's and Sotheby's in London and New York.
+adj/noun : art
+n_v : sales
+prep : of
+pobj : Christie's and Sotheby's
+originalPattern : art sales of Christie's and Sotheby's
+MVO : arts shop Christie's and Sotheby's
+MVOScore : -45.83860015869141
+OVM : Christie's and Sotheby's shop art
+OVMScore : -51.1680908203125
+OVpM : Christie's and Sotheby's shop of art
+OVpMScore : -55.40171813964844
+VOpM : shop Christie's and Sotheby's for the art
+VOpMScore : -50.55860900878906
+VpOpM : shop at Christie's and Sotheby's for the art
+VpOpMScore : -50.96330261230469
+VMpO : shop the art of Christie's and Sotheby's
+VMpOScore : -44.84641647338867
+VpMpO : shop for the art of Christie's and Sotheby's
+VpMpOScore : -49.34824371337891
+M : the sales of Christie's and Sotheby's are art
+MScore : -54.52049255371094
+V1 : Christie's and Sotheby's boost art sales
+V1Score : -57.71170806884766
+V2 : boost art sales of Christie's and Sotheby's
+V2Score : -59.18952560424805
+MVpOPassive : art is shopped at Christie's and Sotheby's
+MVpOPassiveScore : -49.04135894775391
+MpOVPassive : the art of both Christie's and Sotheby's is shopped
+MpOVPassiveScore : -59.97353363037109
+OVpMPassive : Christie's and Sotheby's are shopped for art
+OVpMPassiveScore : -59.00148010253906
+gold : Christie's and Sotheby's sell art
+reducedGold : christie 's and sotheby 's sell art 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : arts shop Christie's and Sotheby's
+reducedParaphrase : art shop christie 's and sotheby 's 
+adj/noun-label : arg1
+FinalLabel : False
+
+50. sentence : Federal Labor has also committed to further road improvements in the area through the extension of the Monaro Highway.
+adj/noun : road
+n_v : improvements
+prep : in
+pobj : the area
+originalPattern : road improvements in the area
+MVO : roads improve the area
+MVOScore : -32.59458541870117
+MVpO : roads improve in the area
+MVpOScore : -34.61258316040039
+OVM : the area improves road
+OVMScore : -35.84323120117188
+OVpM : the area improves with the road
+OVpMScore : -39.24155807495117
+VOpM : improve the area around the road
+VOpMScore : -31.13155364990234
+VpOpM : improve of the area around the road
+VpOpMScore : -38.10073852539062
+VMpO : improve roads in the area
+VMpOScore : -31.18208503723145
+VpMpO : improve of the roads in the area
+VpMpOScore : -36.51660537719727
+M : the improvements in the area are road
+MScore : -43.09822463989258
+V1 : the area has road improvements
+V1Score : -36.49047470092773
+V2 : facilitate road improvements in the area
+V2Score : -36.71006774902344
+MVpOPassive : road is improved in the area
+MVpOPassiveScore : -36.46582794189453
+MpOVPassive : roads in all the area are improved
+MpOVPassiveScore : -44.78787994384766
+OVpMPassive : the area is improved by road
+OVpMPassiveScore : -37.39765167236328
+gold : improve roads in the area
+reducedGold : improve road in area 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : roads improve in the area
+reducedParaphrase : road improve in area 
+adj/noun-label : arg1
+FinalLabel : False
+
+52. sentence : Frames should be well-sealed and hung securely, allowing a space for air circulation between the frame and the wall.
+adj/noun : air
+n_v : circulation
+prep : between
+pobj : the frame and the wall
+originalPattern : air circulation between the frame and the wall
+MVO : airs air the frame and the wall
+MVOScore : -49.13879776000977
+MVpO : air circulates between the frame and the wall
+MVpOScore : -44.49123382568359
+OVM : the frame and the wall air air
+OVMScore : -44.95183563232422
+OVpM : the frame and the wall circulate in the air
+OVpMScore : -47.55099487304688
+VOpM : air the frame and the wall of air
+VOpMScore : -43.70877456665039
+VpOpM : air between the frame and the wall of air
+VpOpMScore : -42.05574417114258
+VMpO : air the air between the frame and the wall
+VMpOScore : -41.38515853881836
+VpMpO : air in the air between the frame and the wall
+VpMpOScore : -41.76112365722656
+M : the circulation between the frame and the wall is air
+MScore : -52.82927322387695
+V1 : the frame and the wall provide the air circulation
+V1Score : -50.68106460571289
+V2 : improve air circulation between the frame and the wall
+V2Score : -50.54499435424805
+MVpOPassive : air is circulated between the frame and the wall
+MVpOPassiveScore : -44.7818603515625
+MpOVPassive : air between both the frame and the wall is aired
+MpOVPassiveScore : -56.90493774414062
+OVpMPassive : the frame and the wall are aired into the air
+OVpMPassiveScore : -51.31258392333984
+gold : air circulate between the frame and the wall
+reducedGold : air circulate between frame and wall 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO
+HighestScorePatternSentence : air the air between the frame and the wall
+reducedParaphrase : air air between frame and wall 
+adj/noun-label : arg0
+FinalLabel : False
+
+53. sentence : Generally, for a criminal court, the report package will consist of a written expert conclusion of the evidence as well as the evidence itself (often presented on digital media).
+adj/noun : expert
+n_v : conclusion
+prep : of
+pobj : the evidence
+originalPattern : expert conclusion of the evidence
+MVO : expert concludes the evidence
+MVOScore : -31.70986175537109
+OVM : the evidence concludes experts
+OVMScore : -35.43682098388672
+OVpM : the evidence concludes with experts
+OVpMScore : -37.72972869873047
+VOpM : conclude the evidence of the expert
+VOpMScore : -35.98908996582031
+VpOpM : conclude with the evidence of an expert
+VpOpMScore : -42.49306488037109
+VMpO : conclude experts on the evidence
+VMpOScore : -37.9000244140625
+VpMpO : conclude with experts on the evidence
+VpMpOScore : -40.29425811767578
+M : the conclusion of the evidence is expert
+MScore : -40.15071487426758
+V1 : the evidence requires an expert conclusion
+V1Score : -37.83821868896484
+V2 : draw expert conclusion of the evidence
+V2Score : -42.99987030029297
+MVpOPassive : an expert is concluded by the evidence
+MVpOPassiveScore : -40.41557312011719
+MpOVPassive : the expert of all the evidence is concluded
+MpOVPassiveScore : -47.2714729309082
+OVpMPassive : the evidence is concluded by the expert
+OVpMPassiveScore : -38.71741485595703
+gold : the expert conclude about the evidence
+reducedGold : expert conclude about evidence 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : expert concludes the evidence
+reducedParaphrase : expert conclude evidence 
+adj/noun-label : arg0
+FinalLabel : False
+
+54. sentence : He said that he had acted in good faith regarding his dissertation, and that he had been led to believe by his thesis committee that his conduct had been correct, effectively repeating the majority conclusion of the Semmelweis University fact-finding committee.
+adj/noun : majority
+n_v : conclusion
+prep : of
+pobj : the Semmelweis University fact-finding committee
+originalPattern : majority conclusion of the Semmelweis University fact-finding committee
+MVO : majority concludes the Semmelweis University fact-finding committee
+MVOScore : -63.20898818969727
+OVM : the Semmelweis University fact-finding committee concludes the majority
+OVMScore : -66.19735717773438
+OVpM : the Semmelweis University fact-finding committee concludes with a majority
+OVpMScore : -69.77378845214844
+VOpM : conclude the Semmelweis University fact-finding committee with the majority
+VOpMScore : -73.16806030273438
+VpOpM : conclude from the Semmelweis University fact-finding committee with the majority
+VpOpMScore : -76.9918212890625
+VMpO : conclude the majority of the Semmelweis University fact-finding committee
+VMpOScore : -68.44884490966797
+VpMpO : conclude with the majority of the Semmelweis University fact-finding committee
+VpMpOScore : -72.1655044555664
+M : the conclusion of the Semmelweis University fact-finding committee is majority
+MScore : -72.63419342041016
+V1 : the Semmelweis University fact-finding committee finds the majority conclusion
+V1Score : -75.0796890258789
+V2 : support majority conclusion of the Semmelweis University fact-finding committee
+V2Score : -72.68875122070312
+MVpOPassive : majority is concluded by the Semmelweis University fact-finding committee
+MVpOPassiveScore : -70.14379119873047
+MpOVPassive : a majority of the Semmelweis University fact-finding committee is concluded
+MpOVPassiveScore : -70.63113403320312
+OVpMPassive : the Semmelweis University fact-finding committee is concluded by a majority
+OVpMPassiveScore : -72.22628021240234
+gold : the majority of the Semmelweis University fact-finding committee conclude
+reducedGold : majority of semmelweis university fact - find committee conclude 
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : arg0
+FinalLabel : False
+
+55. sentence : He was subsequently commissioned to write a piece in memory of victims of the London bombings of 2005.
+adj/noun : London
+n_v : bombings
+prep : of
+pobj : 2005
+originalPattern : London bombings of 2005
+MVO : London bombs 2005
+MVOScore : -30.33118057250977
+OVM : 2005 bomb London
+OVMScore : -33.53180694580078
+OVpM : 2005 bomb in London
+OVpMScore : -31.56342697143555
+VOpM : bomb 2005 in London
+VOpMScore : -35.48651885986328
+VpOpM : bomb of 2005 in London
+VpOpMScore : -37.34662246704102
+VMpO : bomb the Londons in 2005
+VMpOScore : -43.75612258911133
+VpMpO : bomb in Londons in 2005
+VpMpOScore : -43.79322052001953
+M : the bombings of 2005 are London
+MScore : -44.84347915649414
+V1 : 2005 commemorate the London bombings
+V1Score : -39.83123016357422
+V2 : commemorate London bombings of 2005
+V2Score : -49.1436767578125
+MVpOPassive : London is bombed in 2005
+MVpOPassiveScore : -32.81768035888672
+MpOVPassive : London of 2005 is bombed
+MpOVPassiveScore : -39.06562423706055
+OVpMPassive : 2005 are bombed in London
+OVpMPassiveScore : -39.71804046630859
+gold : bomb London in 2005
+reducedGold : bomb london in 2005 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : London bombs 2005
+reducedParaphrase : london bomb 2005 
+adj/noun-label : arg1
+FinalLabel : False
+
+56. sentence : His efforts, along with precedents set by Atlas/Seaboard Comics' creator-friendly policies and other factors, helped lead to the modern industry's standard practice of returning original artwork to the artist, who can earn additional income from art sales to collectors.
+adj/noun : art
+n_v : sales
+prep : to
+pobj : collectors
+originalPattern : art sales to collectors
+MVO : arts shop collectors
+MVOScore : -32.83308792114258
+MVpO : art shops to collectors
+MVpOScore : -36.45986557006836
+OVM : collectors shop art
+OVMScore : -32.51332855224609
+OVpM : collectors shop for the art
+OVpMScore : -34.96392822265625
+VOpM : shop collectors of art
+VOpMScore : -36.0904426574707
+VpOpM : shop for collectors of art
+VpOpMScore : -36.74706649780273
+VMpO : shop art for collectors
+VMpOScore : -35.14947891235352
+VpMpO : shop of art for collectors
+VpMpOScore : -37.13395309448242
+M : the sales to collectors are art
+MScore : -43.29828643798828
+V1 : collectors promote the art sales
+V1Score : -42.84215927124023
+V2 : promote art sales to collectors
+V2Score : -41.64467620849609
+MVpOPassive : art is shopped to collectors
+MVpOPassiveScore : -39.94828414916992
+MpOVPassive : art to the collectors is shopped
+MpOVPassiveScore : -50.35616683959961
+OVpMPassive : collectors are shopped for art
+OVpMPassiveScore : -42.52902221679688
+gold : sell art to collectors
+reducedGold : sell art to collector 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : art shops to collectors
+reducedParaphrase : art shop to collector 
+adj/noun-label : arg1
+FinalLabel : False
+
+57. sentence : In around 1749 Swiny made a trip to Paris for John Rich, to arrange the London tour of Jean Monnet's troupe, before dying in London in 1754 and being buried in St Martin-in-the-Fields.
+adj/noun : London
+n_v : tour
+prep : of
+pobj : Jean Monnet's troupe
+originalPattern : London tour of Jean Monnet's troupe
+MVO : London visits Jean Monnet's troupe
+MVOScore : -47.78773498535156
+OVM : Jean Monnet's troupe visits London
+OVMScore : -44.26647186279297
+OVpM : Jean Monnet's troupe visits to London
+OVpMScore : -49.62049102783203
+VOpM : visit Jean Monnet's troupe in London
+VOpMScore : -51.16250228881836
+VpOpM : visit to Jean Monnet's troupe in London
+VpOpMScore : -54.50857162475586
+VMpO : visit London with Jean Monnet's troupe
+VMpOScore : -55.438720703125
+VpMpO : tour in London with Jean Monnet's troupe
+VpMpOScore : -54.84907150268555
+M : a tour of Jean Monnet's troupe is London
+MScore : -60.08288192749023
+V1 : Jean Monnet's troupe accompanies the London tour
+V1Score : -58.3754997253418
+V2 : accompany London tour of Jean Monnet's troupe
+V2Score : -64.3359603881836
+MVpOPassive : London is visited by Jean Monnet's troupe
+MVpOPassiveScore : -48.53004455566406
+MpOVPassive : Londons of the Jean Monnet's troupe are visited
+MpOVPassiveScore : -63.16161346435547
+OVpMPassive : Jean Monnet's troupe is toured in London
+OVpMPassiveScore : -51.94127655029297
+gold : Jean Monnet's troupe tour London
+reducedGold : jean monnet 's troupe tour london 
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : arg1
+FinalLabel : False
+
+58. sentence : In the Indian subcontinent, irrigation requirements of Bangladesh determine water allocations of The Ganges River.
+adj/noun : water
+n_v : allocations
+prep : of
+pobj : The Ganges River
+originalPattern : water allocations of The Ganges River
+MVO : water allocates The Ganges River
+MVOScore : -47.14091110229492
+OVM : The Ganges River allocates water
+OVMScore : -34.60420608520508
+OVpM : The Ganges River allocates to the water
+OVpMScore : -45.25683212280273
+VOpM : allocate The Ganges River with water
+VOpMScore : -47.92682266235352
+VpOpM : allocate to The Ganges River with water
+VpOpMScore : -52.39521789550781
+VMpO : allocate water to The Ganges River
+VMpOScore : -46.11405181884766
+VpMpO : allocate to the waters of The Ganges River
+VpMpOScore : -52.53848266601562
+M : the allocations of The Ganges River are water
+MScore : -58.12235641479492
+V1 : The Ganges River has water allocations
+V1Score : -40.47019577026367
+V2 : improve water allocations of The Ganges River
+V2Score : -54.04172134399414
+MVpOPassive : water is allocated to The Ganges River
+MVpOPassiveScore : -47.40110778808594
+MpOVPassive : waters of the The Ganges River are allocated
+MpOVPassiveScore : -51.13363647460938
+OVpMPassive : The Ganges River is allocated for water
+OVpMPassiveScore : -38.88428497314453
+gold : allocate the water of the Ganges River
+reducedGold : allocate water of ganges river 
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : arg1
+FinalLabel : False
+
+59. sentence : In this role Hutchinson took a leading role in the December 2012 campaign of protests and road blockades by loyalists following Belfast City Council passing a resolution to end the practice of flying the Union flag from Belfast City Hall all year round and instead to limit its use to certain designated days.
+adj/noun : road
+n_v : blockades
+prep : by
+pobj : loyalists
+originalPattern : road blockades by loyalists
+MVO : road blockades loyalists
+MVOScore : -38.81710052490234
+MVpO : road blockades by loyalists
+MVpOScore : -39.38876724243164
+OVM : loyalists blockade roads
+OVMScore : -37.82234573364258
+OVpM : loyalists blockade on the road
+OVpMScore : -44.73306274414062
+VOpM : blockade loyalists on the road
+VOpMScore : -46.75086212158203
+VpOpM : blockade of loyalists on the road
+VpOpMScore : -45.59260559082031
+VMpO : blockade road for loyalists
+VMpOScore : -45.36511611938477
+VpMpO : blockade of roads for loyalists
+VpMpOScore : -46.68075180053711
+M : the blockades by loyalists are road
+MScore : -52.75814437866211
+V1 : loyalists impose road blockades
+V1Score : -47.1494140625
+V2 : prevent road blockades by loyalists
+V2Score : -45.5852165222168
+MVpOPassive : the road is blockaded by loyalists
+MVpOPassiveScore : -40.34262847900391
+MpOVPassive : roads by the loyalists are blockaded
+MpOVPassiveScore : -50.67003631591797
+OVpMPassive : loyalists are blockaded on the road
+OVpMPassiveScore : -44.35261154174805
+gold : loyalists block roads
+reducedGold : loyalist block road 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : loyalists blockade roads
+reducedParaphrase : loyalist blockade road 
+adj/noun-label : arg1
+FinalLabel : False
+
+65. sentence : Kodály became interested in the music education of children in 1925 when he overheard some students singing songs that they had learned at school.
+adj/noun : music
+n_v : education
+prep : of
+pobj : children
+originalPattern : music education of children
+MVO : music educates children
+MVOScore : -28.8947639465332
+OVM : children educate music
+OVMScore : -32.70929336547852
+OVpM : children educate in music
+OVpMScore : -34.66575622558594
+VOpM : educate children in music
+VOpMScore : -28.12524795532227
+VpOpM : educe for children to music
+VpOpMScore : -42.38017272949219
+VMpO : educate music for children
+VMpOScore : -32.45625305175781
+VpMpO : educate in music for children
+VpMpOScore : -35.04328536987305
+M : the education of children is music
+MScore : -33.64849853515625
+V1 : children need a music education
+V1Score : -33.70176696777344
+V2 : promote music education of children
+V2Score : -34.52932357788086
+MVpOPassive : music is educated for children
+MVpOPassiveScore : -36.82757568359375
+MpOVPassive : the music of the children is educated
+MpOVPassiveScore : -39.18948364257812
+OVpMPassive : children are educated in music
+OVpMPassiveScore : -33.07094573974609
+gold : educate children about music
+reducedGold : educate child about music 
+OriginalHighestScorePattern : VOpM
+HighestScorePattern : VOpM
+HighestScorePatternSentence : educate children in music
+reducedParaphrase : educate child in music 
+adj/noun-label : PP
+FinalLabel : False
+
+66. sentence : Lloyd Webber made his professional debut at the Queen Elizabeth Hall, London in September 1972 when he gave the first London performance of the Cello Concerto by Sir Arthur Bliss.
+adj/noun : London
+n_v : performance
+prep : of
+pobj : the Cello Concerto
+originalPattern : London performance of the Cello Concerto
+MVO : London performs the Cello Concerto
+MVOScore : -39.04825592041016
+OVM : the Cello Concerto performs London
+OVMScore : -49.41696166992188
+OVpM : the Cello Concerto performs in London
+OVpMScore : -47.2933235168457
+VOpM : perform the Cello Concerto in London
+VOpMScore : -46.70168304443359
+VpOpM : perform in the Cello Concerto in London
+VpOpMScore : -51.41201782226562
+VMpO : perform London with the Cello Concerto
+VMpOScore : -52.68453216552734
+VpMpO : perform in London with the Cello Concerto
+VpMpOScore : -50.0955924987793
+M : the performance of the Cello Concerto is London
+MScore : -54.40583801269531
+V1 : the Cello Concerto accompanies the London performance
+V1Score : -56.77371978759766
+V2 : accompany London performance of the Cello Concerto
+V2Score : -58.70442581176758
+MVpOPassive : London is performed by the Cello Concerto
+MVpOPassiveScore : -47.0048713684082
+MpOVPassive : London of the Cello Concerto is performed
+MpOVPassiveScore : -48.05109786987305
+OVpMPassive : the Cello Concerto is performed in London
+OVpMPassiveScore : -47.7747802734375
+gold : perform the Cello Concerto in London
+reducedGold : perform cello concerto in london 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : London performs the Cello Concerto
+reducedParaphrase : london perform cello concerto 
+adj/noun-label : PP
+FinalLabel : False
+
+71. sentence : Piłsudski was supported by several leftist factions, who ensured the success of his coup by blocking the railway transportation of government forces.
+adj/noun : railway
+n_v : transportation
+prep : of
+pobj : government forces
+originalPattern : railway transportation of government forces
+MVO : railway transports government forces
+MVOScore : -40.69606018066406
+OVM : government forces transport railway
+OVMScore : -35.21110534667969
+OVpM : government forces transport of railway
+OVpMScore : -41.20881271362305
+VOpM : transport government forces on the railway
+VOpMScore : -42.6804313659668
+VpOpM : transport of government forces on a railway
+VpOpMScore : -44.62701797485352
+VMpO : transport railway for government forces
+VMpOScore : -44.39238357543945
+VpMpO : transport of the railway to government forces
+VpMpOScore : -46.92264175415039
+M : the transportation of government forces is railway
+MScore : -51.65932083129883
+V1 : government forces control the railway transportation
+V1Score : -40.75767517089844
+V2 : facilitate railway transportation of government forces
+V2Score : -50.40154647827148
+MVpOPassive : the railway is transported by government forces
+MVpOPassiveScore : -44.46885681152344
+MpOVPassive : the railway of the government forces is transported
+MpOVPassiveScore : -52.15744400024414
+OVpMPassive : government forces are transported by railway
+OVpMPassiveScore : -39.30458068847656
+gold : transport government forces by railway
+reducedGold : transport government force by railway 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : railway transports government forces
+reducedParaphrase : railway transport government force 
+adj/noun-label : PP
+FinalLabel : False
+
+78. sentence : The CCC is a work development program specifically for men and women between the ages of 18 to 25, offering work in environmental conservation, fire protection, land maintenance, and emergency response to natural disasters.
+adj/noun : emergency
+n_v : response
+prep : to
+pobj : natural disasters
+originalPattern : emergency response to natural disasters
+MVO : emergency responds natural disasters
+MVOScore : -33.68116760253906
+MVpO : emergency responds to natural disasters
+MVpOScore : -27.9792308807373
+OVM : natural disasters respond emergency
+OVMScore : -37.70499420166016
+OVpM : natural disasters respond to emergency
+OVpMScore : -33.5078010559082
+VOpM : respond natural disasters in an emergency
+VOpMScore : -37.92481994628906
+VpOpM : respond to natural disasters in an emergency
+VpOpMScore : -34.51931381225586
+VMpO : respond emergency to natural disasters
+VMpOScore : -35.89095687866211
+VpMpO : respond to the emergencies of natural disasters
+VpMpOScore : -36.85268783569336
+M : the response to natural disasters is emergency
+MScore : -40.03223419189453
+V1 : natural disasters provide an emergency response
+V1Score : -36.2769889831543
+V2 : provide emergency response to natural disasters
+V2Score : -31.78420448303223
+MVpOPassive : emergency is responded to natural disasters
+MVpOPassiveScore : -37.12643051147461
+MpOVPassive : emergencies to natural disasters are responded
+MpOVPassiveScore : -42.44794845581055
+OVpMPassive : natural disasters are responded by emergency
+OVpMPassiveScore : -41.12193298339844
+gold : respond to natural disasters in an emergency
+reducedGold : respond to natural disaster in emergency 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : emergency responds to natural disasters
+reducedParaphrase : emergency respond to natural disaster 
+adj/noun-label : PP
+FinalLabel : False
+
+79. sentence : The Center for Forensic Research & Education performed an independent laboratory evaluation of 10 on-site oral fluid devices.//The Center for Forensic Research & Education performed an independent laboratory evaluation of 10 on-site oral fluid devices.
+adj/noun : laboratory
+n_v : evaluation
+prep : of
+pobj : 10 on-site oral fluid devices
+originalPattern : laboratory evaluation of 10 on-site oral fluid devices//laboratory evaluation of 10 on-site oral fluid devices
+MVO : the laboratory evaluates 10 on-site oral fluid devices//the laboratory evaluates 10 on-site oral fluid devices
+MVOScore : -71.56656646728516//-71.56656646728516
+MVpO : //
+MVpOScore : //
+OVM : 10 on-site oral fluid devices evaluate laboratory//10 on-site oral fluid devices evaluate laboratory
+OVMScore : -70.33348083496094//-70.33348083496094
+OVpM : 10 on-site oral fluid devices evaluate in laboratory//10 on-site oral fluid devices evaluate in laboratory
+OVpMScore : -74.86930084228516//-74.86930084228516
+VOpM : evaluate 10 on-site oral fluid devices in the laboratory//evaluate 10 on-site oral fluid devices in the laboratory
+VOpMScore : -76.29713439941406//-76.29713439941406
+VpOpM : evaluate about 10 on-site oral fluid devices in the laboratory//evaluate about 10 on-site oral fluid devices in the laboratory
+VpOpMScore : -77.95377349853516//-77.95377349853516
+VMpO : evaluate laboratories for 10 on-site oral fluid devices//evaluate laboratories for 10 on-site oral fluid devices
+VMpOScore : -75.5988998413086//-75.5988998413086
+VpMpO : evaluate in a laboratory with 10 on-site oral fluid devices//evaluate in a laboratory with 10 on-site oral fluid devices
+VpMpOScore : -79.13121032714844//-79.13121032714844
+M : the evaluation of 10 on-site oral fluid devices is laboratory//the evaluation of 10 on-site oral fluid devices is laboratory
+MScore : -78.96044921875//-78.96044921875
+V1 : 10 on-site oral fluid devices conduct a laboratory evaluation//10 on-site oral fluid devices conduct a laboratory evaluation
+V1Score : -76.98381805419922//-76.98381805419922
+V2 : conduct laboratory evaluation of 10 on-site oral fluid devices//conduct laboratory evaluation of 10 on-site oral fluid devices
+V2Score : -71.23473358154297//-71.23473358154297
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : a laboratory is evaluated for 10 on-site oral fluid devices//a laboratory is evaluated for 10 on-site oral fluid devices
+MVpOPassiveScore : -75.86322021484375//-75.86322021484375
+MpOVPassive : a laboratory of 10 on-site oral fluid devices is evaluated//a laboratory of 10 on-site oral fluid devices is evaluated
+MpOVPassiveScore : -76.35831451416016//-76.35831451416016
+OVpMPassive : 10 on-site oral fluid devices are evaluated in a laboratory//10 on-site oral fluid devices are evaluated in a laboratory
+OVpMPassiveScore : -72.13738250732422//-72.13738250732422
+gold : evaluate 10 on-site oral fluid devices at the laboratory//evaluate 10 on-site oral fluid devices in a laboratory
+reducedGold : evaluate 10 on - site oral fluid device at laboratory //evaluate 10 on - site oral fluid device in laboratory 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : the laboratory evaluates 10 on-site oral fluid devices//the laboratory evaluates 10 on-site oral fluid devices
+reducedParaphrase : laboratory evaluate 10 on - site oral fluid device //laboratory evaluate 10 on - site oral fluid device 
+adj/noun-label : PP//PP
+FinalLabel : False
+
+81. sentence : The elder Jacob, of Dutch descent, was a New York building contractor and superintended the roof construction of the Church of Notre Dame.
+adj/noun : roof
+n_v : construction
+prep : of
+pobj : the Church of Notre Dame
+originalPattern : roof construction of the Church of Notre Dame
+MVO : roof constructs the Church of Notre Dame
+MVOScore : -48.84636688232422
+OVM : the Church of Notre Dame constructs a roof
+OVMScore : -47.76804733276367
+OVpM : the Church of Notre Dame constructs on the roof
+OVpMScore : -51.76519012451172
+VOpM : construct the Church of Notre Dame on the roof
+VOpMScore : -49.07258987426758
+VpOpM : construct of the Church of Notre Dame on the roof
+VpOpMScore : -48.82030487060547
+VMpO : construct the roof of the Church of Notre Dame
+VMpOScore : -42.99359130859375
+VpMpO : construct on the roof of the Church of Notre Dame
+VpMpOScore : -42.44305038452148
+M : the construction of the Church of Notre Dame is roof
+MScore : -50.20853424072266
+V1 : the Church of Notre Dame has a roof construction
+V1Score : -51.456787109375
+V2 : complete roof construction of the Church of Notre Dame
+V2Score : -47.93289184570312
+MVpOPassive : roofs are constructed in the Church of Notre Dame
+MVpOPassiveScore : -47.54825210571289
+MpOVPassive : a roof of the Church of Notre Dame is constructed
+MpOVPassiveScore : -45.97881698608398
+OVpMPassive : the Church of Notre Dame is constructed on the roof
+OVpMPassiveScore : -47.95481491088867
+gold : construct the roof of the Church of Notre Dame
+reducedGold : construct roof of church of notre dame 
+OriginalHighestScorePattern : MpOVPassive
+HighestScorePattern : MpOVPassiveVMpO
+HighestScorePatternSentence : construct the roof in the Church of Notre Dame
+reducedParaphrase : construct roof in church of notre dame 
+adj/noun-label : arg1
+FinalLabel : False
+
+82. sentence : The first home delivery of a meal on wheels following World War II was made by the WVS in Hemel Hempstead, Hertfordshire, England in 1943.
+adj/noun : home
+n_v : delivery
+prep : of
+pobj : a meal
+originalPattern : home delivery of a meal
+MVO : home delivers a meal
+MVOScore : -32.87968826293945
+OVM : a meal delivers home
+OVMScore : -35.04341506958008
+OVpM : a meal delivers to the home
+OVpMScore : -36.37333679199219
+VOpM : deliver a meal at home
+VOpMScore : -29.35597610473633
+VpOpM : deliver of a meal to the home
+VpOpMScore : -38.26798248291016
+VMpO : deliver homes with a meal
+VMpOScore : -37.12965393066406
+VpMpO : deliver to homes with a meal
+VpMpOScore : -37.96779251098633
+M : the delivery of a meal is home
+MScore : -41.19244766235352
+V1 : a meal makes a home delivery
+V1Score : -41.46966552734375
+V2 : make home delivery of a meal
+V2Score : -37.52026748657227
+MVpOPassive : home is delivered with a meal
+MVpOPassiveScore : -39.36208343505859
+MpOVPassive : home of a meal is delivered
+MpOVPassiveScore : -43.2258186340332
+OVpMPassive : a meal is delivered to the home
+OVpMPassiveScore : -33.38109588623047
+gold : deliver a meal to a home
+reducedGold : deliver meal to home 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : home delivers a meal
+reducedParaphrase : home deliver meal 
+adj/noun-label : PP
+FinalLabel : False
+
+86. sentence : The school is involved in a study of the prehistoric and historic landscape at Slievemore, incorporating a research excavation at a number of sites within the deserted village of Slievemore.
+adj/noun : research
+n_v : excavation
+prep : at
+pobj : a number of sites
+originalPattern : research excavation at a number of sites
+MVO : research excavates a number of sites
+MVOScore : -39.38832092285156
+MVpO : research excavates at a number of sites
+MVpOScore : -40.75216293334961
+OVM : a number of sites excavate research
+OVMScore : -44.64596557617188
+OVpM : a number of sites excavate for research
+OVpMScore : -47.83118438720703
+VOpM : excavate a number of sites for research
+VOpMScore : -42.14481735229492
+VpOpM : excavate at a number of sites for research
+VpOpMScore : -48.87694549560547
+VMpO : excavate research on a number of sites
+VMpOScore : -45.40293884277344
+VpMpO : excavate for research on a number of sites
+VpMpOScore : -49.62086486816406
+M : the excavation at a number of sites is research
+MScore : -49.17268753051758
+V1 : a number of sites require a research excavation
+V1Score : -48.41693115234375
+V2 : conduct research excavation at a number of sites
+V2Score : -42.98596954345703
+MVpOPassive : research is excavated at a number of sites
+MVpOPassiveScore : -40.86400604248047
+MpOVPassive : research at a number of sites is excavated
+MpOVPassiveScore : -46.26613616943359
+OVpMPassive : a number of sites are excavated for research
+OVpMPassiveScore : -44.74679565429688
+gold : excavate a number of sites for research
+reducedGold : excavate number of site for research 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : research excavates a number of sites
+reducedParaphrase : research excavate number of site 
+adj/noun-label : PP
+FinalLabel : False
+
+92. sentence : The catchphrase conclusion to each evening's broadcast, "Good night, Chet; Good night, David," entered the language, and it was followed by the beginning of the second movement of Beethoven's 9th Symphony, played as the program credits rolled.
+adj/noun : catchphrase
+n_v : conclusion
+prep : to
+pobj : each evening's broadcast
+originalPattern : catchphrase conclusion to each evening's broadcast
+MVO : a catchphrase concludes each evening's broadcast
+MVOScore : -54.45145416259766
+MVpO : a catchphrase concludes to each evening's broadcast
+MVpOScore : -59.12987899780273
+OVM : each evening's broadcast concludes the catchphrase
+OVMScore : -57.1801643371582
+OVpM : each evening's broadcast concludes with a catchphrase
+OVpMScore : -51.80743026733398
+VOpM : conclude each evening's broadcast with the catchphrase
+VOpMScore : -53.06344223022461
+VpOpM : conclude of each evening's broadcast with the catchphrase
+VpOpMScore : -59.25876998901367
+VMpO : conclude the catchphrases of each evening's broadcast
+VMpOScore : -52.87150955200195
+VpMpO : conclude with the catchphrases of each evening's broadcast
+VpMpOScore : -57.64426040649414
+M : the conclusion to each evening's broadcast is catchphrase
+MScore : -61.80502700805664
+V1 : each evening's broadcast provides a catchphrase conclusion
+V1Score : -67.15867614746094
+V2 : provide catchphrase conclusion to each evening's broadcast
+V2Score : -65.6370620727539
+MVpOPassive : catchphrase is concluded on each evening's broadcast
+MVpOPassiveScore : -60.0372200012207
+MpOVPassive : the catchphrase to each evening's broadcast is concluded
+MpOVPassiveScore : -62.38982772827148
+OVpMPassive : each evening's broadcast is concluded with a catchphrase
+OVpMPassiveScore : -56.69171142578125
+gold : conclude each evening's broadcast with a catchphrase
+reducedGold : conclude evening 's broadcast with catchphrase 
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : PP
+FinalLabel : False
+
+96. sentence : Tire maintenance for motor vehicles is depended on by several factors.
+adj/noun : tire
+n_v : maintenance
+prep : for
+pobj : motor vehicles
+originalPattern : tire maintenance for motor vehicles
+MVO : tire maintains motor vehicles
+MVOScore : -39.89353561401367
+MVpO : tire maintains for motor vehicles
+MVpOScore : -40.60736465454102
+OVM : motor vehicles maintain tire
+OVMScore : -38.73324584960938
+OVpM : motor vehicles maintain on the tire
+OVpMScore : -47.18798065185547
+VOpM : maintain motor vehicles with tires
+VOpMScore : -38.84703063964844
+VpOpM : maintain of motor vehicles with tire
+VpOpMScore : -43.43105697631836
+VMpO : maintain tires on motor vehicles
+VMpOScore : -37.46106719970703
+VpMpO : maintain on the tires of motor vehicles
+VpMpOScore : -44.19658279418945
+M : maintenance for motor vehicles is tire
+MScore : -48.41499710083008
+V1 : motor vehicles provide tire maintenance
+V1Score : -41.58187866210938
+V2 : provide tire maintenance for motor vehicles
+V2Score : -40.59799194335938
+MVpOPassive : tires are maintained by motor vehicles
+MVpOPassiveScore : -36.09310150146484
+MpOVPassive : tires for all motor vehicles are maintained
+MpOVPassiveScore : -41.43405532836914
+OVpMPassive : motor vehicles are maintained by tire
+OVpMPassiveScore : -39.60300064086914
+gold : maintain the tires of motor vehicles
+reducedGold : maintain tire of motor vehicle 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : motor vehicles maintain tire
+reducedParaphrase : motor vehicle maintain tire 
+adj/noun-label : arg1
+FinalLabel : False
+
+97. sentence : Under communism, state ownership of businesses was estimated to be 97%.
+adj/noun : state
+n_v : ownership
+prep : of
+pobj : businesses
+originalPattern : state ownership of businesses
+gold : the state own businesses
+reducedGold : state own business 
+adj/noun-label : arg0
+FinalLabel : False
+
+103. sentence : A character analysis of Rita asserts that her actions are the most genuine of the first portion of the film, since she has no memory and nothing to use as a frame of reference for how to behave.//A character analysis of Rita asserts that her actions are the most genuine of the first portion of the film, since she has no memory and nothing to use as a frame of reference for how to behave.
+adj/noun : character
+n_v : analysis
+prep : of
+pobj : Rita
+originalPattern : character analysis of Rita//character analysis of Rita
+MVO : character analyses Rita//character analyses Rita
+MVOScore : -35.86112976074219//-35.86112976074219
+MVpO : //
+MVpOScore : //
+OVM : Rita analyses the character//Rita analyses the character
+OVMScore : -32.95223617553711//-32.95223617553711
+OVpM : Rita analyses of the character//Rita analyses of the character
+OVpMScore : -39.04069137573242//-39.04069137573242
+VOpM : analyze Rita as a character//analyze Rita as a character
+VOpMScore : -38.96196365356445//-38.96196365356445
+VpOpM : analyze of Rita in character//analyze of Rita in character
+VpOpMScore : -48.01769256591797//-48.01769256591797
+VMpO : analyze the character of Rita//analyze the character of Rita
+VMpOScore : -38.84828567504883//-38.84828567504883
+VpMpO : analyse of the character of Rita//analyse of the character of Rita
+VpMpOScore : -44.38314819335938//-44.38314819335938
+M : the analysis of Rita is character//the analysis of Rita is character
+MScore : -44.39514541625977//-44.39514541625977
+V1 : Rita has a character analysis//Rita has a character analysis
+V1Score : -35.7426872253418//-35.7426872253418
+V2 : provide character analysis of Rita//provide character analysis of Rita
+V2Score : -42.57728958129883//-42.57728958129883
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : characters are analyzed by Rita//characters are analyzed by Rita
+MVpOPassiveScore : -37.96646881103516//-37.96646881103516
+MpOVPassive : a character of Rita is analysed//a character of Rita is analysed
+MpOVPassiveScore : -47.19191360473633//-47.19191360473633
+OVpMPassive : Rita is analyzed as a character//Rita is analyzed as a character
+OVpMPassiveScore : -36.3737907409668//-36.3737907409668
+gold : analyze the character of Rita//analyse the character of Rita
+reducedGold : analyze character of rita //analyse character of rita 
+OriginalHighestScorePattern : OVpMPassive//OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM//OVpMPassiveVOpM
+HighestScorePatternSentence : analyze Rita as a character//analyze Rita as a character
+reducedParaphrase : analyze rita as character //analyze rita as character 
+adj/noun-label : arg1//arg1
+FinalLabel : False
+
+106. sentence : After three seasons of excavation and laboratory analysis of artifacts, it is believed that this vessel was a ship involved in the December 18, 1782, evacuation of Charleston at the end of the American Revolution, carrying Loyalist refugees and troops to St. Augustine, which was a loyal British colony at the time.//After three seasons of excavation and laboratory analysis of artifacts, it is believed that this vessel was a ship involved in the December 18, 1782, evacuation of Charleston at the end of the American Revolution, carrying Loyalist refugees and troops to St. Augustine, which was a loyal British colony at the time.//After three seasons of excavation and laboratory analysis of artifacts, it is believed that this vessel was a ship involved in the December 18, 1782, evacuation of Charleston at the end of the American Revolution, carrying Loyalist refugees and troops to St. Augustine, which was a loyal British colony at the time.//After three seasons of excavation and laboratory analysis of artifacts, it is believed that this vessel was a ship involved in the December 18, 1782, evacuation of Charleston at the end of the American Revolution, carrying Loyalist refugees and troops to St. Augustine, which was a loyal British colony at the time.
+adj/noun : laboratory
+n_v : analysis
+prep : of
+pobj : artifacts
+originalPattern : laboratory analysis of artifacts//laboratory analysis of artifacts//laboratory analysis of artifacts//laboratory analysis of artifacts
+MVO : a laboratory analyzes artifacts//a laboratory analyzes artifacts//a laboratory analyzes artifacts//a laboratory analyzes artifacts
+MVOScore : -34.36943817138672//-34.36943817138672//-34.36943817138672//-34.36943817138672
+MVpO : //////
+MVpOScore : //////
+OVM : artifacts analyse laboratory//artifacts analyse laboratory//artifacts analyse laboratory//artifacts analyse laboratory
+OVMScore : -36.99690246582031//-36.99690246582031//-36.99690246582031//-36.99690246582031
+OVpM : artifacts analyse in laboratory//artifacts analyse in laboratory//artifacts analyse in laboratory//artifacts analyse in laboratory
+OVpMScore : -39.05138397216797//-39.05138397216797//-39.05138397216797//-39.05138397216797
+VOpM : analyze artifacts in laboratory//analyze artifacts in laboratory//analyze artifacts in laboratory//analyze artifacts in laboratory
+VOpMScore : -38.8363037109375//-38.8363037109375//-38.8363037109375//-38.8363037109375
+VpOpM : //////
+VpOpMScore : //////
+VMpO : analyze the laboratory for artifacts//analyze the laboratory for artifacts//analyze the laboratory for artifacts//analyze the laboratory for artifacts
+VMpOScore : -39.96611404418945//-39.96611404418945//-39.96611404418945//-39.96611404418945
+VpMpO : analyze in the laboratory for artifacts//analyze in the laboratory for artifacts//analyze in the laboratory for artifacts//analyze in the laboratory for artifacts
+VpMpOScore : -42.89091491699219//-42.89091491699219//-42.89091491699219//-42.89091491699219
+M : the analysis of artifacts is laboratory//the analysis of artifacts is laboratory//the analysis of artifacts is laboratory//the analysis of artifacts is laboratory
+MScore : -42.28177261352539//-42.28177261352539//-42.28177261352539//-42.28177261352539
+V1 : artifacts conduct laboratory analysis//artifacts conduct laboratory analysis//artifacts conduct laboratory analysis//artifacts conduct laboratory analysis
+V1Score : -40.87025451660156//-40.87025451660156//-40.87025451660156//-40.87025451660156
+V2 : conduct laboratory analysis of artifacts//conduct laboratory analysis of artifacts//conduct laboratory analysis of artifacts//conduct laboratory analysis of artifacts
+V2Score : -38.29070663452148//-38.29070663452148//-38.29070663452148//-38.29070663452148
+OVB : //////
+OVBScore : //////
+VOB : //////
+VOBScore : //////
+MVpOPassive : the laboratory is analyzed for artifacts//the laboratory is analyzed for artifacts//the laboratory is analyzed for artifacts//the laboratory is analyzed for artifacts
+MVpOPassiveScore : -39.09975051879883//-39.09975051879883//-39.09975051879883//-39.09975051879883
+MpOVPassive : the laboratory of the artifacts is analyzed//the laboratory of the artifacts is analyzed//the laboratory of the artifacts is analyzed//the laboratory of the artifacts is analyzed
+MpOVPassiveScore : -47.53630828857422//-47.53630828857422//-47.53630828857422//-47.53630828857422
+OVpMPassive : artifacts are analyzed in a laboratory//artifacts are analyzed in a laboratory//artifacts are analyzed in a laboratory//artifacts are analyzed in a laboratory
+OVpMPassiveScore : -35.54680252075195//-35.54680252075195//-35.54680252075195//-35.54680252075195
+gold : analyze artifacts at the laboratory//analyse artifacts at the laboratory//analyze artifacts in the laboratory//analyse artifacts in the laboratory
+reducedGold : analyze artifact at laboratory //analyse artifact at laboratory //analyze artifact in laboratory //analyse artifact in laboratory 
+OriginalHighestScorePattern : MVO//MVO//MVO//MVO
+HighestScorePattern : MVO//MVO//MVO//MVO
+HighestScorePatternSentence : a laboratory analyzes artifacts//a laboratory analyzes artifacts//a laboratory analyzes artifacts//a laboratory analyzes artifacts
+reducedParaphrase : laboratory analyze artifact //laboratory analyze artifact //laboratory analyze artifact //laboratory analyze artifact 
+adj/noun-label : PP//PP//PP//PP
+FinalLabel : False
+
+107. sentence : But luckily the job definition of a Distinguished Engineer is "you're supposed to be the world's leading expert in your field, so you figure out what would be most important for the company for you to work on." Therefore, Dr. Nielsen ended up spending most of his time at Sun defining the emerging field of web usability.
+adj/noun : job
+n_v : definition
+prep : of
+pobj : a Distinguished Engineer
+originalPattern : job definition of a Distinguished Engineer
+MVO : job defines a Distinguished Engineer
+MVOScore : -40.77075958251953
+OVM : a Distinguished Engineer defines a job
+OVMScore : -43.59335327148438
+OVpM : a Distinguished Engineer defines as a job
+OVpMScore : -48.22180938720703
+VOpM : define a Distinguished Engineer for a job
+VOpMScore : -46.30652236938477
+VpOpM : define as a Distinguished Engineer for a job
+VpOpMScore : -51.360595703125
+VMpO : define job as a Distinguished Engineer
+VMpOScore : -45.78516006469727
+VpMpO : define as the job of a Distinguished Engineer
+VpMpOScore : -49.96418762207031
+M : the definition of a Distinguished Engineer is job
+MScore : -45.12617492675781
+V1 : a Distinguished Engineer establishes a job definition
+V1Score : -53.26513671875
+V2 : establish job definition of a Distinguished Engineer
+V2Score : -49.61436080932617
+MVpOPassive : job is defined as a Distinguished Engineer
+MVpOPassiveScore : -42.83537292480469
+MpOVPassive : the job of a Distinguished Engineer is defined
+MpOVPassiveScore : -41.31259536743164
+OVpMPassive : a Distinguished Engineer is defined as a job
+OVpMPassiveScore : -41.30887222290039
+gold : define the job of a Distinguished Engineer
+reducedGold : define job of distinguished engineer 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : job defines a Distinguished Engineer
+reducedParaphrase : job define distinguished engineer 
+adj/noun-label : arg1
+FinalLabel : False
+
+108. sentence : In a 1970 survey, the "New York Times" suggested a consensus definition of a minicomputer as a machine costing less than with an input-output device such as a teleprinter and at least 4K words of memory, that is capable of running programs in a higher level language, such as Fortran or BASIC.
+adj/noun : consensus
+n_v : definition
+prep : of
+pobj : a minicomputer
+originalPattern : consensus definition of a minicomputer
+MVO : consensus defines a minicomputer
+MVOScore : -37.273193359375
+OVM : a minicomputer defines consensus
+OVMScore : -41.14291000366211
+OVpM : a minicomputer defines by a consensus
+OVpMScore : -47.95096588134766
+VOpM : define a minicomputer by consensus
+VOpMScore : -50.7508659362793
+VpOpM : define as a minicomputer by consensus
+VpOpMScore : -52.18862915039062
+VMpO : define consensus for a minicomputer
+VMpOScore : -48.16167068481445
+VpMpO : define as a consensus for a minicomputer
+VpMpOScore : -56.16245269775391
+M : the definition of a minicomputer is consensus
+MScore : -43.49892044067383
+V1 : a minicomputer has a consensus definition
+V1Score : -42.8348388671875
+V2 : provide consensus definition of a minicomputer
+V2Score : -48.80447769165039
+MVpOPassive : consensus is defined as a minicomputer
+MVpOPassiveScore : -43.95200729370117
+MpOVPassive : consensus of a minicomputer is defined
+MpOVPassiveScore : -47.29897689819336
+OVpMPassive : a minicomputer is defined by consensus
+OVpMPassiveScore : -39.03738784790039
+gold : define a minicomputer by consensus
+reducedGold : define minicomputer by consensus 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : consensus defines a minicomputer
+reducedParaphrase : consensus define minicomputer 
+adj/noun-label : PP
+FinalLabel : False
+
+109. sentence : In February 2014, PEER attorneys wrote to the school district asking for a site assessment of the campus.
+adj/noun : site
+n_v : assessment
+prep : of
+pobj : the campus
+originalPattern : site assessment of the campus
+MVO : site assesses the campus
+MVOScore : -33.16268920898438
+OVM : the campus assesses the site
+OVMScore : -37.17002105712891
+OVpM : the campus assesses on the site
+OVpMScore : -42.12080383300781
+VOpM : assess the campus as a site
+VOpMScore : -39.64695739746094
+VpOpM : assess for the campus on site
+VpOpMScore : -48.00566482543945
+VMpO : assess the site of the campus
+VMpOScore : -38.79745864868164
+VpMpO : assess on the site of the campus
+VpMpOScore : -43.30315780639648
+M : the assessment of the campus is site
+MScore : -45.98233795166016
+V1 : the campus offers a site assessment
+V1Score : -44.84951782226562
+V2 : facilitate site assessment of the campus
+V2Score : -43.99058151245117
+MVpOPassive : site is assessed by the campus
+MVpOPassiveScore : -37.31427764892578
+MpOVPassive : site of the campus is assessed
+MpOVPassiveScore : -38.82450866699219
+OVpMPassive : the campus is assessed as a site
+OVpMPassiveScore : -39.58456420898438
+gold : assess the campus on site
+reducedGold : assess campus on site 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : site assesses the campus
+reducedParaphrase : site assess campus 
+adj/noun-label : PP
+FinalLabel : False
+
+110. sentence : In some cases, Plato spoke as if the perfect circle functioned as the form or blueprint for all copies and for the word definition of "circle".
+adj/noun : word
+n_v : definition
+prep : of
+pobj : "circle"
+originalPattern : word definition of "circle"
+MVO : word defines "circle"
+MVOScore : -33.02457809448242
+OVM : "circle" define words
+OVMScore : -39.40096664428711
+OVpM : "circle" define by the word
+OVpMScore : -44.77914047241211
+VOpM : define "circle" as a word
+VOpMScore : -41.66000366210938
+VMpO : define words like "circle"
+VMpOScore : -37.9307861328125
+VpMpO : define of a word as "circle"
+VpMpOScore : -48.06216430664062
+M : the definition of "circle" is word
+MScore : -38.5047492980957
+V1 : "circle" avoid the word definition
+V1Score : -52.00638580322266
+V2 : avoid word definition of "circle"
+V2Score : -43.40380477905273
+MVpOPassive : a word is defined as "circle"
+MVpOPassiveScore : -38.05323791503906
+MpOVPassive : the word of the "circle" is defined
+MpOVPassiveScore : -40.03402328491211
+OVpMPassive : "circle" are defined by the word
+OVpMPassiveScore : -41.48824691772461
+gold : define the word "circle"
+reducedGold : define word " circle " 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : word defines "circle"
+reducedParaphrase : word define " circle " 
+adj/noun-label : arg1
+FinalLabel : False
+
+111. sentence : Its functions relate to the risk assessment of offenders whose liberty presents a risk to the public at large and minimising risk in respect of a small number of serious violent and sexual offenders who may be or have been sentenced to the Order for Lifelong Restriction.
+adj/noun : risk
+n_v : assessment
+prep : of
+pobj : offenders
+originalPattern : risk assessment of offenders
+MVO : risk assesses offenders
+MVOScore : -31.69132614135742
+OVM : offenders assess the risk
+OVMScore : -31.58642387390137
+OVpM : offenders assess at risk
+OVpMScore : -38.04906463623047
+VOpM : assess offenders at risk
+VOpMScore : -37.71060562133789
+VMpO : assess the risk of offenders
+VMpOScore : -35.68412399291992
+VpMpO : assess for the risk of offenders
+VpMpOScore : -43.36234283447266
+M : the assessment of offenders is risk
+MScore : -42.70285415649414
+V1 : offenders risk risk assessment
+V1Score : -38.06960296630859
+V2 : improve risk assessment of offenders
+V2Score : -34.77605056762695
+MVpOPassive : risk is assessed by offenders
+MVpOPassiveScore : -35.74143218994141
+MpOVPassive : risk of offenders is assessed
+MpOVPassiveScore : -37.68656158447266
+OVpMPassive : offenders are assessed at risk
+OVpMPassiveScore : -34.4384765625
+gold : assess the risk of offenders
+reducedGold : assess risk of offender 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : assess offenders at risk
+reducedParaphrase : assess offender at risk 
+adj/noun-label : arg1
+FinalLabel : False
+
+113. sentence : Nineteenth-century interpretations of myth were often highly comparative, seeking a common origin for all myths.
+adj/noun : nineteenth-century
+n_v : interpretations
+prep : of
+pobj : myth
+originalPattern : nineteenth century interpretations of myth
+MVO : the nineteenth century interprets myth
+MVOScore : -38.67934799194336
+OVM : myth interprets the nineteenth century
+OVMScore : -42.15116119384766
+OVpM : myth interprets in the nineteenth century
+OVpMScore : -46.89505767822266
+VOpM : interpret myth in nineteenth century
+VOpMScore : -40.54142761230469
+VMpO : interpret the nineteenth centuries of myth
+VMpOScore : -49.13740158081055
+VpMpO : interpret in the nineteenth centuries of myth
+VpMpOScore : -51.4692268371582
+M : the interpretations of myth are nineteenth century
+MScore : -44.90217971801758
+V1 : myth creates the nineteenth century interpretations
+V1Score : -51.59172058105469
+V2 : create nineteenth century interpretations of myth
+V2Score : -48.43524169921875
+MVpOPassive : the nineteenth century is interpreted as myth
+MVpOPassiveScore : -42.27196884155273
+MpOVPassive : the nineteenth century of the myth is interpreted
+MpOVPassiveScore : -48.94100570678711
+OVpMPassive : myth is interpreted in the nineteenth century
+OVpMPassiveScore : -43.39554977416992
+gold : interpret myths in the nineteenth century
+reducedGold : interpret myth in nineteenth century 
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : PP
+FinalLabel : False
+
+117. sentence : The Wisconsin State Capitol is the tallest building in Madison, a distinction that has been preserved by city legislation against buildings taller than the columns surrounding the dome (187 feet).
+adj/noun : city
+n_v : legislation
+prep : against
+pobj : buildings
+originalPattern : city legislation against buildings
+MVO : city legislates buildings
+MVOScore : -32.90727233886719
+MVpO : city legislates against buildings
+MVpOScore : -36.90484619140625
+OVM : buildings legislate city
+OVMScore : -39.99519348144531
+OVpM : buildings legislate for cities
+OVpMScore : -40.97701263427734
+VOpM : legislate buildings in the city
+VOpMScore : -35.94525909423828
+VpOpM : legislate for buildings in the city
+VpOpMScore : -39.10450744628906
+VMpO : legislate cities with buildings
+VMpOScore : -40.48553848266602
+VpMpO : legislate for cities with buildings
+VpMpOScore : -42.93606948852539
+M : the legislation against buildings is city
+MScore : -51.0650634765625
+V1 : buildings enforce the city legislation
+V1Score : -44.34850311279297
+V2 : enforce city legislation against buildings
+V2Score : -48.04352569580078
+MVpOPassive : city is legislated for buildings
+MVpOPassiveScore : -39.76910018920898
+MpOVPassive : city against the buildings is legislated
+MpOVPassiveScore : -46.84161758422852
+OVpMPassive : buildings are legislated by city
+OVpMPassiveScore : -37.72566604614258
+gold : the city legislate against buildings
+reducedGold : city legislate against building 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : city legislates buildings
+reducedParaphrase : city legislate building 
+adj/noun-label : arg0
+FinalLabel : False
+
+119. sentence : Under cross-examination from Greenwald, however, each of them, Dr. Lundeen in particular, acknowledges that some of Queeg's traits do come close to the textbook definition of paranoia.
+adj/noun : textbook
+n_v : definition
+prep : of
+pobj : paranoia
+originalPattern : textbook definition of paranoia
+MVO : the textbook defines paranoia
+MVOScore : -35.86957550048828
+OVM : paranoia defines textbook
+OVMScore : -37.53388214111328
+OVpM : paranoia defines in a textbook
+OVpMScore : -43.84843444824219
+VOpM : define paranoia in textbooks
+VOpMScore : -43.54956436157227
+VMpO : define textbooks on paranoia
+VMpOScore : -46.93428802490234
+VpMpO : define as a textbook on paranoia
+VpMpOScore : -53.7547721862793
+M : the definition of paranoia is textbook
+MScore : -39.55422973632812
+V1 : paranoia provides a textbook definition
+V1Score : -38.49438095092773
+V2 : provide textbook definition of paranoia
+V2Score : -44.51852416992188
+MVpOPassive : textbook is defined as paranoia
+MVpOPassiveScore : -42.64093017578125
+MpOVPassive : textbooks of paranoia are defined
+MpOVPassiveScore : -47.17193603515625
+OVpMPassive : paranoia is defined in textbooks
+OVpMPassiveScore : -34.64981460571289
+gold : textbooks define paranoia
+reducedGold : textbook define paranoia 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : define paranoia in textbooks
+reducedParaphrase : define paranoia in textbook 
+adj/noun-label : arg0
+FinalLabel : False
+
+120. sentence : According to this view, the pure interest rate is determined by the time preferences of the individuals in society.
+adj/noun : time
+n_v : preferences
+prep : of
+pobj : the individuals
+originalPattern : time preferences of the individuals
+MVO : times prefer the individuals
+MVOScore : -34.72055435180664
+OVM : the individuals prefer time
+OVMScore : -36.20687103271484
+OVpM : the individuals prefer at the time
+OVpMScore : -41.15469741821289
+VOpM : prefer the individuals of the time
+VOpMScore : -39.99308776855469
+VpOpM : prefer than the individuals of the time
+VpOpMScore : -48.70444107055664
+VMpO : prefer the time of the individuals
+VMpOScore : -38.45440292358398
+VpMpO : prefer at the time of the individuals
+VpMpOScore : -40.79867935180664
+M : the preferences of the individuals are time
+MScore : -38.97484588623047
+V1 : the individuals have time preferences
+V1Score : -39.32131958007812
+V2 : determine time preferences of the individuals
+V2Score : -41.64942169189453
+MVpOPassive : the time is preferred by the individuals
+MVpOPassiveScore : -37.79833602905273
+MpOVPassive : the time of the individuals is preferred
+MpOVPassiveScore : -39.60271072387695
+OVpMPassive : the individuals are preferred at the time
+OVpMPassiveScore : -38.91588973999023
+gold : individuals prefer a time period
+reducedGold : individual prefer time period 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the individuals prefer time
+reducedParaphrase : individual prefer time 
+adj/noun-label : arg1
+FinalLabel : False
+
+121. sentence : In 1982, President Ronald Reagan presented him with the Kennedy Center honors award, a national tribute for life achievement in the arts.
+adj/noun : life
+n_v : achievement
+prep : in
+pobj : the arts
+originalPattern : life achievement in the arts
+MVO : life achieves the arts
+MVOScore : -35.27766799926758
+MVpO : life achieves in the arts
+MVpOScore : -36.53557968139648
+OVM : the arts achieve life
+OVMScore : -33.51452255249023
+OVpM : the arts achieve in life
+OVpMScore : -36.47352981567383
+VOpM : achieve the arts of life
+VOpMScore : -31.96160888671875
+VpOpM : achieve in the arts of life
+VpOpMScore : -33.36088180541992
+VMpO : achieve life through the arts
+VMpOScore : -30.50992584228516
+VpMpO : achieve in the life of the arts
+VpMpOScore : -35.66775894165039
+M : the achievement in the arts is life
+MScore : -41.35768890380859
+V1 : the arts promote life achievement
+V1Score : -40.86872100830078
+V2 : honour life achievement in the arts
+V2Score : -40.00486755371094
+MVpOPassive : life is achieved through the arts
+MVpOPassiveScore : -33.23024368286133
+MpOVPassive : life in the arts is achieved
+MpOVPassiveScore : -36.17197036743164
+OVpMPassive : the arts are achieved through life
+OVpMPassiveScore : -37.0013313293457
+gold : achieve in the arts throughout his life
+reducedGold : achieve in art throughout -pron- life 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the arts achieve life
+reducedParaphrase : art achieve life 
+adj/noun-label : PP
+FinalLabel : False
+
+122. sentence : Other career distinctions by team members include Dischinger's NBA Rookie of the Year Award (an award also received by Robertson, Bellamy, and Lucas) and Adrian Smith's NBA All-Star Game MVP in 1966.
+adj/noun : career
+n_v : distinctions
+prep : by
+pobj : team members
+originalPattern : career distinctions by team members
+MVO : career distinguishes team members
+MVOScore : -37.25996398925781
+MVpO : careers distinguish by team members
+MVpOScore : -47.28266143798828
+OVM : team members distinguish careers
+OVMScore : -37.93177795410156
+OVpM : team members distinguish between careers
+OVpMScore : -39.38569641113281
+VOpM : distinguish team members by career
+VOpMScore : -40.0169792175293
+VpOpM : distinguish between team members in the careers
+VpOpMScore : -46.33557891845703
+VMpO : distinguish the careers of team members
+VMpOScore : -41.45759963989258
+VpMpO : distinguish between the careers of team members
+VpMpOScore : -41.43930435180664
+M : the distinctions by team members are career
+MScore : -53.21879577636719
+V1 : team members have career distinctions
+V1Score : -43.02986145019531
+V2 : earn career distinctions by team members
+V2Score : -52.67084121704102
+MVpOPassive : careers are distinguished by team members
+MVpOPassiveScore : -41.47425842285156
+MpOVPassive : careers by the team members are distinguished
+MpOVPassiveScore : -46.99069595336914
+OVpMPassive : team members are distinguished by a career
+OVpMPassiveScore : -41.54276657104492
+gold : team members distinguish their career
+reducedGold : team member distinguish -pron- career 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : career distinguishes team members
+reducedParaphrase : career distinguishe team member 
+adj/noun-label : arg1
+FinalLabel : False
+
+123. sentence : Worse still, according to Perrow, "the addition of more safety devices — the stock response to a previous failure — might further reduce the safety margins if it adds complexity".
+adj/noun : stock
+n_v : response
+prep : to
+pobj : a previous failure
+originalPattern : stock response to a previous failure
+MVO : stock responds a previous failure
+MVOScore : -46.23785400390625
+MVpO : stock responds to a previous failure
+MVpOScore : -43.2910270690918
+OVM : a previous failure responds stock
+OVMScore : -50.93483734130859
+OVpM : a previous failure responds to stock
+OVpMScore : -48.10780715942383
+VOpM : respond a previous failure of stock
+VOpMScore : -49.29898452758789
+VpOpM : respond to a previous failure of stock
+VpOpMScore : -45.5420036315918
+VMpO : respond stock from a previous failure
+VMpOScore : -50.7690544128418
+VpMpO : respond to stock from a previous failure
+VpMpOScore : -50.88785171508789
+M : the response to a previous failure is stock
+MScore : -51.86360168457031
+V1 : a previous failure improves the stock response
+V1Score : -52.57902526855469
+V2 : improve stock response to a previous failure
+V2Score : -50.85248565673828
+MVpOPassive : stock is responded to a previous failure
+MVpOPassiveScore : -51.88625335693359
+MpOVPassive : stock to a previous failure is responded
+MpOVPassiveScore : -57.18597030639648
+OVpMPassive : a previous failure is responded by stock
+OVpMPassiveScore : -52.92018127441406
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : stock responds to a previous failure
+reducedParaphrase : stock respond to previous failure 
+adj/noun-label : N
+FinalLabel : False
+
+124. sentence : Jazz would later play a huge role in his signature approach to the drum set in a rock setting.
+adj/noun : signature
+n_v : approach
+prep : to
+pobj : the drum set
+originalPattern : signature approach to the drum set
+MVO : signatures approach the drum set
+MVOScore : -43.83404541015625
+MVpO : the signature approaches to the drum set
+MVpOScore : -45.3885498046875
+OVM : the drum set approaches the signature
+OVMScore : -41.63058853149414
+OVpM : the drum set approaches to the signature
+OVpMScore : -44.92685699462891
+VOpM : approach the drum set with a signature
+VOpMScore : -43.8349494934082
+VpOpM : approach to the drum set with a signature
+VpOpMScore : -46.87166976928711
+VMpO : approach the signature of the drum set
+VMpOScore : -46.97729110717773
+VpMpO : approach to the signature of the drum set
+VpMpOScore : -49.40109252929688
+M : the approach to the drum set is signature
+MScore : -49.3591423034668
+V1 : the drum set has a signature approach
+V1Score : -42.66903305053711
+V2 : create signature approach to the drum set
+V2Score : -49.88803100585938
+MVpOPassive : signatures are approached on the drum set
+MVpOPassiveScore : -48.23826599121094
+MpOVPassive : signatures to the drum set are approached
+MpOVPassiveScore : -50.64715194702148
+OVpMPassive : the drum set is approached with a signature
+OVpMPassiveScore : -47.40659713745117
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the drum set approaches the signature
+reducedParaphrase : drum set approach signature 
+adj/noun-label : N
+FinalLabel : False
+
+125. sentence : At the lowest point of their career, the duo put together a nightclub routine which relied on a more adult approach to sound and style.
+adj/noun : adult
+n_v : approach
+prep : to
+pobj : sound and style
+originalPattern : adult approach to sound and style
+MVO : adult approaches sound and style
+MVOScore : -44.2023811340332
+MVpO : adult approaches to sound and style
+MVpOScore : -45.3069953918457
+OVM : sound and style approach adult
+OVMScore : -44.94269943237305
+OVpM : sound and style approach to adult
+OVpMScore : -41.64345169067383
+VOpM : approach sound and style for adults
+VOpMScore : -46.04029846191406
+VpOpM : approach to sound and style for adult
+VpOpMScore : -46.32050704956055
+VMpO : approach adults in sound and style
+VMpOScore : -46.19170379638672
+VpMpO : approach to adults in sound and style
+VpMpOScore : -47.64683532714844
+M : the approach to sound and style is adult
+MScore : -49.07124328613281
+V1 : sound and style develop an adult approach
+V1Score : -52.87622833251953
+V2 : develop adult approach to sound and style
+V2Score : -53.97282791137695
+MVpOPassive : adults are approached by sound and style
+MVpOPassiveScore : -47.08779144287109
+MpOVPassive : adult to sound and style is approached
+MpOVPassiveScore : -55.32428741455078
+OVpMPassive : sound and style are approached by adults
+OVpMPassiveScore : -47.13361740112305
+gold : approach sound and style as adults
+reducedGold : approach sound and style as adult 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : adult approaches sound and style
+reducedParaphrase : adult approach sound and style 
+adj/noun-label : PP
+FinalLabel : False
+
+127. sentence : One division was based at Bantry Bay, protecting sea approaches to the British Isles; the second was based at Ponta Delgada in the Azores, protecting routes to that vital island.
+adj/noun : sea
+n_v : approaches
+prep : to
+pobj : the British Isles
+originalPattern : sea approaches to the British Isles
+MVO : sea approaches the British Isles
+MVOScore : -34.68324661254883
+MVpO : sea approaches to the British Isles
+MVpOScore : -37.25231552124023
+OVM : the British Isles approach the sea
+OVMScore : -35.38359069824219
+OVpM : the British Isles approach by sea
+OVpMScore : -39.03784942626953
+VOpM : approach the British Isles by sea
+VOpMScore : -36.70553970336914
+VpOpM : approach to the British Isles by sea
+VpOpMScore : -38.67577743530273
+VMpO : approach the seas of the British Isles
+VMpOScore : -39.28010177612305
+VpMpO : approach to the seas of the British Isles
+VpMpOScore : -40.61466979980469
+M : the approaches to the British Isles are sea
+MScore : -49.7899284362793
+V1 : the British Isles have sea approaches
+V1Score : -46.24335479736328
+V2 : protect sea approaches to the British Isles
+V2Score : -49.09273147583008
+MVpOPassive : sea is approached from the British Isles
+MVpOPassiveScore : -42.91926574707031
+MpOVPassive : seas to the British Isles are approached
+MpOVPassiveScore : -44.46932601928711
+OVpMPassive : the British Isles are approached by sea
+OVpMPassiveScore : -39.72357177734375
+gold : approach the British Isles by sea
+reducedGold : approach british isles by sea 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : sea approaches the British Isles
+reducedParaphrase : sea approach british isles 
+adj/noun-label : PP
+FinalLabel : False
+
+128. sentence : The Manhattan approach to the bridge is supported on a series of Guastavino tile vaults which now form the elegant ceiling of the Food Emporium Bridge Market and the restaurant Guastavino's, located under the bridge.
+adj/noun : Manhattan
+n_v : approach
+prep : to
+pobj : the bridge
+originalPattern : Manhattan approach to the bridge
+MVO : Manhattan approaches the bridge
+MVOScore : -32.87720108032227
+MVpO : Manhattan approaches to the bridge
+MVpOScore : -36.99413299560547
+OVM : the bridge approaches Manhattan
+OVMScore : -34.30474472045898
+OVpM : the bridge approaches to Manhattan
+OVpMScore : -38.20816421508789
+VOpM : approach the bridge to Manhattan
+VOpMScore : -38.11106872558594
+VpOpM : approach to the bridge over the Manhattan
+VpOpMScore : -40.61787414550781
+VMpO : approach Manhattan on the bridge
+VMpOScore : -38.80849075317383
+VpMpO : approach to Manhattan on the bridge
+VpMpOScore : -40.63166427612305
+M : the approach to the bridge is Manhattan
+MScore : -47.44149780273438
+V1 : the bridge has a Manhattan approach
+V1Score : -43.51689910888672
+V2 : improve Manhattan approach to the bridge
+V2Score : -46.95400238037109
+MVpOPassive : Manhattan is approached by the bridge
+MVpOPassiveScore : -38.23533248901367
+MpOVPassive : Manhattan to the bridge is approached
+MpOVPassiveScore : -44.98682403564453
+OVpMPassive : the bridge is approached from Manhattan
+OVpMPassiveScore : -41.08042526245117
+gold : approach the bridge from Manhattan
+reducedGold : approach bridge from manhattan 
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : PP
+FinalLabel : False
+
+129. sentence : Throughout the 1970s, influenced by the great glassblowing tradition of Murano, Chihuly experimented with the team approach to glassblowing.
+adj/noun : team
+n_v : approach
+prep : to
+pobj : glassblowing
+originalPattern : team approach to glassblowing
+MVO : teams approach glassblowing
+MVOScore : -38.8615837097168
+MVpO : teams approach to glassblowing
+MVpOScore : -42.1343879699707
+OVM : glassblowing approaches a team
+OVMScore : -42.33760833740234
+OVpM : glassblowing approaches to teams
+OVpMScore : -45.67238235473633
+VOpM : approach glassblowing for teams
+VOpMScore : -45.89865493774414
+VpOpM : approach to glassblowing with a team
+VpOpMScore : -47.32787704467773
+VMpO : approach team for glassblowing
+VMpOScore : -42.82518005371094
+VpMpO : approach of a team of glassblowing
+VpMpOScore : -47.93519973754883
+M : another approach to glassblowing is team
+MScore : -51.25974655151367
+V1 : glassblowing develops a team approach
+V1Score : -50.01319122314453
+V2 : develop team approach to glassblowing
+V2Score : -47.53990173339844
+MVpOPassive : teams are approached by glassblowing
+MVpOPassiveScore : -42.62848281860352
+MpOVPassive : teams to glassblowing are approached
+MpOVPassiveScore : -53.20239639282227
+OVpMPassive : glassblowing is approached by a team
+OVpMPassiveScore : -44.89253234863281
+gold : approach glassblowing as a team
+reducedGold : approach glassblowe as team 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : teams approach glassblowing
+reducedParaphrase : team approach glassblowe 
+adj/noun-label : PP
+FinalLabel : False
+
+130. sentence : Under the leadership of its first Vice-Chancellor, Lord Butterworth, Warwick was one of the first UK universities to adopt a business approach to higher education, develop close links with the business community and exploit the commercial value of its research.
+adj/noun : business
+n_v : approach
+prep : to
+pobj : higher education
+originalPattern : business approach to higher education
+MVO : business approaches higher education
+MVOScore : -34.75343322753906
+MVpO : business approaches to higher education
+MVpOScore : -35.79130935668945
+OVM : higher education approaches business
+OVMScore : -34.00988006591797
+OVpM : higher education approaches to business
+OVpMScore : -34.6127815246582
+VOpM : approach higher education in business
+VOpMScore : -37.25077056884766
+VpOpM : approach to higher education in business
+VpOpMScore : -35.9318962097168
+VMpO : approach business in higher education
+VMpOScore : -36.22617340087891
+VpMpO : approach to business in higher education
+VpMpOScore : -34.64607620239258
+M : the approach to higher education is business
+MScore : -38.83621978759766
+V1 : higher education promotes a business approach
+V1Score : -43.30560302734375
+V2 : promote business approach to higher education
+V2Score : -39.58507537841797
+MVpOPassive : business is approached through higher education
+MVpOPassiveScore : -42.77804946899414
+MpOVPassive : a business to higher education is approached
+MpOVPassiveScore : -45.22674942016602
+OVpMPassive : higher education is approached by business
+OVpMPassiveScore : -40.58687973022461
+gold : approach higher education as a business
+reducedGold : approach high education as business 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : business approaches higher education
+reducedParaphrase : business approach high education 
+adj/noun-label : PP
+FinalLabel : False
+
+131. sentence : While light, highly maneuverable aircraft did have some advantages in fighter-versus-fighter combat, those could usually be overcome by sound tactical doctrine, and the design approach of the Italians and Japanese made their planes ill-suited as interceptors or attack aircraft.
+adj/noun : design
+n_v : approach
+prep : of
+pobj : the Italians and Japanese
+originalPattern : design approach of the Italians and Japanese
+MVO : design approaches the Italians and Japanese
+MVOScore : -45.64459228515625
+OVM : the Italians and Japanese approach the design
+OVMScore : -43.64382934570312
+OVpM : the Italians and Japanese approach to design
+OVpMScore : -43.3801155090332
+VOpM : approach the Italians and Japanese in design
+VOpMScore : -50.10310745239258
+VpOpM : approach of the Italians and Japanese in the design
+VpOpMScore : -50.19611740112305
+VMpO : approach the designs of the Italians and Japanese
+VMpOScore : -47.97908782958984
+VpMpO : approach to design by the Italians and Japanese
+VpMpOScore : -49.35253143310547
+M : the approach of the Italians and Japanese is design
+MScore : -52.33943176269531
+V1 : the Italians and Japanese share a design approach
+V1Score : -50.90449142456055
+V2 : follow design approach of the Italians and Japanese
+V2Score : -57.61533355712891
+MVpOPassive : design is approached by the Italians and Japanese
+MVpOPassiveScore : -47.91481399536133
+MpOVPassive : the designs of both the Italians and Japanese are approached
+MpOVPassiveScore : -56.15351486206055
+OVpMPassive : the Italians and Japanese are approached to design
+OVpMPassiveScore : -52.17279434204102
+gold : the Italians and Japanese approach design
+reducedGold : italians and japanese approach design 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : the Italians and Japanese approach to design
+reducedParaphrase : italians and japanese approach to design 
+adj/noun-label : arg1
+FinalLabel : False
+
+132. sentence : A business reference model is a means to describe the business operations of an organization, independent of the organizational structure that perform them.//A business reference model is a means to describe the business operations of an organization, independent of the organizational structure that perform them.
+adj/noun : business
+n_v : operations
+prep : of
+pobj : an organization
+originalPattern : business operations of an organization//business operations of an organization
+MVO : business operates an organization//business operates an organization
+MVOScore : -32.93965148925781//-32.93965148925781
+MVpO : //
+MVpOScore : //
+OVM : an organization operates businesses//an organization operates businesses
+OVMScore : -32.93032073974609//-32.93032073974609
+OVpM : an organization operates as a business//an organization operates as a business
+OVpMScore : -35.73379898071289//-35.73379898071289
+VOpM : operate an organization of business//operate an organization of business
+VOpMScore : -36.73958587646484//-36.73958587646484
+VpOpM : operate as an organization of business//operate as an organization of business
+VpOpMScore : -36.24444961547852//-36.24444961547852
+VMpO : operate a business within an organization//operate a business within an organization
+VMpOScore : -36.20993804931641//-36.20993804931641
+VpMpO : operate as a business within an organization//operate as a business within an organization
+VpMpOScore : -38.63846969604492//-38.63846969604492
+M : the operations of an organization are business//the operations of an organization are business
+MScore : -39.08793640136719//-39.08793640136719
+V1 : an organization oversees all business operations//an organization oversees all business operations
+V1Score : -38.56890106201172//-38.56890106201172
+V2 : oversee business operations of an organization//oversee business operations of an organization
+V2Score : -44.19478225708008//-44.19478225708008
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : a business is operated by an organization//a business is operated by an organization
+MVpOPassiveScore : -32.97951507568359//-32.97951507568359
+MpOVPassive : the business of an organization is operated//the business of an organization is operated
+MpOVPassiveScore : -38.60323715209961//-38.60323715209961
+OVpMPassive : an organization is operated by a business//an organization is operated by a business
+OVpMPassiveScore : -36.71024703979492//-36.71024703979492
+gold : an organization operate its business//an organization operate for business
+reducedGold : organization operate -pron- business //organization operate for business 
+OriginalHighestScorePattern : OVM//OVM
+HighestScorePattern : OVM//OVM
+HighestScorePatternSentence : an organization operates businesses//an organization operates businesses
+reducedParaphrase : organization operate business //organization operate business 
+adj/noun-label : arg1//PP
+FinalLabel : False
+
+133. sentence : A newly appointed Foreign Minister makes his or her first state visit to Sweden.
+adj/noun : state
+n_v : visit
+prep : to
+pobj : Sweden
+originalPattern : state visit to Sweden
+MVO : state visits Sweden
+MVOScore : -30.22385025024414
+MVpO : state visits to Sweden
+MVpOScore : -28.71720504760742
+OVM : Sweden visits state
+OVMScore : -28.70108222961426
+OVpM : Sweden visits to the state
+OVpMScore : -34.80581283569336
+VOpM : visit Sweden by state
+VOpMScore : -34.94229125976562
+VpOpM : visit to Sweden by state
+VpOpMScore : -38.94248580932617
+VMpO : visit the states of Sweden
+VMpOScore : -31.6302661895752
+VpMpO : visit to the states of Sweden
+VpMpOScore : -36.50035858154297
+M : the visit to Sweden is state
+MScore : -39.62392425537109
+V1 : Sweden pays a state visit
+V1Score : -32.58690643310547
+V2 : pay state visit to Sweden
+V2Score : -38.60183715820312
+MVpOPassive : state is visited by Sweden
+MVpOPassiveScore : -35.63396835327148
+MpOVPassive : state to Sweden is visited
+MpOVPassiveScore : -42.65929794311523
+OVpMPassive : Sweden is visited by state
+OVpMPassiveScore : -31.96653747558594
+gold : visit Sweden as state representative
+reducedGold : visit sweden as state representative 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : state visits to Sweden
+reducedParaphrase : state visit to sweden 
+adj/noun-label : PP
+FinalLabel : False
+
+134. sentence : According to its 2013 research report on the future competitiveness of cities, in 2025, Dubai will have moved up to 23rd place overall in the Index.
+adj/noun : research
+n_v : report
+prep : on
+pobj : the future competitiveness of cities
+originalPattern : research report on the future competitiveness of cities
+MVO : research reports the future competitiveness of cities
+MVOScore : -45.99048614501953
+MVpO : research reports on the future competitiveness of cities
+MVpOScore : -44.38501358032227
+OVM : the future competitiveness of cities report research
+OVMScore : -53.36595916748047
+OVpM : the future competitiveness of cities report to research
+OVpMScore : -56.26797103881836
+VOpM : report the future competitiveness of cities for research
+VOpMScore : -55.91055297851562
+VpOpM : report on the future competitiveness of cities for research
+VpOpMScore : -53.19419479370117
+VMpO : report research on the future competitiveness of cities
+VMpOScore : -47.42456817626953
+VpMpO : report on research on the future competitiveness of cities
+VpMpOScore : -51.69256210327148
+M : a report on the future competitiveness of cities is research
+MScore : -56.59607696533203
+V1 : the future competitiveness of cities produce a research report
+V1Score : -59.60713195800781
+V2 : produce research report on the future competitiveness of cities
+V2Score : -52.557373046875
+MVpOPassive : research is reported on the future competitiveness of cities
+MVpOPassiveScore : -51.74496459960938
+MpOVPassive : research on the future competitiveness of cities is reported
+MpOVPassiveScore : -50.63657379150391
+OVpMPassive : the future competitiveness of cities are reported in research
+OVpMPassiveScore : -57.26879501342773
+gold : report on research of the future competitiveness of cities
+reducedGold : report on research of future competitiveness of city 
+OriginalHighestScorePattern : VMpO
+HighestScorePattern : VMpO
+HighestScorePatternSentence : report research on the future competitiveness of cities
+reducedParaphrase : report research on future competitiveness of city 
+adj/noun-label : PP
+FinalLabel : False
+
+135. sentence : Additionally, students should be prepared to provide information regarding examples of online successes and involvement in summer programs, academic competitions, extra-curricular activities, community service hours, and essay responses to biographical inquiries.
+adj/noun : essay
+n_v : responses
+prep : to
+pobj : biographical inquiries
+originalPattern : essay responses to biographical inquiries
+MVO : essay responds biographical inquiries
+MVOScore : -52.62692642211914
+MVpO : essay responds to biographical inquiries
+MVpOScore : -44.71127700805664
+OVM : biographical inquiries respond essay
+OVMScore : -48.21791839599609
+OVpM : biographical inquiries respond to essay
+OVpMScore : -45.08072662353516
+VOpM : respond biographical inquiries to the essay
+VOpMScore : -52.76205444335938
+VpOpM : respond to biographical inquiries for essay
+VpOpMScore : -49.94469451904297
+VMpO : respond essay to biographical inquiries
+VMpOScore : -45.83298492431641
+VpMpO : respond to the essay with biographical inquiries
+VpMpOScore : -48.74300003051758
+M : the responses to biographical inquiries are essay
+MScore : -51.58343887329102
+V1 : biographical inquiries write essay responses
+V1Score : -53.44035339355469
+V2 : write essay responses to biographical inquiries
+V2Score : -51.30191421508789
+MVpOPassive : essay is responded to biographical inquiries
+MVpOPassiveScore : -51.50049591064453
+MpOVPassive : essay to the biographical inquiries is responded
+MpOVPassiveScore : -56.9734992980957
+OVpMPassive : biographical inquiries are responded by an essay
+OVpMPassiveScore : -52.32425308227539
+gold : respond to biographical inquiries in an essay
+reducedGold : respond to biographical inquiry in essay 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : essay responds to biographical inquiries
+reducedParaphrase : essay respond to biographical inquiry 
+adj/noun-label : PP
+FinalLabel : False
+
+136. sentence : After "Unakkaga Ellam Unakkaga" (1998) and "Rishi" (2000), Sundar C. and Yuvan Shankar Raja worked together for the third time for the music composition of this film.
+adj/noun : music
+n_v : composition
+prep : of
+pobj : this film
+originalPattern : music composition of this film
+MVO : music composes this film
+MVOScore : -38.25333023071289
+OVM : this film composes music
+OVMScore : -35.85140991210938
+OVpM : this film composes of music
+OVpMScore : -39.59832763671875
+VOpM : compose this film with music
+VOpMScore : -36.89030838012695
+VpOpM : compose for this film with music
+VpOpMScore : -39.54150009155273
+VMpO : compose music for this film
+VMpOScore : -37.55205917358398
+VpMpO : compose for the music for this film
+VpMpOScore : -41.11983108520508
+M : the composition of this film is music
+MScore : -37.82987976074219
+V1 : this film has a music composition
+V1Score : -37.32413101196289
+V2 : complete music composition of this film
+V2Score : -38.50828170776367
+MVpOPassive : the music is composed for this film
+MVpOPassiveScore : -37.46942520141602
+MpOVPassive : the music of all this film is composed
+MpOVPassiveScore : -40.58132553100586
+OVpMPassive : this film is composed of music
+OVpMPassiveScore : -31.57218551635742
+gold : compose music for this film
+reducedGold : compose music for film 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : this film composes music
+reducedParaphrase : film compose music 
+adj/noun-label : arg1
+FinalLabel : False
+
+138. sentence : After working as a civil engineer on the Dean Forest railway, he went (1861) to Italy, where he resided for the next 33 years, taking a considerable part in the railway construction of the peninsula, and at the same time keeping alive the Hungarian independence question by a whole series of pamphlets and newspaper articles.//After working as a civil engineer on the Dean Forest railway, he went (1861) to Italy, where he resided for the next 33 years, taking a considerable part in the railway construction of the peninsula, and at the same time keeping alive the Hungarian independence question by a whole series of pamphlets and newspaper articles.
+adj/noun : railway
+n_v : construction
+prep : of
+pobj : the peninsula
+originalPattern : railway construction of the peninsula//railway construction of the peninsula
+MVO : railway constructs the peninsula//railway constructs the peninsula
+MVOScore : -38.54082870483398//-38.54082870483398
+MVpO : //
+MVpOScore : //
+OVM : the peninsula constructs a railway//the peninsula constructs a railway
+OVMScore : -40.02172088623047//-40.02172088623047
+OVpM : the peninsula constructs as a railway//the peninsula constructs as a railway
+OVpMScore : -44.99684524536133//-44.99684524536133
+VOpM : construct the peninsula with a railway//construct the peninsula with a railway
+VOpMScore : -42.58938598632812//-42.58938598632812
+VpOpM : construct of the peninsula with a railway//construct of the peninsula with a railway
+VpOpMScore : -43.62202835083008//-43.62202835083008
+VMpO : construct a railway across the peninsula//construct a railway across the peninsula
+VMpOScore : -40.98479843139648//-40.98479843139648
+VpMpO : construct of a railway across the peninsula//construct of a railway across the peninsula
+VpMpOScore : -41.09773635864258//-41.09773635864258
+M : the construction of the peninsula is railway//the construction of the peninsula is railway
+MScore : -43.6290283203125//-43.6290283203125
+V1 : the peninsula supports the railway construction//the peninsula supports the railway construction
+V1Score : -44.68981170654297//-44.68981170654297
+V2 : support railway construction of the peninsula//support railway construction of the peninsula
+V2Score : -45.04039764404297//-45.04039764404297
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : railway is constructed on the peninsula//railway is constructed on the peninsula
+MVpOPassiveScore : -37.68159484863281//-37.68159484863281
+MpOVPassive : railway of the the peninsula is constructed//railway of the the peninsula is constructed
+MpOVPassiveScore : -48.41988754272461//-48.41988754272461
+OVpMPassive : the peninsula is constructed by railway//the peninsula is constructed by railway
+OVpMPassiveScore : -40.41477584838867//-40.41477584838867
+gold : construct railway in the peninsula//construct the railway of the peninsula
+reducedGold : construct railway in peninsula //construct railway of peninsula 
+OriginalHighestScorePattern : MVpOPassive//MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO//MVpOPassiveVMpO
+HighestScorePatternSentence : construct a railway on the peninsula//construct a railway on the peninsula
+reducedParaphrase : construct railway on peninsula //construct railway on peninsula 
+adj/noun-label : arg1//arg1
+FinalLabel : False
+
+139. sentence : An official alliance with the 91st Regiment (Canadian Highlanders) of the Canadian Militia was later recognized by that regiment changing its official title to The Argyll and Sutherland Highlanders of Canada (Princess Louise's) and adopting the dress distinctions of the regiment in Scotland.
+adj/noun : dress
+n_v : distinctions
+prep : of
+pobj : the regiment
+originalPattern : dress distinctions of the regiment
+MVO : dress distinguishes the regiment
+MVOScore : -40.07978439331055
+OVM : the regiment distinguishes dress
+OVMScore : -42.20600891113281
+OVpM : the regiment distinguishes between a dress
+OVpMScore : -42.45325469970703
+VOpM : distinguish the regiment by the dress
+VOpMScore : -44.35866928100586
+VpOpM : distinguish to the regiment in dress
+VpOpMScore : -49.14609527587891
+VMpO : distinguish the dress of the regiment
+VMpOScore : -43.36879348754883
+VpMpO : distinguish between the dresses of the regiment
+VpMpOScore : -46.10260772705078
+M : the distinctions of the regiment are dress
+MScore : -50.82156372070312
+V1 : the regiment receives dress distinctions
+V1Score : -48.74286270141602
+V2 : maintain dress distinctions of the regiment
+V2Score : -52.99843597412109
+MVpOPassive : dress is distinguished by the regiment
+MVpOPassiveScore : -41.27456665039062
+MpOVPassive : the dress of all the regiment is distinguished
+MpOVPassiveScore : -52.10921478271484
+OVpMPassive : the regiment is distinguished by the dress
+OVpMPassiveScore : -41.10346603393555
+gold : distinguish the regiment by dress
+reducedGold : distinguish regiment by dress 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : dress distinguishes the regiment
+reducedParaphrase : dress distinguish regiment 
+adj/noun-label : PP
+FinalLabel : False
+
+140. sentence : Apart from practical implications of this, especially if English literacy is also low (i.e., written communication, education opportunities), it means that traditional stories are either not recorded in written form, or the Ngukurr people must rely on texts from Barunga, which may lessen the identity distinction between the two groups.//Apart from practical implications of this, especially if English literacy is also low (i.e., written communication, education opportunities), it means that traditional stories are either not recorded in written form, or the Ngukurr people must rely on texts from Barunga, which may lessen the identity distinction between the two groups.
+adj/noun : identity
+n_v : distinction
+prep : between
+pobj : the two groups
+originalPattern : identity distinction between the two groups//identity distinction between the two groups
+MVO : identity distinguishes the two groups//identity distinguishes the two groups
+MVOScore : -31.20692825317383//-31.20692825317383
+MVpO : identity distinguishes between the two groups//identity distinguishes between the two groups
+MVpOScore : -32.48856735229492//-32.48856735229492
+OVM : the two groups distinguish identity//the two groups distinguish identity
+OVMScore : -38.85167694091797//-38.85167694091797
+OVpM : the two groups distinguish by identity//the two groups distinguish by identity
+OVpMScore : -38.99600219726562//-38.99600219726562
+VOpM : distinguish the two groups by identity//distinguish the two groups by identity
+VOpMScore : -36.05903625488281//-36.05903625488281
+VpOpM : distinguish between the two groups by identity//distinguish between the two groups by identity
+VpOpMScore : -36.51192855834961//-36.51192855834961
+VMpO : distinguish identity between the two groups//distinguish identity between the two groups
+VMpOScore : -34.54418182373047//-34.54418182373047
+VpMpO : distinguish between the identities of the two groups//distinguish between the identities of the two groups
+VpMpOScore : -34.94034194946289//-34.94034194946289
+M : the distinction between the two groups is identity//the distinction between the two groups is identity
+MScore : -38.24782562255859//-38.24782562255859
+V1 : the two groups lack any identity distinction//the two groups lack any identity distinction
+V1Score : -48.18423080444336//-48.18423080444336
+V2 : create identity distinction between the two groups//create identity distinction between the two groups
+V2Score : -42.4753532409668//-42.4753532409668
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : identity is distinguished between the two groups//identity is distinguished between the two groups
+MVpOPassiveScore : -34.62237167358398//-34.62237167358398
+MpOVPassive : identities between the two groups are distinguished//identities between the two groups are distinguished
+MpOVPassiveScore : -37.60913467407227//-37.60913467407227
+OVpMPassive : the two groups are distinguished by identity//the two groups are distinguished by identity
+OVpMPassiveScore : -38.74483108520508//-38.74483108520508
+gold : the two groups distinguish their identities//distinguish identity of the two groups
+reducedGold : two group distinguish -pron- identity //distinguish identity of two group 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : identity distinguishes the two groups//identity distinguishes the two groups
+reducedParaphrase : identity distinguish two group //identity distinguish two group 
+adj/noun-label : arg1//arg1
+FinalLabel : False
+
+145. sentence : Despite the off-season acquisitions of several players, such as Shannon Byrnes, Tom Gillies, Chris Dawes, David Rodan and Jack Viney, the Demons underachieved in the first half of the 2013 season, managing just one win in their first 11 games.//Despite the off-season acquisitions of several players, such as Shannon Byrnes, Tom Gillies, Chris Dawes, David Rodan and Jack Viney, the Demons underachieved in the first half of the 2013 season, managing just one win in their first 11 games.
+adj/noun : off-season
+n_v : acquisitions
+prep : of
+pobj : several players
+originalPattern : off season acquisitions of several players//off season acquisitions of several players
+MVO : off season acquires several players//off season acquires several players
+MVOScore : -39.95700073242188//-39.95700073242188
+MVpO : //
+MVpOScore : //
+OVM : several players acquire off season//several players acquire off season
+OVMScore : -42.95606994628906//-42.95606994628906
+OVpM : several players acquire in the off season//several players acquire in the off season
+OVpMScore : -44.06151580810547//-44.06151580810547
+VOpM : acquire several players in the off season//acquire several players in the off season
+VOpMScore : -39.50677108764648//-39.50677108764648
+VpOpM : acquire of several players in the off season//acquire of several players in the off season
+VpOpMScore : -46.13047027587891//-46.13047027587891
+VMpO : acquire an off season for several players//acquire an off season for several players
+VMpOScore : -44.85404586791992//-44.85404586791992
+VpMpO : acquire in the off season for several players//acquire in the off season for several players
+VpMpOScore : -46.96922302246094//-46.96922302246094
+M : the acquisitions of several players are off season//the acquisitions of several players are off season
+MScore : -49.4517822265625//-49.4517822265625
+V1 : several players make off season acquisitions//several players make off season acquisitions
+V1Score : -46.75454330444336//-46.75454330444336
+V2 : facilitate off season acquisitions of several players//facilitate off season acquisitions of several players
+V2Score : -50.38901519775391//-50.38901519775391
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : off season is acquired by several players//off season is acquired by several players
+MVpOPassiveScore : -45.05485916137695//-45.05485916137695
+MpOVPassive : an off season of several players is acquired//an off season of several players is acquired
+MpOVPassiveScore : -53.77199935913086//-53.77199935913086
+OVpMPassive : several players are acquired in the off season//several players are acquired in the off season
+OVpMPassiveScore : -43.11079406738281//-43.11079406738281
+gold : acquire several players during the off season//acquire several players in the off-season
+reducedGold : acquire several player during off season //acquire several player in off - season 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : off season acquires several players//off season acquires several players
+reducedParaphrase : off season acquire several player //off season acquire several player 
+adj/noun-label : PP//PP
+FinalLabel : False
+
+146. sentence : Figures from the Tourism Satellite Accounting Research, conducted by WTTC (World Travel & Tourism Council) project a worldwide increase in revenues in business travel to Greece from US $1.51 bn. in 2001 to US $2.69 bn. in 2011.
+adj/noun : business
+n_v : travel
+prep : to
+pobj : Greece
+originalPattern : business travel to Greece
+MVO : business travels Greece
+MVOScore : -33.7889404296875
+MVpO : business travels to Greece
+MVpOScore : -31.0126953125
+OVM : Greece travels business
+OVMScore : -32.95186614990234
+OVpM : Greece travels on business
+OVpMScore : -32.55665588378906
+VOpM : travel Greece in business
+VOpMScore : -36.77923583984375
+VpOpM : travel to Greece in business
+VpOpMScore : -34.53213119506836
+VMpO : travel business in Greece
+VMpOScore : -31.03677749633789
+VpMpO : travel to business in Greece
+VpMpOScore : -33.71501922607422
+M : all travel to Greece is business
+MScore : -41.78482818603516
+V1 : Greece conducts a business travel
+V1Score : -36.19822311401367
+V2 : conduct business travel to Greece
+V2Score : -41.39810180664062
+MVpOPassive : business is traveled to Greece
+MVpOPassiveScore : -39.87775039672852
+MpOVPassive : businesses to Greece are traveled
+MpOVPassiveScore : -51.6784553527832
+OVpMPassive : Greece is traveled by business
+OVpMPassiveScore : -37.50013732910156
+gold : travel to Greece for business
+reducedGold : travel to greece for business 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : business travels to Greece
+reducedParaphrase : business travel to greece 
+adj/noun-label : PP
+FinalLabel : False
+
+148. sentence : Hollingsworth received 50 per cent of his fee from the City of Moscow, with the rest coming from television sales to other countries.
+adj/noun : television
+n_v : sales
+prep : to
+pobj : other countries
+originalPattern : television sales to other countries
+MVO : television shops other countries
+MVOScore : -39.42420959472656
+MVpO : television shops to other countries
+MVpOScore : -39.73268508911133
+OVM : other countries shop television
+OVMScore : -41.38818740844727
+OVpM : other countries shop for televisions
+OVpMScore : -40.02575302124023
+VOpM : shop other countries for the television
+VOpMScore : -46.84718704223633
+VpOpM : shop in other countries for the television
+VpOpMScore : -44.78312301635742
+VMpO : shop televisions in other countries
+VMpOScore : -37.47080612182617
+VpMpO : shop for a television in other countries
+VpMpOScore : -42.82345199584961
+M : all sales to other countries are television
+MScore : -47.48286056518555
+V1 : other countries increase television sales
+V1Score : -41.64584350585938
+V2 : boost television sales to other countries
+V2Score : -45.69436645507812
+MVpOPassive : television is shopped in other countries
+MVpOPassiveScore : -40.16985702514648
+MpOVPassive : television to the other countries is shopped
+MpOVPassiveScore : -51.33198547363281
+OVpMPassive : other countries are shopped for television
+OVpMPassiveScore : -47.21472549438477
+gold : sell televisions to other countries
+reducedGold : sell television to other country 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO
+HighestScorePatternSentence : shop televisions in other countries
+reducedParaphrase : shop television in other country 
+adj/noun-label : arg1
+FinalLabel : False
+
+149. sentence : In "United States v. Wrightwood Dairy Co." (1942) the Court upheld federal price regulation of intrastate milk commerce, stating://In "United States v. Wrightwood Dairy Co." (1942) the Court upheld federal price regulation of intrastate milk commerce, stating:
+adj/noun : price
+n_v : regulation
+prep : of
+pobj : intrastate milk commerce
+originalPattern : price regulation of intrastate milk commerce//price regulation of intrastate milk commerce
+MVO : price regulates intrastate milk commerce//price regulates intrastate milk commerce
+MVOScore : -55.23769760131836//-55.23769760131836
+MVpO : //
+MVpOScore : //
+OVM : intrastate milk commerce regulates prices//intrastate milk commerce regulates prices
+OVMScore : -55.92993927001953//-55.92993927001953
+OVpM : intrastate milk commerce regulates on the price//intrastate milk commerce regulates on the price
+OVpMScore : -66.0938949584961//-66.0938949584961
+VOpM : regulate intrastate milk commerce for price//regulate intrastate milk commerce for price
+VOpMScore : -60.01457977294922//-60.01457977294922
+VpOpM : //
+VpOpMScore : //
+VMpO : regulate the price of intrastate milk commerce//regulate the price of intrastate milk commerce
+VMpOScore : -56.13591003417969//-56.13591003417969
+VpMpO : regulate on the price of intrastate milk commerce//regulate on the price of intrastate milk commerce
+VpMpOScore : -61.88642883300781//-61.88642883300781
+M : the regulation of intrastate milk commerce is price//the regulation of intrastate milk commerce is price
+MScore : -60.10906219482422//-60.10906219482422
+V1 : intrastate milk commerce improves price regulation//intrastate milk commerce improves price regulation
+V1Score : -65.6483383178711//-65.6483383178711
+V2 : improve price regulation of intrastate milk commerce//improve price regulation of intrastate milk commerce
+V2Score : -61.20270538330078//-61.20270538330078
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : prices are regulated by intrastate milk commerce//prices are regulated by intrastate milk commerce
+MVpOPassiveScore : -54.58876037597656//-54.58876037597656
+MpOVPassive : the price of the intrastate milk commerce is regulated//the price of the intrastate milk commerce is regulated
+MpOVPassiveScore : -60.26901626586914//-60.26901626586914
+OVpMPassive : intrastate milk commerce is regulated by price//intrastate milk commerce is regulated by price
+OVpMPassiveScore : -58.90222549438477//-58.90222549438477
+gold : regulate price in intrastate milk commerce//regulate price of intrastate milk commerce
+reducedGold : regulate price in intrastate milk commerce //regulate price of intrastate milk commerce 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : price regulates intrastate milk commerce//price regulates intrastate milk commerce
+reducedParaphrase : price regulate intrastate milk commerce //price regulate intrastate milk commerce 
+adj/noun-label : arg1//arg1
+FinalLabel : False
+
+150. sentence : In 1920, Chicagoans approved a bond referendum to pay for landfill construction of the peninsula, and in 1922 construction began.
+adj/noun : landfill
+n_v : construction
+prep : of
+pobj : the peninsula
+originalPattern : landfill construction of the peninsula
+MVO : landfill constructs the peninsula
+MVOScore : -41.30683135986328
+OVM : the peninsula constructs a landfill
+OVMScore : -43.33347320556641
+OVpM : the peninsula constructs as a landfill
+OVpMScore : -47.57954406738281
+VOpM : construct the peninsula as a landfill
+VOpMScore : -43.29848098754883
+VpOpM : construct of the peninsula as a landfill
+VpOpMScore : -45.10910797119141
+VMpO : construct landfills on the peninsula
+VMpOScore : -41.52316665649414
+VpMpO : construct of a landfill on the peninsula
+VpMpOScore : -42.35049819946289
+M : the construction of the peninsula is landfill
+MScore : -44.30094146728516
+V1 : the peninsula undergoes some landfill construction
+V1Score : -49.35736846923828
+V2 : prevent landfill construction of the peninsula
+V2Score : -47.69544982910156
+MVpOPassive : landfill is constructed on the peninsula
+MVpOPassiveScore : -38.39814376831055
+MpOVPassive : landfill of all the peninsula is constructed
+MpOVPassiveScore : -50.42854690551758
+OVpMPassive : the peninsula is constructed with landfill
+OVpMPassiveScore : -42.04953384399414
+gold : construct landfills of the peninsula
+reducedGold : construct landfill of peninsula 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO
+HighestScorePatternSentence : construct landfills on the peninsula
+reducedParaphrase : construct landfill on peninsula 
+adj/noun-label : arg1
+FinalLabel : False
+
+152. sentence : In the 2004 Booker Prize–winning novel "The Line of Beauty", written by Alan Hollinghurst, two of the main characters attempt to get financing for a film production of the story; this plot point is also included in the 2006 three-part BBC Two serial of the same name, adapted for television by Andrew Davies.//In the 2004 Booker Prize–winning novel "The Line of Beauty", written by Alan Hollinghurst, two of the main characters attempt to get financing for a film production of the story; this plot point is also included in the 2006 three-part BBC Two serial of the same name, adapted for television by Andrew Davies.
+adj/noun : film
+n_v : production
+prep : of
+pobj : the story
+originalPattern : film production of the story//film production of the story
+MVO : film produces the story//film produces the story
+MVOScore : -30.05501174926758//-30.05501174926758
+MVpO : //
+MVpOScore : //
+OVM : the story produces a film//the story produces a film
+OVMScore : -33.73006057739258//-33.73006057739258
+OVpM : the story produces in the film//the story produces in the film
+OVpMScore : -36.59836578369141//-36.59836578369141
+VOpM : produce the story for the film//produce the story for the film
+VOpMScore : -30.88682174682617//-30.88682174682617
+VpOpM : produce of the story for the film//produce of the story for the film
+VpOpMScore : -36.58644866943359//-36.58644866943359
+VMpO : produce a film of the story//produce a film of the story
+VMpOScore : -31.24609184265137//-31.24609184265137
+VpMpO : produce of a film of the story//produce of a film of the story
+VpMpOScore : -38.22983551025391//-38.22983551025391
+M : the production of the story is film//the production of the story is film
+MScore : -39.28212738037109//-39.28212738037109
+V1 : the story influences the film production//the story influences the film production
+V1Score : -39.20321655273438//-39.20321655273438
+V2 : facilitate film production of the story//facilitate film production of the story
+V2Score : -38.52119064331055//-38.52119064331055
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : film is produced by the story//film is produced by the story
+MVpOPassiveScore : -34.12187957763672//-34.12187957763672
+MpOVPassive : film of the story is produced//film of the story is produced
+MpOVPassiveScore : -34.47322845458984//-34.47322845458984
+OVpMPassive : the story is produced as a film//the story is produced as a film
+OVpMPassiveScore : -35.93775939941406//-35.93775939941406
+gold : produce a film for the story//the film tell the story
+reducedGold : produce film for story //film tell story 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : film produces the story//film produces the story
+reducedParaphrase : film produce story //film produce story 
+adj/noun-label : arg1//arg0
+FinalLabel : False
+
+154. sentence : Its significance lay in its position in the centre of some of Lowland Scotland's most agriculturally fertile areas, and its position upon the River Tweed, which allowed river transport of goods via the main seaport of Berwick-upon-Tweed.//Its significance lay in its position in the centre of some of Lowland Scotland's most agriculturally fertile areas, and its position upon the River Tweed, which allowed river transport of goods via the main seaport of Berwick-upon-Tweed.
+adj/noun : river
+n_v : transport
+prep : of
+pobj : goods
+originalPattern : river transport of goods//river transport of goods
+MVO : rivers transport goods//rivers transport goods
+MVOScore : -27.78547096252441//-27.78547096252441
+MVpO : //
+MVpOScore : //
+OVM : goods transport river//goods transport river
+OVMScore : -36.38140106201172//-36.38140106201172
+OVpM : goods transport by river//goods transport by river
+OVpMScore : -37.82486724853516//-37.82486724853516
+VOpM : transport goods by river//transport goods by river
+VOpMScore : -35.93160629272461//-35.93160629272461
+VpOpM : transport of goods by river//transport of goods by river
+VpOpMScore : -31.94923782348633//-31.94923782348633
+VMpO : transport the river for goods//transport the river for goods
+VMpOScore : -37.35453414916992//-37.35453414916992
+VpMpO : transport of rivers for goods//transport of rivers for goods
+VpMpOScore : -37.73256301879883//-37.73256301879883
+M : the transport of goods is river//the transport of goods is river
+MScore : -38.62239074707031//-38.62239074707031
+V1 : goods include the river transport//goods include the river transport
+V1Score : -43.64675903320312//-43.64675903320312
+V2 : facilitate river transport of goods//facilitate river transport of goods
+V2Score : -38.65182876586914//-38.65182876586914
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : rivers are transported for goods//rivers are transported for goods
+MVpOPassiveScore : -40.33057403564453//-40.33057403564453
+MpOVPassive : a river of goods is transported//a river of goods is transported
+MpOVPassiveScore : -38.31278991699219//-38.31278991699219
+OVpMPassive : goods are transported by river//goods are transported by river
+OVpMPassiveScore : -37.52944183349609//-37.52944183349609
+gold : transport goods on the river//transport goods via the river
+reducedGold : transport good on river //transport good via river 
+OriginalHighestScorePattern : M//M
+HighestScorePattern : M//M
+HighestScorePatternSentence : //
+reducedParaphrase : //
+adj/noun-label : PP//PP
+FinalLabel : False
+
+156. sentence : n a 2011 university ranking of Quacquarelli Symonds the Austral University of Chile was ranked 30th among Latin American universities, 5th among Chilean universities and second among Chilean universities outside Santiago.
+adj/noun : university
+n_v : ranking
+prep : of
+pobj : Quacquarelli Symonds
+originalPattern : university ranking of Quacquarelli Symonds
+MVO : university ranks Quacquarelli Symonds
+MVOScore : -59.26346206665039
+OVM : Quacquarelli Symonds rank the university
+OVMScore : -59.26580810546875
+OVpM : Quacquarelli Symonds rank among universities
+OVpMScore : -61.49143218994141
+VOpM : order Quacquarelli Symonds of the university
+VOpMScore : -65.76152801513672
+VpOpM : order of Quacquarelli Symonds of the university
+VpOpMScore : -67.76274871826172
+VMpO : rank universities by Quacquarelli Symonds
+VMpOScore : -64.9765625
+VpMpO : rank of universities by Quacquarelli Symonds
+VpMpOScore : -64.93363189697266
+M : the ranking of Quacquarelli Symonds is university
+MScore : -68.46114349365234
+V1 : Quacquarelli Symonds determine the university ranking
+V1Score : -70.09825134277344
+V2 : determine university ranking of Quacquarelli Symonds
+V2Score : -72.00467681884766
+MVpOPassive : university is ranked by Quacquarelli Symonds
+MVpOPassiveScore : -60.96297073364258
+MpOVPassive : universities of the Quacquarelli Symonds are ranked
+MpOVPassiveScore : -65.39805603027344
+OVpMPassive : Quacquarelli Symonds are ranked by university
+OVpMPassiveScore : -60.6281852722168
+gold : Quacquarelli Symonds rank universities
+reducedGold : quacquarelli symonds rank university 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : university ranks Quacquarelli Symonds
+reducedParaphrase : university rank quacquarelli symonds 
+adj/noun-label : arg1
+FinalLabel : False
+
+157. sentence : Other factors, including the amount of residual vision, overall health, and family commitment to rehabilitation, are also considered when determining candidates for retinal implants.
+adj/noun : family
+n_v : commitment
+prep : to
+pobj : rehabilitation
+originalPattern : family commitment to rehabilitation
+MVO : family commits rehabilitation
+MVOScore : -34.92900848388672
+MVpO : family commits to rehabilitation
+MVpOScore : -33.59322357177734
+OVM : rehabilitation commissions family
+OVMScore : -35.29426956176758
+OVpM : rehabilitation commissions for families
+OVpMScore : -33.69596862792969
+VOpM : commission rehabilitation of family
+VOpMScore : -36.04324340820312
+VpOpM : commission for rehabilitation of family
+VpOpMScore : -34.08984375
+VMpO : commission families for rehabilitation
+VMpOScore : -38.10448455810547
+VpMpO : commission of the family for rehabilitation
+VpMpOScore : -38.10045623779297
+M : the commitment to rehabilitation is family
+MScore : -40.34654998779297
+V1 : rehabilitation fulfils the family commitment
+V1Score : -43.22200012207031
+V2 : fulfill family commitment to rehabilitation
+V2Score : -42.82757186889648
+MVpOPassive : family is committed to rehabilitation
+MVpOPassiveScore : -32.3132438659668
+MpOVPassive : family to rehabilitation is committed
+MpOVPassiveScore : -42.67089462280273
+OVpMPassive : rehabilitation is committed to family
+OVpMPassiveScore : -34.81795501708984
+gold : the family support rehabilitation
+reducedGold : family support rehabilitation 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO
+HighestScorePatternSentence : commission families to rehabilitation
+reducedParaphrase : commission family to rehabilitation 
+adj/noun-label : arg0
+FinalLabel : False
+
+158. sentence : Power and temperature regulation of the domes would come from atomic driven generators outside of these domes.//Power and temperature regulation of the domes would come from atomic driven generators outside of these domes.
+adj/noun : temperature
+n_v : regulation
+prep : of
+pobj : the domes
+originalPattern : temperature regulation of the domes//temperature regulation of the domes
+MVO : temperature regulates the domes//temperature regulates the domes
+MVOScore : -38.56299209594727//-38.56299209594727
+MVpO : //
+MVpOScore : //
+OVM : the domes regulate the temperature//the domes regulate the temperature
+OVMScore : -39.63288497924805//-39.63288497924805
+OVpM : the domes regulate with the temperature//the domes regulate with the temperature
+OVpMScore : -48.98031997680664//-48.98031997680664
+VOpM : regulate the domes by temperature//regulate the domes by temperature
+VOpMScore : -47.31546020507812//-47.31546020507812
+VpOpM : regulate of the domes by temperature//regulate of the domes by temperature
+VpOpMScore : -52.39813995361328//-52.39813995361328
+VMpO : regulate the temperature of the domes//regulate the temperature of the domes
+VMpOScore : -39.54896545410156//-39.54896545410156
+VpMpO : regulate of the temperature of the domes//regulate of the temperature of the domes
+VpMpOScore : -46.13422393798828//-46.13422393798828
+M : the regulation of the domes is temperature//the regulation of the domes is temperature
+MScore : -49.84514617919922//-49.84514617919922
+V1 : the domes have a temperature regulation//the domes have a temperature regulation
+V1Score : -42.6105842590332//-42.6105842590332
+V2 : improve temperature regulation of the domes//improve temperature regulation of the domes
+V2Score : -43.9619255065918//-43.9619255065918
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : temperature is regulated by the domes//temperature is regulated by the domes
+MVpOPassiveScore : -37.94284057617188//-37.94284057617188
+MpOVPassive : the temperature of all the domes is regulated//the temperature of all the domes is regulated
+MpOVPassiveScore : -43.42578887939453//-43.42578887939453
+OVpMPassive : the domes are regulated by temperature//the domes are regulated by temperature
+OVpMPassiveScore : -43.26479339599609//-43.26479339599609
+gold : regulate temperature in the domes//regulate temperature of the domes
+reducedGold : regulate temperature in dome //regulate temperature of dome 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : temperature regulates the domes//temperature regulates the domes
+reducedParaphrase : temperature regulate dome //temperature regulate dome 
+adj/noun-label : arg1//arg1
+FinalLabel : False
+
+159. sentence : Roselle School District 12 is located entirely in the Village of Roselle and consists of two local schools: Spring Hills Elementary and Roselle Middle School with a school enrollment of approximately 700 students.
+adj/noun : school
+n_v : enrollment
+prep : of
+pobj : approximately 700 students
+originalPattern : school enrollment of approximately 700 students
+MVO : the school enrolls approximately 700 students
+MVOScore : -36.70272445678711
+OVM : approximately 700 students enroll school
+OVMScore : -39.34409713745117
+OVpM : approximately 700 students enroll in school
+OVpMScore : -35.43397903442383
+VOpM : enroll approximately 700 students in school
+VOpMScore : -44.1451530456543
+VpOpM : enroll in approximately 700 students in schools
+VpOpMScore : -45.03714752197266
+VMpO : enroll a school of approximately 700 students
+VMpOScore : -44.84885406494141
+VpMpO : enroll in schools with approximately 700 students
+VpMpOScore : -42.26201629638672
+M : an enrollment of approximately 700 students is school
+MScore : -49.46910095214844
+V1 : approximately 700 students attend the school enrollment
+V1Score : -41.38640975952148
+V2 : accommodate school enrollment of approximately 700 students
+V2Score : -46.2146110534668
+MVpOPassive : the school is enrolled in approximately 700 students
+MVpOPassiveScore : -40.635986328125
+MpOVPassive : schools of approximately 700 students are enrolled
+MpOVPassiveScore : -41.52146530151367
+OVpMPassive : approximately 700 students are enrolled in the school
+OVpMPassiveScore : -32.29982757568359
+gold : approximately 700 students enroll in school
+reducedGold : approximately 700 student enroll in school 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : enroll approximately 700 students in school
+reducedParaphrase : enroll approximately 700 student in school 
+adj/noun-label : PP
+FinalLabel : False
+
+160. sentence : This helps to facilitate myriad academic and research collaborations between the two schools,//This helps to facilitate myriad academic and research collaborations between the two schools,
+adj/noun : research
+n_v : collaborations
+prep : between
+pobj : the two schools
+originalPattern : research collaborations between the two schools//research collaborations between the two schools
+MVO : research collaborates the two schools//research collaborates the two schools
+MVOScore : -41.10655212402344//-41.10655212402344
+MVpO : research collaborates between the two schools//research collaborates between the two schools
+MVpOScore : -39.29683685302734//-39.29683685302734
+OVM : the two schools collaborate research//the two schools collaborate research
+OVMScore : -39.7180290222168//-39.7180290222168
+OVpM : the two schools collaborate on research//the two schools collaborate on research
+OVpMScore : -33.83202743530273//-33.83202743530273
+VOpM : collaborate the two schools of research//collaborate the two schools of research
+VOpMScore : -42.07992172241211//-42.07992172241211
+VpOpM : collaborate with the two schools of research//collaborate with the two schools of research
+VpOpMScore : -42.37651824951172//-42.37651824951172
+VMpO : collaborate research between the two schools//collaborate research between the two schools
+VMpOScore : -42.56002807617188//-42.56002807617188
+VpMpO : collaborate on research between the two schools//collaborate on research between the two schools
+VpMpOScore : -39.89749908447266//-39.89749908447266
+M : the collaborations between the two schools are research//the collaborations between the two schools are research
+MScore : -47.30111312866211//-47.30111312866211
+V1 : the two schools have research collaborations//the two schools have research collaborations
+V1Score : -39.68391418457031//-39.68391418457031
+V2 : facilitate research collaborations between the two schools//facilitate research collaborations between the two schools
+V2Score : -43.60478591918945//-43.60478591918945
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : research is collaborated between the two schools//research is collaborated between the two schools
+MVpOPassiveScore : -45.12911605834961//-45.12911605834961
+MpOVPassive : research between both the two schools is collaborated//research between both the two schools is collaborated
+MpOVPassiveScore : -55.75885772705078//-55.75885772705078
+OVpMPassive : the two schools are collaborated in research//the two schools are collaborated in research
+OVpMPassiveScore : -43.90968322753906//-43.90968322753906
+gold : the two schools collaborate in research//researchers from the two schools collaborate
+reducedGold : two school collaborate in research //researcher from two school collaborate 
+OriginalHighestScorePattern : OVpM//OVpM
+HighestScorePattern : OVpM//OVpM
+HighestScorePatternSentence : the two schools collaborate on research//the two schools collaborate on research
+reducedParaphrase : two school collaborate on research //two school collaborate on research 
+adj/noun-label : PP//arg0
+FinalLabel : False
+
+164. sentence : When the time came to move tactical air units to Korean airfields, Fifth Air Force did not deploy its permanent wings because they were heavily committed to the air defense of Japan.
+adj/noun : air
+n_v : defense
+prep : of
+pobj : Japan
+originalPattern : air defense of Japan
+MVO : air defends Japan
+MVOScore : -29.82572174072266
+OVM : Japan defends air
+OVMScore : -24.25341033935547
+OVpM : Japan defends against air
+OVpMScore : -30.53731536865234
+VOpM : defend Japan by air
+VOpMScore : -41.39153289794922
+VpOpM : defend of Japan by air
+VpOpMScore : -44.4610481262207
+VMpO : defend the air against Japan
+VMpOScore : -42.21562576293945
+VpMpO : defend in the air against Japan
+VpMpOScore : -45.22489929199219
+M : the defense of Japan is air
+MScore : -39.26496887207031
+V1 : Japan has an air defense
+V1Score : -24.49869346618652
+V2 : strengthen air defense of Japan
+V2Score : -43.15258407592773
+MVpOPassive : air is defended by Japan
+MVpOPassiveScore : -35.22043609619141
+MpOVPassive : air of the Japan is defended
+MpOVPassiveScore : -43.97867584228516
+OVpMPassive : Japan is defended by air
+OVpMPassiveScore : -31.16677474975586
+gold : defend Japan in the air
+reducedGold : defend japan in air 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : air defends Japan
+reducedParaphrase : air defend japan 
+adj/noun-label : PP
+FinalLabel : False
+
+165. sentence : While poised to grow, river access to the community was stymied by a massive and ancient log jam in the river which prevented large ships from being able to port.
+adj/noun : river
+n_v : access
+prep : to
+pobj : the community
+originalPattern : river access to the community
+MVO : rivers access the community
+MVOScore : -34.04472351074219
+MVpO : rivers access to the community
+MVpOScore : -33.23842620849609
+OVM : the community accesses the river
+OVMScore : -39.46727752685547
+OVpM : the community accesses to the rivers
+OVpMScore : -43.75356292724609
+VOpM : access the community from the river
+VOpMScore : -39.21841812133789
+VpOpM : access to the community from the river
+VpOpMScore : -37.69449615478516
+VMpO : access river to the community
+VMpOScore : -37.62914657592773
+VpMpO : access to rivers in the community
+VpMpOScore : -37.29151916503906
+M : the access to the community is river
+MScore : -44.49898529052734
+V1 : the community has a river access
+V1Score : -38.73244094848633
+V2 : improve river access to the community
+V2Score : -36.55323791503906
+MVpOPassive : river is accessed from the community
+MVpOPassiveScore : -37.62130355834961
+MpOVPassive : rivers to the community are accessed
+MpOVPassiveScore : -42.58358001708984
+OVpMPassive : the community is accessed by rivers
+OVpMPassiveScore : -41.14651870727539
+gold : access the community via the river
+reducedGold : access community via river 
+OriginalHighestScorePattern : V2
+HighestScorePattern : V2
+adj/noun-label : PP
+FinalLabel : False
+
+166. sentence : Cizik has described himself as a "advocate for pro-life policies without exception." He supports government distribution of contraception.
+adj/noun : government
+n_v : distribution
+prep : of
+pobj : contraception
+originalPattern : government distribution of contraception
+MVO : government distributes contraception
+MVOScore : -32.98513031005859
+OVM : contraception distributes government
+OVMScore : -38.18965530395508
+OVpM : contraception distributes to government
+OVpMScore : -42.4030647277832
+VOpM : distribute contraception to government
+VOpMScore : -39.46085357666016
+VpOpM : distribute of contraception to government
+VpOpMScore : -42.40945053100586
+VMpO : distribute governments on contraception
+VMpOScore : -42.40874099731445
+VpMpO : distribute to the government of contraception
+VpMpOScore : -43.25146102905273
+M : the distribution of contraception is government
+MScore : -38.33797073364258
+V1 : contraception controls government distribution
+V1Score : -43.17771148681641
+V2 : control government distribution of contraception
+V2Score : -39.26133346557617
+MVpOPassive : government is distributed in contraception
+MVpOPassiveScore : -44.25587844848633
+MpOVPassive : government of the contraception is distributed
+MpOVPassiveScore : -45.18068313598633
+OVpMPassive : contraception is distributed by the government
+OVpMPassiveScore : -38.70571136474609
+gold : the government distribute contraceptives
+reducedGold : government distribute contraceptive 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : government distributes contraception
+reducedParaphrase : government distribute contraception 
+adj/noun-label : arg0
+FinalLabel : False
+
+167. sentence : In 2006, Corona Power, LLC sought and won a substantial reduction in the tax assessment of the property.//In 2006, Corona Power, LLC sought and won a substantial reduction in the tax assessment of the property.
+adj/noun : tax
+n_v : assessment
+prep : of
+pobj : the property
+originalPattern : tax assessment of the property//tax assessment of the property
+MVO : tax assesses the property//tax assesses the property
+MVOScore : -31.19386672973633//-31.19386672973633
+MVpO : //
+MVpOScore : //
+OVM : the property assesses the tax//the property assesses the tax
+OVMScore : -37.04442977905273//-37.04442977905273
+OVpM : the property assesses for tax//the property assesses for tax
+OVpMScore : -38.80979156494141//-38.80979156494141
+VOpM : assess the property before taxes//assess the property before taxes
+VOpMScore : -39.58640670776367//-39.58640670776367
+VpOpM : assess on the property before taxes//assess on the property before taxes
+VpOpMScore : -44.96257781982422//-44.96257781982422
+VMpO : assess taxes on the property//assess taxes on the property
+VMpOScore : -38.19435501098633//-38.19435501098633
+VpMpO : assess for a tax on the property//assess for a tax on the property
+VpMpOScore : -43.55167770385742//-43.55167770385742
+M : the assessment of the property is tax//the assessment of the property is tax
+MScore : -39.85334396362305//-39.85334396362305
+V1 : the property has a tax assessment//the property has a tax assessment
+V1Score : -35.72537231445312//-35.72537231445312
+V2 : conduct tax assessment of the property//conduct tax assessment of the property
+V2Score : -37.38346481323242//-37.38346481323242
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : tax is assessed on the property//tax is assessed on the property
+MVpOPassiveScore : -29.83390045166016//-29.83390045166016
+MpOVPassive : the tax of the property is assessed//the tax of the property is assessed
+MpOVPassiveScore : -38.05795669555664//-38.05795669555664
+OVpMPassive : the property is assessed as a tax//the property is assessed as a tax
+OVpMPassiveScore : -35.63274383544922//-35.63274383544922
+gold : assess the tax for the property//assess the tax of the property
+reducedGold : assess tax for property //assess tax of property 
+OriginalHighestScorePattern : MVpOPassive//MVpOPassive
+HighestScorePattern : MVpOPassiveVMpO//MVpOPassiveVMpO
+HighestScorePatternSentence : assess taxes on the property//assess taxes on the property
+reducedParaphrase : assess taxis on property //assess taxis on property 
+adj/noun-label : arg1//arg1
+FinalLabel : False
+
+168. sentence : The weekly party was known for its massive street distribution of flyers and invites, which was controlled by an affiliated promotion company called "Urban Works," that both created and promoted events at many New York City nightclubs.
+adj/noun : street
+n_v : distribution
+prep : of
+pobj : flyers and invites
+originalPattern : street distribution of flyers and invites
+MVO : streets distribute flyers and invites
+MVOScore : -40.84901809692383
+OVM : flyers and invites distribute street
+OVMScore : -50.8554801940918
+OVpM : flyers and invites distribute on the streets
+OVpMScore : -53.63885879516602
+VOpM : distribute flyers and invites to street
+VOpMScore : -44.11651611328125
+VpOpM : distribute of flyers and invites to street
+VpOpMScore : -49.70420837402344
+VMpO : distribute streets with flyers and invites
+VMpOScore : -49.81573486328125
+VpMpO : distribute to the streets with flyers and invites
+VpMpOScore : -50.99930191040039
+M : the distribution of flyers and invites is street
+MScore : -52.17582321166992
+V1 : flyers and invites promote the street distribution
+V1Score : -63.26718139648438
+V2 : promote street distribution of flyers and invites
+V2Score : -52.94321060180664
+MVpOPassive : street is distributed with flyers and invites
+MVpOPassiveScore : -49.12675094604492
+MpOVPassive : streets of flyers and invites are distributed
+MpOVPassiveScore : -51.12910842895508
+OVpMPassive : flyers and invites are distributed on a street
+OVpMPassiveScore : -52.70182800292969
+gold : distribute flyers and invites on the street
+reducedGold : distribute flyer and invite on street 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : flyers and invites distribute street
+reducedParaphrase : flyer and invite distribute street 
+adj/noun-label : PP
+FinalLabel : False
+
+169. sentence : The home distribution of anime releases were popularized in the 1980s with the VHS and Laser Disc formats//The home distribution of anime releases were popularized in the 1980s with the VHS and Laser Disc formats
+adj/noun : home
+n_v : distribution
+prep : of
+pobj : anime releases
+originalPattern : home distribution of anime releases//home distribution of anime releases
+MVO : home distributes anime releases//home distributes anime releases
+MVOScore : -42.75825500488281//-42.75825500488281
+MVpO : //
+MVpOScore : //
+OVM : anime releases distribute home//anime releases distribute home
+OVMScore : -44.64035797119141//-44.64035797119141
+OVpM : anime releases distribute to homes//anime releases distribute to homes
+OVpMScore : -48.15743255615234//-48.15743255615234
+VOpM : distribute anime releases at home//distribute anime releases at home
+VOpMScore : -42.89604187011719//-42.89604187011719
+VpOpM : distribute of anime releases at home//distribute of anime releases at home
+VpOpMScore : -47.06807327270508//-47.06807327270508
+VMpO : distribute homes of anime releases//distribute homes of anime releases
+VMpOScore : -51.70551681518555//-51.70551681518555
+VpMpO : distribute as a home of anime releases//distribute as a home of anime releases
+VpMpOScore : -52.95125579833984//-52.95125579833984
+M : the distribution of anime releases is home//the distribution of anime releases is home
+MScore : -47.67756271362305//-47.67756271362305
+V1 : anime releases have home distribution//anime releases have home distribution
+V1Score : -48.46160125732422//-48.46160125732422
+V2 : facilitate home distribution of anime releases//facilitate home distribution of anime releases
+V2Score : -51.7305908203125//-51.7305908203125
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : homes are distributed with anime releases//homes are distributed with anime releases
+MVpOPassiveScore : -48.70016098022461//-48.70016098022461
+MpOVPassive : the home of the anime releases is distributed//the home of the anime releases is distributed
+MpOVPassiveScore : -49.09755325317383//-49.09755325317383
+OVpMPassive : anime releases are distributed in the home//anime releases are distributed in the home
+OVpMPassiveScore : -47.24296569824219//-47.24296569824219
+gold : distribute anime releases to homes//distribute anime releases in homes
+reducedGold : distribute anime release to home //distribute anime release in home 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : home distributes anime releases//home distributes anime releases
+reducedParaphrase : home distribute anime release //home distribute anime release 
+adj/noun-label : PP//PP
+FinalLabel : False
+
+170. sentence : Witt played Kriemhild in this film interpretation of the epic poem "Das Nibelungenlied".//Witt played Kriemhild in this film interpretation of the epic poem "Das Nibelungenlied".
+adj/noun : film
+n_v : interpretation
+prep : of
+pobj : the epic poem
+originalPattern : film interpretation of the epic poem//film interpretation of the epic poem
+MVO : film interprets the epic poem//film interprets the epic poem
+MVOScore : -41.54853057861328//-41.54853057861328
+MVpO : //
+MVpOScore : //
+OVM : the epic poem interprets the film//the epic poem interprets the film
+OVMScore : -43.17910003662109//-43.17910003662109
+OVpM : the epic poem interprets as a film//the epic poem interprets as a film
+OVpMScore : -45.69078063964844//-45.69078063964844
+VOpM : interpret the epic poem into a film//interpret the epic poem into a film
+VOpMScore : -43.28290939331055//-43.28290939331055
+VpOpM : interpret of the epic poem in the film//interpret of the epic poem in the film
+VpOpMScore : -45.17900466918945//-45.17900466918945
+VMpO : interpret the film as the epic poem//interpret the film as the epic poem
+VMpOScore : -44.39853668212891//-44.39853668212891
+VpMpO : interpret as a film of the epic poem//interpret as a film of the epic poem
+VpMpOScore : -47.78857040405273//-47.78857040405273
+M : the interpretation of the epic poem is film//the interpretation of the epic poem is film
+MScore : -47.70057678222656//-47.70057678222656
+V1 : the epic poem has a film interpretation//the epic poem has a film interpretation
+V1Score : -47.87529373168945//-47.87529373168945
+V2 : create film interpretation of the epic poem//create film interpretation of the epic poem
+V2Score : -51.42819976806641//-51.42819976806641
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : film is interpreted as the epic poem//film is interpreted as the epic poem
+MVpOPassiveScore : -42.99187469482422//-42.99187469482422
+MpOVPassive : the film of the epic poem is interpreted//the film of the epic poem is interpreted
+MpOVPassiveScore : -46.52468109130859//-46.52468109130859
+OVpMPassive : the epic poem is interpreted as a film//the epic poem is interpreted as a film
+OVpMPassiveScore : -44.06927871704102//-44.06927871704102
+gold : interpret the epic poem as a film//interpret the epic poem in film
+reducedGold : interpret epic poem as film //interpret epic poem in film 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : film interprets the epic poem//film interprets the epic poem
+reducedParaphrase : film interpret epic poem //film interpret epic poem 
+adj/noun-label : PP//PP
+FinalLabel : False
+
+171. sentence : He would come in second in the Mr. Universe competition, not having the muscle definition of American winner Chester Yorton.
+adj/noun : muscle
+n_v : definition
+prep : of
+pobj : American winner Chester Yorton
+originalPattern : muscle definition of American winner Chester Yorton
+MVO : muscle defines American winner Chester Yorton
+MVOScore : -80.20165252685547
+OVM : American winner Chester Yorton defines muscle
+OVMScore : -68.65974426269531
+OVpM : American winner Chester Yorton defines as a muscle
+OVpMScore : -76.6327896118164
+VOpM : define American winner Chester Yorton with muscle
+VOpMScore : -86.345458984375
+VMpO : define muscles of American winner Chester Yorton
+VMpOScore : -82.47901153564453
+VpMpO : define as the muscle of American winner Chester Yorton
+VpMpOScore : -89.17527770996094
+M : the definition of American winner Chester Yorton is muscle
+MScore : -82.17219543457031
+V1 : American winner Chester Yorton studies the muscle definition
+V1Score : -76.13505554199219
+V2 : create muscle definition of American winner Chester Yorton
+V2Score : -80.26214599609375
+MVpOPassive : muscle is defined by American winner Chester Yorton
+MVpOPassiveScore : -77.32891082763672
+MpOVPassive : the muscle of the American winner Chester Yorton is defined
+MpOVPassiveScore : -79.00709533691406
+OVpMPassive : American winner Chester Yorton is defined by muscle
+OVpMPassiveScore : -70.31207275390625
+gold : define the muscles of American winner Chester Yorton
+reducedGold : define muscle of american winner chester yorton 
+OriginalHighestScorePattern : V1
+HighestScorePattern : V1
+adj/noun-label : arg1
+FinalLabel : False
+
+172. sentence : However, anti-Semitism was not central to Bakunin's work, which stressed proletarian internationalism and a class analysis of society.//However, anti-Semitism was not central to Bakunin's work, which stressed proletarian internationalism and a class analysis of society.//However, anti-Semitism was not central to Bakunin's work, which stressed proletarian internationalism and a class analysis of society.//However, anti-Semitism was not central to Bakunin's work, which stressed proletarian internationalism and a class analysis of society.
+adj/noun : class
+n_v : analysis
+prep : of
+pobj : society
+originalPattern : class analysis of society//class analysis of society//class analysis of society//class analysis of society
+MVO : class analyses society//class analyses society//class analyses society//class analyses society
+MVOScore : -34.14713668823242//-34.14713668823242//-34.14713668823242//-34.14713668823242
+MVpO : //////
+MVpOScore : //////
+OVM : society analyzes class//society analyzes class//society analyzes class//society analyzes class
+OVMScore : -31.70112609863281//-31.70112609863281//-31.70112609863281//-31.70112609863281
+OVpM : society analyzes as a class//society analyzes as a class//society analyzes as a class//society analyzes as a class
+OVpMScore : -38.36762237548828//-38.36762237548828//-38.36762237548828//-38.36762237548828
+VOpM : analyze society by class//analyze society by class//analyze society by class//analyze society by class
+VOpMScore : -34.61282348632812//-34.61282348632812//-34.61282348632812//-34.61282348632812
+VpOpM : analyse of society by class//analyse of society by class//analyse of society by class//analyse of society by class
+VpOpMScore : -40.27065277099609//-40.27065277099609//-40.27065277099609//-40.27065277099609
+VMpO : analyze the class of society//analyze the class of society//analyze the class of society//analyze the class of society
+VMpOScore : -35.00858306884766//-35.00858306884766//-35.00858306884766//-35.00858306884766
+VpMpO : analyze of the class of society//analyze of the class of society//analyze of the class of society//analyze of the class of society
+VpMpOScore : -40.66672897338867//-40.66672897338867//-40.66672897338867//-40.66672897338867
+M : the analysis of society is class//the analysis of society is class//the analysis of society is class//the analysis of society is class
+MScore : -38.77523422241211//-38.77523422241211//-38.77523422241211//-38.77523422241211
+V1 : society studies class analysis//society studies class analysis//society studies class analysis//society studies class analysis
+V1Score : -36.95213317871094//-36.95213317871094//-36.95213317871094//-36.95213317871094
+V2 : study class analysis of society//study class analysis of society//study class analysis of society//study class analysis of society
+V2Score : -41.697509765625//-41.697509765625//-41.697509765625//-41.697509765625
+OVB : //////
+OVBScore : //////
+VOB : //////
+VOBScore : //////
+MVpOPassive : class is analyzed by society//class is analyzed by society//class is analyzed by society//class is analyzed by society
+MVpOPassiveScore : -38.06423568725586//-38.06423568725586//-38.06423568725586//-38.06423568725586
+MpOVPassive : the class of the society is analyzed//the class of the society is analyzed//the class of the society is analyzed//the class of the society is analyzed
+MpOVPassiveScore : -39.69939422607422//-39.69939422607422//-39.69939422607422//-39.69939422607422
+OVpMPassive : society is analyzed as a class//society is analyzed as a class//society is analyzed as a class//society is analyzed as a class
+OVpMPassiveScore : -38.31728363037109//-38.31728363037109//-38.31728363037109//-38.31728363037109
+gold : analyze society by class//analyse society by class//analyze social class//analyse social class
+reducedGold : analyze society by class //analyse society by class //analyze social class //analyse social class 
+OriginalHighestScorePattern : MVO//MVO//MVO//MVO
+HighestScorePattern : MVO//MVO//MVO//MVO
+HighestScorePatternSentence : class analyses society//class analyses society//class analyses society//class analyses society
+reducedParaphrase : class analyse society //class analyse society //class analyse society //class analyse society 
+adj/noun-label : PP//PP//arg1//arg1
+FinalLabel : False
+

@@ -1,0 +1,3954 @@
+0. sentence : - make the foundation and/ or the electoral participation of new parties practically impossible, because such parties do not receive public funding right from the start and occasionally private funding is prohibited.
+adj/noun : electoral
+n_v : participation
+prep : of
+pobj : new parties
+originalPattern : electoral participation of new parties
+MVO : elections participate new parties
+MVOScore : -40.19458389282227
+OVM : new parties participate election
+OVMScore : -45.90333938598633
+OVpM : new parties participate in elections
+OVpMScore : -40.70372772216797
+VOpM : participate new parties in elections
+VOpMScore : -37.32258987426758
+VpOpM : participate with new parties in elections
+VpOpMScore : -40.84700393676758
+VMpO : participate the election of new parties
+VMpOScore : -42.08695220947266
+VpMpO : participate in the election of new parties
+VpMpOScore : -37.08041381835938
+M : the participation of new parties is electoral
+MScore : -47.17893600463867
+V1 : new parties increase the electoral participation
+V1Score : -47.34458541870117
+V2 : increase electoral participation of new parties
+V2Score : -43.48361968994141
+MVpOPassive : elections are participated by new parties
+MVpOPassiveScore : -43.88350677490234
+MpOVPassive : elections of the new parties are participated
+MpOVPassiveScore : -46.81232833862305
+OVpMPassive : new parties are participated in elections
+OVpMPassiveScore : -48.12800979614258
+gold : new parties participate in elections
+reducedGold : new party participate in election 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : new parties participate in elections
+reducedParaphrase : new party participate in election 
+adj/noun-label : arg1
+FinalLabel : True
+
+2. sentence : A closer look at the study's methodology reveals questions about cultural definitions of rape , the study's sample size, survey design, and linguistic accuracy, all of which highlights ongoing challenges in trying to quantify the prevalence of rape.
+adj/noun : cultural
+n_v : definitions
+prep : of
+pobj : rape
+originalPattern : cultural definitions of rape
+MVO : culture defines rape
+MVOScore : -29.02577590942383
+OVM : rape defines culture
+OVMScore : -29.94802856445312
+OVpM : rape defines as a culture
+OVpMScore : -38.11248016357422
+VOpM : define rape as a culture
+VOpMScore : -38.68321228027344
+VMpO : define culture of rape
+VMpOScore : -38.53143310546875
+VpMpO : define as a culture of rape
+VpMpOScore : -44.80927276611328
+M : the definitions of rape are cultural
+MScore : -35.63777923583984
+V1 : rape provides the cultural definitions
+V1Score : -41.50856399536133
+V2 : provide cultural definitions of rape
+V2Score : -37.65385437011719
+OVB : rape defines culturally
+OVBScore : -34.26480865478516
+VOB : define rape culturally
+VOBScore : -36.28812789916992
+MVpOPassive : culture is defined as rape
+MVpOPassiveScore : -32.140625
+MpOVPassive : culture of rape is defined
+MpOVPassiveScore : -30.3293342590332
+OVpMPassive : rape is defined as a culture
+OVpMPassiveScore : -29.11499404907227
+gold : culture define rape
+reducedGold : culture define rape 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : culture defines rape
+reducedParaphrase : culture defines rape 
+adj/noun-label : arg0
+FinalLabel : True
+
+3. sentence : A legal requirement for minimum air-quality standards eventually led to the introduction of more ventilation.
+adj/noun : legal
+n_v : requirement
+prep : for
+pobj : minimum air-quality standards
+originalPattern : legal requirement for minimum air-quality standards
+MVO : the law requires minimum air-quality standards
+MVOScore : -42.62985229492188
+MVpO : the law requires for minimum air-quality standards
+MVpOScore : -49.06367492675781
+OVM : minimum air-quality standards require law
+OVMScore : -46.20983123779297
+OVpM : minimum air-quality standards require by law
+OVpMScore : -44.12060928344727
+VOpM : require minimum air-quality standards under the law
+VOpMScore : -56.70696258544922
+VpOpM : requisition of minimum air-quality standards by law
+VpOpMScore : -59.42164993286133
+VMpO : require the laws of minimum air-quality standards
+VMpOScore : -56.52722930908203
+VpMpO : require by law for minimum air-quality standards
+VpMpOScore : -61.43449401855469
+M : the requirement for minimum air-quality standards is legal
+MScore : -54.6185417175293
+V1 : minimum air-quality standards meet the legal requirement
+V1Score : -51.98987579345703
+V2 : meet legal requirement for minimum air-quality standards
+V2Score : -53.47813034057617
+OVB : minimum air-quality standards require legally
+OVBScore : -49.67385101318359
+VOB : requisition minimum air-quality standards legally
+VOBScore : -62.30019760131836
+MVpOPassive : laws are required for minimum air-quality standards
+MVpOPassiveScore : -49.79781723022461
+MpOVPassive : laws for the minimum air-quality standards are required
+MpOVPassiveScore : -54.89263534545898
+OVpMPassive : minimum air-quality standards are required by law
+OVpMPassiveScore : -42.47090148925781
+gold : the law require minimum air-quality standards
+reducedGold : law require minimum air - quality standard 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : the law requires minimum air-quality standards
+reducedParaphrase : law require minimum air - quality standard 
+adj/noun-label : arg0
+FinalLabel : True
+
+7. sentence : After World War I, the social democrats initiated the municipal construction of housing estates ("Gemeindebauten") in Hernals.
+adj/noun : municipal
+n_v : construction
+prep : of
+pobj : housing estates
+originalPattern : municipal construction of housing estates
+MVO : municipalities construct housing estates
+MVOScore : -36.81219482421875
+OVM : housing estates construct municipalities
+OVMScore : -43.24658203125
+OVpM : housing estates construct by municipality
+OVpMScore : -46.23360061645508
+VOpM : construct housing estates in the municipality
+VOpMScore : -42.09115600585938
+VpOpM : construct of housing estates in the municipality
+VpOpMScore : -41.93583679199219
+VMpO : construct municipality of housing estates
+VMpOScore : -43.8258056640625
+VpMpO : construct of municipality of housing estates
+VpMpOScore : -45.78213882446289
+M : the construction of housing estates is municipal
+MScore : -44.79938125610352
+V1 : housing estates facilitate the municipal construction
+V1Score : -48.19453811645508
+V2 : facilitate municipal construction of housing estates
+V2Score : -44.56871032714844
+OVB : housing estates construct municipally
+OVBScore : -44.01665115356445
+VOB : construct housing estates municipally
+VOBScore : -45.04851531982422
+MVpOPassive : the municipalities are constructed as housing estates
+MVpOPassiveScore : -45.58625793457031
+MpOVPassive : municipalities of the housing estates are constructed
+MpOVPassiveScore : -45.55730819702148
+OVpMPassive : housing estates are constructed in municipalities
+OVpMPassiveScore : -41.10092163085938
+gold : the municipality construct housing estates
+reducedGold : municipality construct housing estate 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : municipalities construct housing estates
+reducedParaphrase : municipality construct housing estate 
+adj/noun-label : arg0
+FinalLabel : True
+
+8. sentence : Albania achieved a degree of statehood after World War I, in part because of the diplomatic intercession of the United States.
+adj/noun : diplomatic
+n_v : intercession
+prep : of
+pobj : the United States
+originalPattern : diplomatic intercession of the United States
+MVO : diplomacy intercedes the United States
+MVOScore : -37.65359497070312
+OVM : the United States intercede diplomacy
+OVMScore : -42.59030914306641
+OVpM : the United States intercede through diplomacy
+OVpMScore : -39.19589233398438
+VOpM : intercede the United States in diplomacy
+VOpMScore : -38.22064971923828
+VpOpM : intercede with the United States in diplomacy
+VpOpMScore : -36.45298004150391
+VMpO : intercede diplomacy with the United States
+VMpOScore : -36.46186828613281
+VpMpO : intercede in diplomacy with the United States
+VpMpOScore : -35.01817321777344
+M : the intercession of the United States is diplomatic
+MScore : -42.95144271850586
+V1 : the United States recognize the diplomatic intercession
+V1Score : -46.16155242919922
+V2 : facilitate diplomatic intercession of the United States
+V2Score : -41.56142044067383
+OVB : the United States intercede diplomatically
+OVBScore : -37.7469596862793
+VOB : intercede the United States diplomatically
+VOBScore : -38.59654235839844
+MVpOPassive : diplomacy is interceded by the United States
+MVpOPassiveScore : -43.21524047851562
+MpOVPassive : diplomacy of the United States is interceded
+MpOVPassiveScore : -42.72658157348633
+OVpMPassive : the United States are interceded by diplomacy
+OVpMPassiveScore : -48.98058319091797
+gold : the United States intercede through diplomacy
+reducedGold : united states intercede through diplomacy 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : the United States intercede through diplomacy
+reducedParaphrase : united states intercede through diplomacy 
+adj/noun-label : PP
+FinalLabel : True
+
+11. sentence : And while it is by no means exclusively a Canadian political phenomenon, the decline in electoral participation by young adults is more steel in Canada than in other advanced democracies." Can newspapers be independent from dominant values that Robert A. Hackett argues to influence young audiences?
+adj/noun : electoral
+n_v : participation
+prep : by
+pobj : young adults
+originalPattern : electoral participation by young adults
+MVO : elections participate young adults
+MVOScore : -37.35015106201172
+MVpO : elections participate by young adults
+MVpOScore : -42.24191284179688
+OVM : young adults participate election
+OVMScore : -40.23281860351562
+OVpM : young adults participate in elections
+OVpMScore : -35.24805450439453
+VOpM : participate young adults in elections
+VOpMScore : -39.15535736083984
+VpOpM : participate with young adults in elections
+VpOpMScore : -40.35314178466797
+VMpO : participate the election of young adults
+VMpOScore : -43.14791870117188
+VpMpO : participate in the election of young adults
+VpMpOScore : -38.41116714477539
+M : the participation by young adults is electoral
+MScore : -48.09934616088867
+V1 : young adults have electoral participation
+V1Score : -41.34513854980469
+V2 : increase electoral participation by young adults
+V2Score : -39.29052352905273
+MVpOPassive : elections are participated by young adults
+MVpOPassiveScore : -41.67538833618164
+MpOVPassive : elections by the young adults are participated
+MpOVPassiveScore : -51.59544372558594
+OVpMPassive : young adults are participated in elections
+OVpMPassiveScore : -42.91193389892578
+gold : young adults participate in elections
+reducedGold : young adult participate in election 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : young adults participate in elections
+reducedParaphrase : young adult participate in election 
+adj/noun-label : arg1
+FinalLabel : True
+
+12. sentence : Anti-abortion groups who favor greater legal restrictions on abortion, including complete prohibition, most often describe themselves as "pro-life" while abortion rights groups who are against such legal restrictions describe themselves as "pro-choice".
+adj/noun : legal
+n_v : restrictions
+prep : on
+pobj : abortion
+originalPattern : legal restrictions on abortion
+MVO : laws restrict abortion
+MVOScore : -26.89018440246582
+MVpO : laws restrict on abortion
+MVpOScore : -34.90704727172852
+OVM : abortion restricts law
+OVMScore : -30.26054763793945
+OVpM : abortion restricts by law
+OVpMScore : -33.82589340209961
+VOpM : restrict abortion by law
+VOpMScore : -33.81943511962891
+VpOpM : restrict to abortion by law
+VpOpMScore : -37.33269500732422
+VMpO : restrict laws against abortion
+VMpOScore : -29.5018367767334
+VpMpO : restrict to the law on abortion
+VpMpOScore : -36.2528076171875
+M : the restrictions on abortion are legal
+MScore : -32.46349334716797
+V1 : abortion requires legal restrictions
+V1Score : -31.92370986938477
+V2 : remove legal restrictions on abortion
+V2Score : -32.16869354248047
+OVB : abortion restricts legally
+OVBScore : -32.50432968139648
+VOB : restrict abortion legally
+VOBScore : -33.8466682434082
+MVpOPassive : the law is restricted to abortion
+MVpOPassiveScore : -32.81893539428711
+MpOVPassive : law on abortion is restricted
+MpOVPassiveScore : -33.3355598449707
+OVpMPassive : abortion is restricted by law
+OVpMPassiveScore : -27.87141227722168
+gold : the law restrict abortion
+reducedGold : law restrict abortion 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : laws restrict abortion
+reducedParaphrase : law restrict abortion 
+adj/noun-label : arg0
+FinalLabel : True
+
+13. sentence : Any refinery process or upset that results in the atmospheric release of refinery by-products (commonly sulfur dioxide) will usually impact air in Long Beach due to the west-south-westerly prevailing wind.
+adj/noun : atmospheric
+n_v : release
+prep : of
+pobj : refinery by-products
+originalPattern : atmospheric release of refinery by-products
+MVO : atmosphere releases refinery by-products
+MVOScore : -52.18302154541016
+OVM : refinery by-products release atmosphere
+OVMScore : -48.65081787109375
+OVpM : refinery by-products release into the atmosphere
+OVpMScore : -44.89349746704102
+VOpM : release refinery by-products of atmosphere
+VOpMScore : -54.39553451538086
+VpOpM : release of refinery by-products of atmosphere
+VpOpMScore : -54.61016082763672
+VMpO : release atmosphere of refinery by-products
+VMpOScore : -54.10641479492188
+VpMpO : release of atmosphere of refinery by-products
+VpMpOScore : -55.20565414428711
+M : the release of refinery by-products is atmospheric
+MScore : -56.48558807373047
+V1 : refinery by-products prevent the atmospheric release
+V1Score : -55.04673767089844
+V2 : prevent atmospheric release of refinery by-products
+V2Score : -56.55020904541016
+MVpOPassive : atmosphere is released in refinery by-products
+MVpOPassiveScore : -53.34093856811523
+MpOVPassive : the atmosphere of the refinery by-products is released
+MpOVPassiveScore : -52.06566619873047
+OVpMPassive : refinery by-products are released into the atmosphere
+OVpMPassiveScore : -42.70340728759766
+gold : release refinery by-products into the atmosphere
+reducedGold : release refinery by - product into atmosphere 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : release refinery by-products into atmosphere
+reducedParaphrase : release refinery by - product into atmosphere 
+adj/noun-label : PP
+FinalLabel : True
+
+21. sentence : Discussions with his cabinet revealed Lincoln planned short-term military control over southern states, until readmission under the control of southern Unionists.
+adj/noun : military
+n_v : control
+prep : over
+pobj : southern states
+originalPattern : military control over southern states
+MVO : military controls southern states
+MVOScore : -36.62009048461914
+MVpO : military controls over southern states
+MVpOScore : -38.83078765869141
+OVM : southern states control the military
+OVMScore : -35.18368911743164
+OVpM : southern states control of military
+OVpMScore : -41.13182067871094
+VOpM : control southern states by military
+VOpMScore : -39.21702575683594
+VpOpM : control of southern states by military
+VpOpMScore : -37.61488342285156
+VMpO : control military in southern states
+VMpOScore : -40.91332244873047
+VpMpO : control of the military in southern states
+VpMpOScore : -40.14710235595703
+M : the control over southern states is military
+MScore : -47.57423400878906
+V1 : southern states retain some military control
+V1Score : -44.37252426147461
+V2 : maintain military control over southern states
+V2Score : -42.59035491943359
+OVB : southern states control militarily
+OVBScore : -39.61658096313477
+VOB : control southern states militarily
+VOBScore : -38.77627182006836
+MVpOPassive : military is controlled by southern states
+MVpOPassiveScore : -39.57240676879883
+MpOVPassive : military over the southern states is controlled
+MpOVPassiveScore : -49.01113510131836
+OVpMPassive : southern states are controlled by military
+OVpMPassiveScore : -35.59113693237305
+gold : the military control the southern states
+reducedGold : military control southern state 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : military controls southern states
+reducedParaphrase : military control southern state 
+adj/noun-label : arg0
+FinalLabel : True
+
+22. sentence : Due to poor military deployment by the Tang government, An Lushan managed to attack Hebei by surprise, and Yan Zhenqing reluctantly abandoned his command, returning to the court in 757.
+adj/noun : military
+n_v : deployment
+prep : by
+pobj : the Tang government
+originalPattern : military deployment by the Tang government
+MVO : military deploys the Tang government
+MVOScore : -43.62592697143555
+MVpO : military deploys by the Tang government
+MVpOScore : -46.7383918762207
+OVM : the Tang government deploys military
+OVMScore : -39.59207534790039
+OVpM : the Tang government deploys as a military
+OVpMScore : -47.8940315246582
+VOpM : deploy the Tang government to military
+VOpMScore : -49.02773284912109
+VpOpM : deploy of the Tang government to military
+VpOpMScore : -50.46038818359375
+VMpO : deploy the military of the Tang government
+VMpOScore : -48.80337142944336
+VpMpO : deploy to the military of the Tang government
+VpMpOScore : -51.30889511108398
+M : the deployment by the Tang government is military
+MScore : -55.08183288574219
+V1 : the Tang government encourages the military deployment
+V1Score : -51.80040740966797
+V2 : monitor military deployment by the Tang government
+V2Score : -53.25625228881836
+OVB : the Tang government deploys militarily
+OVBScore : -46.11834716796875
+VOB : deploy the Tang government militarily
+VOBScore : -50.56053924560547
+MVpOPassive : military is deployed by the Tang government
+MVpOPassiveScore : -46.24716186523438
+MpOVPassive : military by the Tang government is deployed
+MpOVPassiveScore : -49.62368011474609
+OVpMPassive : the Tang government is deployed by the military
+OVpMPassiveScore : -45.60780334472656
+gold : the Tang government deploy the military
+reducedGold : tang government deploy military 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the Tang government deploys military
+reducedParaphrase : tang government deploy military 
+adj/noun-label : arg1
+FinalLabel : True
+
+27. sentence : Each State was also requested to issue Letters Patent, or their equivalent Instruments of Appointment, that allow the six commissioners to conduct an inquiry into institutional responses to child sexual abuse under their respective laws.
+adj/noun : institutional
+n_v : responses
+prep : to
+pobj : child sexual abuse
+originalPattern : institutional responses to child sexual abuse
+MVO : institution responds child sexual abuse
+MVOScore : -40.37028503417969
+MVpO : institution responds to child sexual abuse
+MVpOScore : -35.79116058349609
+OVM : child sexual abuse responds institution
+OVMScore : -41.77264404296875
+OVpM : child sexual abuse responds to institution
+OVpMScore : -39.34261322021484
+VOpM : respond child sexual abuse as an institution
+VOpMScore : -42.92725372314453
+VpOpM : respond to child sexual abuse as an institution
+VpOpMScore : -40.54793930053711
+VMpO : respond institutions for child sexual abuse
+VMpOScore : -38.92217254638672
+VpMpO : respond to the institution of child sexual abuse
+VpMpOScore : -39.45785522460938
+M : the responses to child sexual abuse are institutional
+MScore : -44.62339019775391
+V1 : child sexual abuse improves the institutional responses
+V1Score : -51.46433258056641
+V2 : improve institutional responses to child sexual abuse
+V2Score : -40.15718460083008
+OVB : child sexual abuse responds institutionally
+OVBScore : -42.82536697387695
+VOB : respond child sexual abuse institutionally
+VOBScore : -48.33971786499023
+MVpOPassive : the institution is responded to child sexual abuse
+MVpOPassiveScore : -44.70067596435547
+MpOVPassive : an institution to child sexual abuse is responded
+MpOVPassiveScore : -49.86177062988281
+OVpMPassive : child sexual abuse is responded by institutions
+OVpMPassiveScore : -44.75051498413086
+gold : the institutions respond to child sexual abuse
+reducedGold : institution respond to child sexual abuse 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : institution responds to child sexual abuse
+reducedParaphrase : institution respond to child sexual abuse 
+adj/noun-label : arg0
+FinalLabel : True
+
+35. sentence : Gatov's academic research interests cover the issues of the technological effect on media development as an institution, the censorship and media effects, and media innovation.
+adj/noun : technological
+n_v : effect
+prep : on
+pobj : media development
+originalPattern : technological effect on media development
+MVO : technology affects media development
+MVOScore : -36.24015808105469
+MVpO : technology effects on media development
+MVpOScore : -37.60074615478516
+OVM : media development affects technology
+OVMScore : -37.93135833740234
+OVpM : media development effects on technology
+OVpMScore : -40.47494506835938
+VOpM : affect media development through technology
+VOpMScore : -41.29756164550781
+VpOpM : cause of media development in technology
+VpOpMScore : -41.93957138061523
+VMpO : affect the technology of media development
+VMpOScore : -38.88102722167969
+VpMpO : effect of technology in media development
+VpMpOScore : -40.72739791870117
+M : the effect on media development is technological
+MScore : -47.93435668945312
+V1 : media development has a technological effect
+V1Score : -44.24916839599609
+V2 : investigate technological effect on media development
+V2Score : -49.14472198486328
+OVB : media development affects technologically
+OVBScore : -44.31944274902344
+VOB : affect media development technologically
+VOBScore : -43.57336044311523
+MVpOPassive : technology is affected by media development
+MVpOPassiveScore : -40.60185241699219
+MpOVPassive : technology on media development is effected
+MpOVPassiveScore : -51.84073638916016
+OVpMPassive : media development is affected by technology
+OVpMPassiveScore : -37.61981582641602
+gold : technology affect media development
+reducedGold : technology affect medium development 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : technology affects media development
+reducedParaphrase : technology affect medium development 
+adj/noun-label : arg0
+FinalLabel : True
+
+42. sentence : He was elected chairman of that circle and submitted an application to the Taganrog City Council, soliciting municipal acquisition of the Birth house of Anton Chekhov in Taganrog.
+adj/noun : municipal
+n_v : acquisition
+prep : of
+pobj : the Birth house
+originalPattern : municipal acquisition of the Birth house
+MVO : the municipality acquires the Birth house
+MVOScore : -54.38205718994141
+OVM : the Birth house acquires a municipality
+OVMScore : -51.74078369140625
+OVpM : the Birth house acquires from the municipality
+OVpMScore : -53.781982421875
+VOpM : acquire the Birth house of the municipality
+VOpMScore : -55.81821441650391
+VpOpM : acquire from the Birth house of municipality
+VpOpMScore : -58.14532470703125
+VMpO : acquire the municipality of the Birth house
+VMpOScore : -52.20575332641602
+VpMpO : acquire from the municipality of the Birth house
+VpMpOScore : -55.44490432739258
+M : the acquisition of the Birth house is municipal
+MScore : -56.99919128417969
+V1 : the Birth house undergoes a municipal acquisition
+V1Score : -60.82878112792969
+V2 : facilitate municipal acquisition of the Birth house
+V2Score : -64.8227310180664
+OVB : the Birth house acquires municipally
+OVBScore : -54.80625534057617
+VOB : acquire the Birth house municipally
+VOBScore : -57.62361907958984
+MVpOPassive : municipality is acquired by the Birth house
+MVpOPassiveScore : -56.41298675537109
+MpOVPassive : municipality of the Birth house is acquired
+MpOVPassiveScore : -54.65765380859375
+OVpMPassive : the Birth house is acquired by the municipality
+OVpMPassiveScore : -52.62545776367188
+gold : the municipality acquire the Birth house
+reducedGold : municipality acquire birth house 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : the municipality acquires the Birth house
+reducedParaphrase : municipality acquire birth house 
+adj/noun-label : arg0
+FinalLabel : True
+
+45. sentence : His works on astronomical explanations of ice ages, especially his curve of insolation for the past 130,000 years, received support from the climatologist Wladimir Köppen and geophysicist Alfred Wegener.
+adj/noun : astronomical
+n_v : explanations
+prep : of
+pobj : ice ages
+originalPattern : astronomical explanations of ice ages
+MVO : astronomy explains ice ages
+MVOScore : -35.57857513427734
+OVM : ice ages explain astronomy
+OVMScore : -42.30064392089844
+OVpM : ice ages explain as an astronomy
+OVpMScore : -52.04071426391602
+VOpM : explain ice ages in astronomy
+VOpMScore : -39.75273895263672
+VpOpM : explain about ice ages in the astronomy
+VpOpMScore : -48.83560943603516
+VMpO : explain the astronomy of ice ages
+VMpOScore : -38.92134094238281
+VpMpO : explain of an astronomy of ice ages
+VpMpOScore : -48.32487106323242
+M : the explanations of ice ages are astronomical
+MScore : -46.21134567260742
+V1 : ice ages provide the astronomical explanations
+V1Score : -51.17061233520508
+V2 : provide astronomical explanations of ice ages
+V2Score : -43.48468780517578
+MVpOPassive : astronomy is explained by ice ages
+MVpOPassiveScore : -41.76520919799805
+MpOVPassive : the astronomy of the ice ages is explained
+MpOVPassiveScore : -43.04195404052734
+OVpMPassive : ice ages are explained by astronomy
+OVpMPassiveScore : -43.43611907958984
+gold : astronomy explain ice ages
+reducedGold : astronomy explain ice age 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : astronomy explains ice ages
+reducedParaphrase : astronomy explain ice age 
+adj/noun-label : arg0
+FinalLabel : True
+
+48. sentence : In 1994 Manning III's two sons, South Carolina broadcaster Manning Kimmel IV (b. 1948) and his brother Thomas appeared before a Senate subcommittee, attempting to have Admiral Kimmel's four-star rank restored and be exonerated for accusations of mismanagement of the naval response to the Japanese attack on Pearl Harbor.
+adj/noun : naval
+n_v : response
+prep : to
+pobj : the Japanese attack
+originalPattern : naval response to the Japanese attack
+MVO : the navy responds the Japanese attack
+MVOScore : -43.28842926025391
+MVpO : the navy responds to the Japanese attack
+MVpOScore : -39.35185241699219
+OVM : the Japanese attack responds navy
+OVMScore : -50.94516372680664
+OVpM : the Japanese attack responds to the navy
+OVpMScore : -48.39497375488281
+VOpM : respond the Japanese attack on the navy
+VOpMScore : -46.08399963378906
+VpOpM : respond to the Japanese attack on the navy
+VpOpMScore : -41.87514114379883
+VMpO : respond navy to the Japanese attack
+VMpOScore : -44.6541862487793
+VpMpO : respond of the navy to the Japanese attack
+VpMpOScore : -44.28598022460938
+M : the response to the Japanese attack is naval
+MScore : -47.14742279052734
+V1 : the Japanese attack limits the naval response
+V1Score : -50.13794708251953
+V2 : improve naval response to the Japanese attack
+V2Score : -44.29455947875977
+MVpOPassive : the navy is responded to the Japanese attack
+MVpOPassiveScore : -46.98079299926758
+MpOVPassive : navy to the Japanese attack is responded
+MpOVPassiveScore : -56.94336700439453
+OVpMPassive : the Japanese attack is responded by the navy
+OVpMPassiveScore : -50.5373649597168
+gold : the navy respond to the Japanese attack
+reducedGold : navy respond to japanese attack 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : the navy responds to the Japanese attack
+reducedParaphrase : navy respond to japanese attack 
+adj/noun-label : arg0
+FinalLabel : True
+
+50. sentence : In 2000, the head doctor of the prison, Véronique Vasseur, published a book in which she denounced the very bad conditions of imprisonment, filth, illnesses, etc. The book was a shock to the public and prompted parliamentary evaluation of the situation .
+adj/noun : parliamentary
+n_v : evaluation
+prep : of
+pobj : the situation
+originalPattern : parliamentary evaluation of the situation
+MVO : parliament evaluates the situation
+MVOScore : -32.16094207763672
+OVM : the situation evaluates parliament
+OVMScore : -40.43102264404297
+OVpM : the situation evaluates by parliament
+OVpMScore : -42.91588592529297
+VOpM : evaluate the situation in parliament
+VOpMScore : -34.09038543701172
+VpOpM : evaluate of the situation in parliament
+VpOpMScore : -40.27404403686523
+VMpO : evaluate parliament on the situation
+VMpOScore : -38.63962554931641
+VpMpO : evaluate to parliament on the situation
+VpMpOScore : -42.22226715087891
+M : the evaluation of the situation is parliamentary
+MScore : -42.23686599731445
+V1 : the situation needs a parliamentary evaluation
+V1Score : -42.91389846801758
+V2 : conduct parliamentary evaluation of the situation
+V2Score : -42.39693450927734
+MVpOPassive : parliament is evaluated on the situation
+MVpOPassiveScore : -39.28261947631836
+MpOVPassive : parliament of the situation is evaluated
+MpOVPassiveScore : -41.55605316162109
+OVpMPassive : the situation is evaluated by parliament
+OVpMPassiveScore : -40.56404113769531
+gold : parliament evaluate the situation
+reducedGold : parliament evaluate situation 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : parliament evaluates the situation
+reducedParaphrase : parliament evaluate situation 
+adj/noun-label : arg0
+FinalLabel : True
+
+51. sentence : In 2007, Honda voted for the Honest Leadership and Open Government Act of 2007, which was the legislative response to the Jack Abramoff scandal and introduced comprehensive new transparency requirements for lobbyists and for Members of Congress.//In 2007, Honda voted for the Honest Leadership and Open Government Act of 2007, which was the legislative response to the Jack Abramoff scandal and introduced comprehensive new transparency requirements for lobbyists and for Members of Congress.
+adj/noun : legislative
+n_v : response
+prep : to
+pobj : the Jack Abramoff scandal
+originalPattern : legislative response to the Jack Abramoff scandal//legislative response to the Jack Abramoff scandal
+MVO : the legislature responds the Jack Abramoff scandal//the legislature responds the Jack Abramoff scandal
+MVOScore : -50.23265075683594//-50.23265075683594
+MVpO : the legislature responds to the Jack Abramoff scandal//the legislature responds to the Jack Abramoff scandal
+MVpOScore : -44.44903945922852//-44.44903945922852
+OVM : the Jack Abramoff scandal responds legislation//the Jack Abramoff scandal responds legislation
+OVMScore : -56.90357208251953//-56.90357208251953
+OVpM : the Jack Abramoff scandal responds to legislation//the Jack Abramoff scandal responds to legislation
+OVpMScore : -53.87585830688477//-53.87585830688477
+VOpM : respond the Jack Abramoff scandal in legislation//respond the Jack Abramoff scandal in legislation
+VOpMScore : -58.2639045715332//-58.2639045715332
+VpOpM : respond to the Jack Abramoff scandal in the legislature//respond to the Jack Abramoff scandal in the legislature
+VpOpMScore : -52.38913345336914//-52.38913345336914
+VMpO : respond legislation to the Jack Abramoff scandal//respond legislation to the Jack Abramoff scandal
+VMpOScore : -45.7996826171875//-45.7996826171875
+VpMpO : respond to legislation to the Jack Abramoff scandal//respond to legislation to the Jack Abramoff scandal
+VpMpOScore : -52.42232894897461//-52.42232894897461
+M : the response to the Jack Abramoff scandal is legislative//the response to the Jack Abramoff scandal is legislative
+MScore : -53.63739013671875//-53.63739013671875
+V1 : the Jack Abramoff scandal prompts a legislative response//the Jack Abramoff scandal prompts a legislative response
+V1Score : -57.66510391235352//-57.66510391235352
+V2 : provide legislative response to the Jack Abramoff scandal//provide legislative response to the Jack Abramoff scandal
+V2Score : -48.07712173461914//-48.07712173461914
+OVB : the Jack Abramoff scandal responds legislatively//the Jack Abramoff scandal responds legislatively
+OVBScore : -57.39115905761719//-57.39115905761719
+VOB : respond the Jack Abramoff scandal legislatively//respond the Jack Abramoff scandal legislatively
+VOBScore : -59.00362014770508//-59.00362014770508
+MVpOPassive : the legislature is responded to the Jack Abramoff scandal//the legislature is responded to the Jack Abramoff scandal
+MVpOPassiveScore : -52.55955505371094//-52.55955505371094
+MpOVPassive : legislation to the Jack Abramoff scandal is responded//legislation to the Jack Abramoff scandal is responded
+MpOVPassiveScore : -60.97064971923828//-60.97064971923828
+OVpMPassive : the Jack Abramoff scandal is responded by legislation//the Jack Abramoff scandal is responded by legislation
+OVpMPassiveScore : -58.79687118530273//-58.79687118530273
+gold : the legislation respond to the Jack Abramoff scandal//the legislature respond to the Jack Abramoff scandal
+reducedGold : legislation respond to jack abramoff scandal //legislature respond to jack abramoff scandal 
+OriginalHighestScorePattern : MVpO//MVpO
+HighestScorePattern : MVpO//MVpO
+HighestScorePatternSentence : the legislature responds to the Jack Abramoff scandal//the legislature responds to the Jack Abramoff scandal
+reducedParaphrase : legislature respond to jack abramoff scandal //legislature respond to jack abramoff scandal 
+adj/noun-label : arg0//arg0
+FinalLabel : True
+
+54. sentence : In an editorial response to the event , the young newspaper editor L. Frank Baum, later the author of "The Wonderful Wizard of Oz", wrote in the "Aberdeen Saturday Pioneer" on January 3, 1891:
+adj/noun : editorial
+n_v : response
+prep : to
+pobj : the event
+originalPattern : editorial response to the event
+MVO : editors respond the event
+MVOScore : -33.28768157958984
+MVpO : editors respond to the event
+MVpOScore : -29.25321769714355
+OVM : the event responds editor
+OVMScore : -35.69655227661133
+OVpM : the event responds to editor
+OVpMScore : -35.68151473999023
+VOpM : respond the event to editor
+VOpMScore : -36.85565185546875
+VpOpM : respond to the event with editorials
+VpOpMScore : -34.99949264526367
+VMpO : respond editor of the event
+VMpOScore : -35.54523849487305
+VpMpO : respond to the editor of the event
+VpMpOScore : -36.44912338256836
+M : the response to the event is editorial
+MScore : -38.33790588378906
+V1 : the event receives an editorial response
+V1Score : -37.91189193725586
+V2 : provide editorial response to the event
+V2Score : -41.28123092651367
+OVB : the event responds editorially
+OVBScore : -36.86437225341797
+VOB : respond the event editorially
+VOBScore : -40.54378509521484
+MVpOPassive : editors are responded to the event
+MVpOPassiveScore : -34.61149978637695
+MpOVPassive : editors to the event are responded
+MpOVPassiveScore : -35.65214538574219
+OVpMPassive : the event is responded by the editor
+OVpMPassiveScore : -40.8133430480957
+gold : the editor respond to the event
+reducedGold : editor respond to event 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : editors respond to the event
+reducedParaphrase : editor respond to event 
+adj/noun-label : arg0
+FinalLabel : True
+
+55. sentence : In musical theatre and opera, the music director is in charge of the overall musical performance, including ensuring that the cast knows the music thoroughly, supervising the musical interpretation of the performers and pit orchestra, and conducting the orchestra.
+adj/noun : musical
+n_v : interpretation
+prep : of
+pobj : the performers
+originalPattern : musical interpretation of the performers
+MVO : music interprets the performers
+MVOScore : -38.54367446899414
+OVM : the performers interpret the music
+OVMScore : -35.82969284057617
+OVpM : the performers interpret from the music
+OVpMScore : -42.36782073974609
+VOpM : interpret the performers of the musical
+VOpMScore : -39.60246276855469
+VpOpM : interpret by the performers of the musical
+VpOpMScore : -40.38027954101562
+VMpO : interpret the music of the performers
+VMpOScore : -37.91100692749023
+VpMpO : interpret by the music of the performers
+VpMpOScore : -43.12852096557617
+M : the interpretation of the performers is musical
+MScore : -45.65993881225586
+V1 : the performers perform a musical interpretation
+V1Score : -37.01567459106445
+V2 : create musical interpretation of the performers
+V2Score : -45.86741256713867
+OVB : the performers interpret musically
+OVBScore : -41.70571899414062
+VOB : interpret the performers musically
+VOBScore : -42.41217041015625
+MVpOPassive : music is interpreted by the performers
+MVpOPassiveScore : -35.69668197631836
+MpOVPassive : the music of all the performers is interpreted
+MpOVPassiveScore : -45.45442199707031
+OVpMPassive : the performers are interpreted as musical
+OVpMPassiveScore : -38.84501647949219
+gold : the performers interpret the music
+reducedGold : performer interpret music 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : OVM
+HighestScorePatternSentence : the performers interpret the music
+reducedParaphrase : performer interpret music 
+adj/noun-label : arg1
+FinalLabel : True
+
+56. sentence : In occult traditions, practices range from inducing trance states to the mental construction of a second body , called the "Body of Light" in Aleister Crowley's writings, through visualization and controlled breathing, followed by the transfer of consciousness to the secondary body by a mental act of will.
+adj/noun : mental
+n_v : construction
+prep : of
+pobj : a second body
+originalPattern : mental construction of a second body
+MVO : mind constructs a second body
+MVOScore : -37.69147491455078
+OVM : a second body constructs a mind
+OVMScore : -42.69133377075195
+OVpM : a second body constructs from the mind
+OVpMScore : -46.90921401977539
+VOpM : construct a second body of mind
+VOpMScore : -38.70111846923828
+VpOpM : construct of a second body of mind
+VpOpMScore : -40.92667007446289
+VMpO : construct the mind into a second body
+VMpOScore : -42.32699966430664
+VpMpO : construct of a mind in a second body
+VpMpOScore : -45.21203231811523
+M : the construction of a second body is mental
+MScore : -45.92161178588867
+V1 : a second body studies the mental construction
+V1Score : -50.0683708190918
+V2 : study mental construction of a second body
+V2Score : -50.74526596069336
+OVB : a second body constructs mentally
+OVBScore : -45.3668327331543
+VOB : construct a second body mentally
+VOBScore : -43.4229850769043
+MVpOPassive : the mind is constructed in a second body
+MVpOPassiveScore : -39.29767608642578
+MpOVPassive : mind of a second body is constructed
+MpOVPassiveScore : -45.91437149047852
+OVpMPassive : a second body is constructed by mind
+OVpMPassiveScore : -42.1262092590332
+gold : the mind construct a second body
+reducedGold : mind construct second body 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : mind constructs a second body
+reducedParaphrase : mind construct second body 
+adj/noun-label : arg0
+FinalLabel : True
+
+58. sentence : In our timeline, Indian Territory was opened to white settlement as punishment for the tribal support of the rebellion.
+adj/noun : tribal
+n_v : support
+prep : of
+pobj : the rebellion
+originalPattern : tribal support of the rebellion
+MVO : the tribes support the rebellion
+MVOScore : -36.29144287109375
+OVM : the rebellion supports the tribe
+OVMScore : -38.05506134033203
+OVpM : the rebellion supports by the tribe
+OVpMScore : -42.64774703979492
+VOpM : support the rebellion of the tribes
+VOpMScore : -36.23628234863281
+VpOpM : support for the rebellion of the tribes
+VpOpMScore : -39.78650665283203
+VMpO : support the tribes in the rebellion
+VMpOScore : -39.20625686645508
+VpMpO : support of the tribes in the rebellion
+VpMpOScore : -39.48970794677734
+M : the support of the rebellion is tribal
+MScore : -46.60631561279297
+V1 : the rebellion receives some tribal support
+V1Score : -45.422119140625
+V2 : gain tribal support of the rebellion
+V2Score : -47.52040481567383
+MVpOPassive : the tribe is supported by the rebellion
+MVpOPassiveScore : -40.1294059753418
+MpOVPassive : tribe of the rebellion is supported
+MpOVPassiveScore : -40.76413726806641
+OVpMPassive : the rebellion is supported by tribes
+OVpMPassiveScore : -37.77288436889648
+gold : the tribe support the rebellion
+reducedGold : tribe support rebellion 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : the tribes support the rebellion
+reducedParaphrase : tribe support rebellion 
+adj/noun-label : arg0
+FinalLabel : True
+
+59. sentence : In the "Shreveport Rate Cases" (1914), the Court permitted congressional regulation of railroad lines because Congress was regulating the "channels of commerce" and although the regulation was on intrastate rail lines, the effect of the intrastate lines was direct so as to concern interstate commerce.
+adj/noun : congressional
+n_v : regulation
+prep : of
+pobj : railroad lines
+originalPattern : congressional regulation of railroad lines
+MVO : congress regulates railroad lines
+MVOScore : -44.47102737426758
+OVM : railroad lines regulate congress
+OVMScore : -46.13058471679688
+OVpM : railroad lines regulate by congress
+OVpMScore : -48.91621398925781
+VOpM : regulate railroad lines in congress
+VOpMScore : -46.416748046875
+VMpO : regulate congress on railroad lines
+VMpOScore : -49.36771011352539
+VpMpO : regulate by congress on railroad lines
+VpMpOScore : -50.31736755371094
+M : the regulation of railroad lines is congressional
+MScore : -47.60984802246094
+V1 : railroad lines require a congressional regulation
+V1Score : -47.59327697753906
+V2 : improve congressional regulation of railroad lines
+V2Score : -49.248046875
+MVpOPassive : congress is regulated by railroad lines
+MVpOPassiveScore : -46.26985168457031
+MpOVPassive : congress of the railroad lines is regulated
+MpOVPassiveScore : -52.92290115356445
+OVpMPassive : railroad lines are regulated by congress
+OVpMPassiveScore : -41.59130477905273
+gold : congress regulate railroad lines
+reducedGold : congress regulate railroad line 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : congress regulates railroad lines
+reducedParaphrase : congress regulate railroad line 
+adj/noun-label : arg0
+FinalLabel : True
+
+61. sentence : In the absence of legal control over the actions of doctors, departmental regulation of mental health care has contributed to psychiatric abuse.
+adj/noun : departmental
+n_v : regulation
+prep : of
+pobj : mental health care
+originalPattern : departmental regulation of mental health care
+MVO : department regulates mental health care
+MVOScore : -33.91344451904297
+OVM : mental health care regulates departments
+OVMScore : -42.5933723449707
+OVpM : mental health care regulates as a department
+OVpMScore : -48.24160385131836
+VOpM : regulate mental health care as a department
+VOpMScore : -41.5437126159668
+VMpO : regulate departments of mental health care
+VMpOScore : -40.43107986450195
+VpMpO : regulate as a department of mental health care
+VpMpOScore : -45.98374176025391
+M : the regulation of mental health care is departmental
+MScore : -42.01002502441406
+V1 : mental health care improves the departmental regulation
+V1Score : -52.11801147460938
+V2 : improve departmental regulation of mental health care
+V2Score : -41.47894668579102
+OVB : mental health care regulates departmentally
+OVBScore : -49.33433532714844
+VOB : regulate mental health care departmentally
+VOBScore : -50.75205993652344
+MVpOPassive : departments are regulated for mental health care
+MVpOPassiveScore : -43.04428100585938
+MpOVPassive : a department of the mental health care is regulated
+MpOVPassiveScore : -45.971435546875
+OVpMPassive : mental health care is regulated by the department
+OVpMPassiveScore : -35.96811676025391
+gold : the department regulate mental health care
+reducedGold : department regulate mental health care 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : department regulates mental health care
+reducedParaphrase : department regulate mental health care 
+adj/noun-label : arg0
+FinalLabel : True
+
+62. sentence : In the latter year he was chairman of the Vermont delegation, and seconded the presidential nomination of Benjamin Harrison.//In the latter year he was chairman of the Vermont delegation, and seconded the presidential nomination of Benjamin Harrison.
+adj/noun : presidential
+n_v : nomination
+prep : of
+pobj : Benjamin Harrison
+originalPattern : presidential nomination of Benjamin Harrison//presidential nomination of Benjamin Harrison
+MVO : president nominates Benjamin Harrison//president nominates Benjamin Harrison
+MVOScore : -33.50065231323242//-33.50065231323242
+MVpO : //
+MVpOScore : //
+OVM : Benjamin Harrison nominates president//Benjamin Harrison nominates president
+OVMScore : -35.94633483886719//-35.94633483886719
+OVpM : Benjamin Harrison nominates for president//Benjamin Harrison nominates for president
+OVpMScore : -36.144287109375//-36.144287109375
+VOpM : nominate Benjamin Harrison as president//nominate Benjamin Harrison as president
+VOpMScore : -37.87955093383789//-37.87955093383789
+VpOpM : nominate to Benjamin Harrison as the president//nominate to Benjamin Harrison as the president
+VpOpMScore : -47.4366569519043//-47.4366569519043
+VMpO : nominate presidents like Benjamin Harrison//nominate presidents like Benjamin Harrison
+VMpOScore : -42.6656608581543//-42.6656608581543
+VpMpO : nominate of the presidents of Benjamin Harrison//nominate of the presidents of Benjamin Harrison
+VpMpOScore : -48.98564910888672//-48.98564910888672
+M : the nomination of Benjamin Harrison is presidential//the nomination of Benjamin Harrison is presidential
+MScore : -44.34400939941406//-44.34400939941406
+V1 : Benjamin Harrison wins the presidential nomination//Benjamin Harrison wins the presidential nomination
+V1Score : -33.43680572509766//-33.43680572509766
+V2 : secure presidential nomination of Benjamin Harrison//secure presidential nomination of Benjamin Harrison
+V2Score : -42.88986968994141//-42.88986968994141
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : president is nominated by Benjamin Harrison//president is nominated by Benjamin Harrison
+MVpOPassiveScore : -39.92354202270508//-39.92354202270508
+MpOVPassive : president of Benjamin Harrison is nominated//president of Benjamin Harrison is nominated
+MpOVPassiveScore : -45.34344863891602//-45.34344863891602
+OVpMPassive : Benjamin Harrison is nominated for president//Benjamin Harrison is nominated for president
+OVpMPassiveScore : -31.60500526428223//-31.60500526428223
+gold : nominate Benjamin Harrison for president//nominate Benjamin Harrison as president
+reducedGold : nominate benjamin harrison for president //nominate benjamin harrison as president 
+OriginalHighestScorePattern : OVpMPassive//OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM//OVpMPassiveVOpM
+HighestScorePatternSentence : nominate Benjamin Harrison for president//nominate Benjamin Harrison for president
+reducedParaphrase : nominate benjamin harrison for president //nominate benjamin harrison for president 
+adj/noun-label : PP//PP
+FinalLabel : True
+
+63. sentence : Indeed, since the Turkish Cypriot leadership is committed to physical and geographical separation of the communities as a political goal, it is not likely to encourage activities by Turkish Cypriots which may be interpreted as demonstrating the merits of an alternative policy.
+adj/noun : geographical
+n_v : separation
+prep : of
+pobj : the communities
+originalPattern : geographical separation of the communities
+MVO : geography separates the communities
+MVOScore : -35.69879150390625
+OVM : the communities separate geography
+OVMScore : -39.1104736328125
+OVpM : the communities separate by geography
+OVpMScore : -35.70238494873047
+VOpM : separate the communities by geography
+VOpMScore : -33.92873764038086
+VpOpM : separate from the communities by geography
+VpOpMScore : -38.53303146362305
+VMpO : separate the geography of the communities
+VMpOScore : -37.26115036010742
+VpMpO : separate from the geography of the communities
+VpMpOScore : -39.27252960205078
+M : the separation of the communities is geographical
+MScore : -42.8592643737793
+V1 : the communities have a geographical separation
+V1Score : -41.5011100769043
+V2 : ensure geographical separation of the communities
+V2Score : -37.56459426879883
+MVpOPassive : geography is separated from the communities
+MVpOPassiveScore : -42.85510635375977
+MpOVPassive : the geography of all the communities is separated
+MpOVPassiveScore : -46.17395782470703
+OVpMPassive : the communities are separated by geography
+OVpMPassiveScore : -34.85358428955078
+gold : geography separate the communities
+reducedGold : geography separate community 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : geography separates the communities
+reducedParaphrase : geography separate community 
+adj/noun-label : arg0
+FinalLabel : True
+
+65. sentence : It is also probable that the presidential directive NSC-25 will apply which requires a review of large scale alleged effects on the environment and is carried out subsequent to the other domestic reviews and through a long process, leads eventually to presidential approval of the launch.
+adj/noun : presidential
+n_v : approval
+prep : of
+pobj : the launch
+originalPattern : presidential approval of the launch
+MVO : the president approves the launch
+MVOScore : -31.94972801208496
+OVM : the launch approves president
+OVMScore : -40.12815475463867
+OVpM : the launch approves by the president
+OVpMScore : -42.15763092041016
+VOpM : approve the launch of the president
+VOpMScore : -36.72134399414062
+VpOpM : approve of the launch of the president
+VpOpMScore : -39.19319915771484
+VMpO : approve the president of the launch
+VMpOScore : -40.68099975585938
+VpMpO : approve by the president of the launch
+VpMpOScore : -41.96476364135742
+M : the approval of the launch is presidential
+MScore : -46.23532104492188
+V1 : the launch receives a presidential approval
+V1Score : -44.25431060791016
+V2 : obtain presidential approval of the launch
+V2Score : -43.26195526123047
+MVpOPassive : president is approved for the launch
+MVpOPassiveScore : -39.07590484619141
+MpOVPassive : president of the the launch is approved
+MpOVPassiveScore : -49.80649948120117
+OVpMPassive : the launch is approved by the president
+OVpMPassiveScore : -37.09383392333984
+gold : the president approve the launch
+reducedGold : president approve launch 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : the president approves the launch
+reducedParaphrase : president approve launch 
+adj/noun-label : arg0
+FinalLabel : True
+
+72. sentence : Many times the robot's response serves as precursor information for issuance of a command as human assistance to the agent .
+adj/noun : human
+n_v : assistance
+prep : to
+pobj : the agent
+originalPattern : human assistance to the agent
+MVO : human assist the agent
+MVOScore : -36.61860275268555
+MVpO : human assist to the agent
+MVpOScore : -37.06137466430664
+OVM : the agent assists human
+OVMScore : -34.35123062133789
+OVpM : the agent assists as human
+OVpMScore : -38.96975326538086
+VOpM : assist the agent in human
+VOpMScore : -33.7020263671875
+VpOpM : assist as the agent of humanity
+VpOpMScore : -36.91312408447266
+VMpO : assist the humanity of the agent
+VMpOScore : -37.78324127197266
+VpMpO : assist with the humanity of the agent
+VpMpOScore : -41.26145935058594
+M : the assistance to the agent is human
+MScore : -45.04400634765625
+V1 : the agent needs some human assistance
+V1Score : -40.98406219482422
+V2 : provide human assistance to the agent
+V2Score : -40.52535247802734
+OVB : the agent assists humanly
+OVBScore : -40.03607177734375
+VOB : assist the agent humanly
+VOBScore : -38.29937362670898
+MVpOPassive : a human is assisted by the agent
+MVpOPassiveScore : -38.91336441040039
+MpOVPassive : the human to the agent is assisted
+MpOVPassiveScore : -45.8226203918457
+OVpMPassive : the agent is assisted by a human
+OVpMPassiveScore : -35.79196166992188
+gold : a human assist the agent
+reducedGold : human assist agent 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : human assist the agent
+reducedParaphrase : human assist agent 
+adj/noun-label : arg0
+FinalLabel : True
+
+73. sentence : Mapping and monitoring biomass of mangrove forest is very important to manage ecosystem and field survey of mangrove biomass and productivity is very difficult due to muddy soil condition, heavy weight of the wood, very large area and tidal effect on mangrove area .
+adj/noun : tidal
+n_v : effect
+prep : on
+pobj : mangrove area
+originalPattern : tidal effect on mangrove area
+MVO : tide affects mangrove area
+MVOScore : -45.28263092041016
+MVpO : tide effects on mangrove area
+MVpOScore : -45.76000595092773
+OVM : mangrove area causes tides
+OVMScore : -52.2301139831543
+OVpM : mangrove area effects in tide
+OVpMScore : -55.03566741943359
+VOpM : affect mangrove area at tide
+VOpMScore : -51.76394653320312
+VpOpM : cause of mangrove area at tide
+VpOpMScore : -51.5129280090332
+VMpO : cause tide in mangrove area
+VMpOScore : -46.96951293945312
+VpMpO : cause of tide in mangrove area
+VpMpOScore : -45.771240234375
+M : the effect on mangrove area is tidal
+MScore : -59.01248550415039
+V1 : mangrove area has a tidal effect
+V1Score : -52.76244735717773
+V2 : reduce tidal effect on mangrove area
+V2Score : -46.07356643676758
+MVpOPassive : tide is affected by mangrove area
+MVpOPassiveScore : -47.91684722900391
+MpOVPassive : tides on the mangrove area is caused
+MpOVPassiveScore : -54.17439270019531
+OVpMPassive : mangrove area is affected by tides
+OVpMPassiveScore : -51.91725921630859
+gold : tides affect mangrove area
+reducedGold : tide affect mangrove area 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : tide affects mangrove area
+reducedParaphrase : tide affect mangrove area 
+adj/noun-label : arg0
+FinalLabel : True
+
+75. sentence : Monetary investment by the new affiliates was not required.
+adj/noun : monetary
+n_v : investment
+prep : by
+pobj : the new affiliates
+originalPattern : monetary investment by the new affiliates
+MVO : money invests the new affiliates
+MVOScore : -45.51226806640625
+MVpO : money invests by the new affiliates
+MVpOScore : -48.96148681640625
+OVM : the new affiliates invest money
+OVMScore : -41.75923919677734
+OVpM : the new affiliates invest in money
+OVpMScore : -45.57988357543945
+VOpM : invest the new affiliates with the money
+VOpMScore : -44.25259399414062
+VpOpM : invest in the new affiliates with the money
+VpOpMScore : -45.51005172729492
+VMpO : invest the money in the new affiliates
+VMpOScore : -39.82058334350586
+VpMpO : invest as a money in the new affiliates
+VpMpOScore : -56.35753631591797
+M : the investment by the new affiliates is monetary
+MScore : -54.27146530151367
+V1 : the new affiliates encourage monetary investment
+V1Score : -49.31374740600586
+V2 : encourage monetary investment by the new affiliates
+V2Score : -55.05268859863281
+MVpOPassive : the money is invested in the new affiliates
+MVpOPassiveScore : -42.08640670776367
+MpOVPassive : money by all the new affiliates is invested
+MpOVPassiveScore : -58.21630096435547
+OVpMPassive : the new affiliates are invested in money
+OVpMPassiveScore : -46.62299728393555
+gold : the new affiliates invest money
+reducedGold : new affiliate invest money 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the new affiliates invest money
+reducedParaphrase : new affiliate invest money 
+adj/noun-label : arg1
+FinalLabel : True
+
+80. sentence : One example of parental response to children 's behavior is the elicitation of scaffolding behavior, which in turn affects the level of behavior children show in the future.
+adj/noun : parental
+n_v : response
+prep : to
+pobj : children 's behavior
+originalPattern : parental response to children 's behavior
+MVO : parent responds children 's behavior
+MVOScore : -53.00177764892578
+MVpO : parents respond to children 's behavior
+MVpOScore : -45.02945709228516
+OVM : children 's behavior responds the parents
+OVMScore : -49.84057235717773
+OVpM : children 's behavior responds to parents
+OVpMScore : -43.99957275390625
+VOpM : respond children 's behavior to parents
+VOpMScore : -47.55506134033203
+VpOpM : respond to children 's behavior to parents
+VpOpMScore : -51.2213249206543
+VMpO : respond parents to children 's behavior
+VMpOScore : -51.01859283447266
+VpMpO : respond to parent to children 's behavior
+VpMpOScore : -55.23748779296875
+M : the response to children 's behavior is parental
+MScore : -55.85073852539062
+V1 : children 's behavior improves the parental response
+V1Score : -54.39891815185547
+V2 : improve parental response to children 's behavior
+V2Score : -51.90268707275391
+OVB : children 's behavior responds parentally
+OVBScore : -55.55908203125
+VOB : respond children 's behavior parentally
+VOBScore : -59.37828826904297
+MVpOPassive : parent is responded to children 's behavior
+MVpOPassiveScore : -54.01174163818359
+MpOVPassive : parent to the children 's behavior is responded
+MpOVPassiveScore : -57.4418830871582
+OVpMPassive : children 's behavior is responded by parents
+OVpMPassiveScore : -50.85536193847656
+gold : parents respond to children's behavior
+reducedGold : parent respond to child 's behavior 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : parents respond to children 's behavior
+reducedParaphrase : parent respond to child 's behavior 
+adj/noun-label : arg0
+FinalLabel : True
+
+81. sentence : One of its more recent and most notable games took place on March 29, 2007, when the team played a home game against the Buffalo Police Department as a fundraiser for police officer Patty Parete, who suffered spinal injury from a gunshot wound.
+adj/noun : spinal
+n_v : injury
+prep : from
+pobj : a gunshot wound
+originalPattern : spinal injury from a gunshot wound
+MVO : a spine injures a gunshot wound
+MVOScore : -40.34715270996094
+MVpO : the spine hurts from a gunshot wound
+MVpOScore : -39.79395294189453
+OVM : a gunshot wound injures the spine
+OVMScore : -37.73549270629883
+OVpM : a gunshot wound hurts to the spinal
+OVpMScore : -41.55811309814453
+VOpM : injure a gunshot wound to the spine
+VOpMScore : -37.64236831665039
+VpOpM : hurt by a gunshot wound to the spine
+VpOpMScore : -36.76818466186523
+VMpO : hurt the spine from a gunshot wound
+VMpOScore : -40.88351440429688
+VpMpO : hurt in the spine from a gunshot wound
+VpMpOScore : -41.49799728393555
+M : the injury from a gunshot wound is spinal
+MScore : -45.99760437011719
+V1 : a gunshot wound recovers a spinal injury
+V1Score : -49.93719100952148
+V2 : recover spinal injury from a gunshot wound
+V2Score : -41.768310546875
+OVB : a gunshot wound injures spinally
+OVBScore : -48.88209915161133
+VOB : hurt a gunshot wound spinally
+VOBScore : -50.35309600830078
+MVpOPassive : the spine is injured by a gunshot wound
+MVpOPassiveScore : -39.26468276977539
+MpOVPassive : the spine from a gunshot wound is injured
+MpOVPassiveScore : -44.59016036987305
+OVpMPassive : a gunshot wound is injured in the spine
+OVpMPassiveScore : -44.66115570068359
+gold : a gunshot wound injure the spine
+reducedGold : gunshot wound injure spine 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : OVM
+HighestScorePatternSentence : a gunshot wound injures the spine
+reducedParaphrase : gunshot wound injure spine 
+adj/noun-label : arg1
+FinalLabel : True
+
+82. sentence : OSIS also offers specialized software and other tools to assist users in analysis and graphical interpretations of data .
+adj/noun : graphical
+n_v : interpretations
+prep : of
+pobj : data
+originalPattern : graphical interpretations of data
+MVO : graph interprets data
+MVOScore : -30.44508361816406
+OVM : data interpret graph
+OVMScore : -32.87702560424805
+OVpM : data interpret in the graph
+OVpMScore : -39.32221984863281
+VOpM : interpret data from graph
+VOpMScore : -31.86112594604492
+VMpO : interpret a graph of data
+VMpOScore : -34.11758041381836
+VpMpO : interpret by a graph of data
+VpMpOScore : -40.52398681640625
+M : the interpretations of data are graphical
+MScore : -41.31819915771484
+V1 : data enable the graphical interpretations
+V1Score : -47.67463302612305
+V2 : enable graphical interpretations of data
+V2Score : -39.33227157592773
+MVpOPassive : graph is interpreted as data
+MVpOPassiveScore : -32.48767471313477
+MpOVPassive : a graph of the data is interpreted
+MpOVPassiveScore : -36.11965179443359
+OVpMPassive : data are interpreted as graphs
+OVpMPassiveScore : -33.03636169433594
+gold : graphs interpret data
+reducedGold : graphs interpret datum 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : graph interprets data
+reducedParaphrase : graph interpret data 
+adj/noun-label : arg0
+FinalLabel : True
+
+83. sentence : Out of wartime necessity, the government allowed executive regulation of agricultural production and requisitioned food supplies.
+adj/noun : executive
+n_v : regulation
+prep : of
+pobj : agricultural production
+originalPattern : executive regulation of agricultural production
+MVO : executives regulate agricultural production
+MVOScore : -37.54340362548828
+OVM : agricultural production regulates executive
+OVMScore : -41.37487030029297
+OVpM : agricultural production regulates for the execution
+OVpMScore : -49.15755844116211
+VOpM : regulate agricultural production as an executive
+VOpMScore : -43.83052825927734
+VpOpM : regulate of agricultural production during the executions
+VpOpMScore : -54.26558685302734
+VMpO : regulate the execution of agricultural production
+VMpOScore : -41.99642181396484
+VpMpO : regulate of the executives of agricultural production
+VpMpOScore : -51.42378234863281
+M : the regulation of agricultural production is executive
+MScore : -39.59684753417969
+V1 : agricultural production establishes an executive regulation
+V1Score : -50.65444183349609
+V2 : establish executive regulation of agricultural production
+V2Score : -40.75110244750977
+MVpOPassive : execution is regulated by agricultural production
+MVpOPassiveScore : -41.48383712768555
+MpOVPassive : execution of the agricultural production is regulated
+MpOVPassiveScore : -44.6966552734375
+OVpMPassive : agricultural production is regulated by an executive
+OVpMPassiveScore : -38.3905143737793
+gold : the executive regulate agricultural production
+reducedGold : executive regulate agricultural production 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : executives regulate agricultural production
+reducedParaphrase : executive regulate agricultural production 
+adj/noun-label : arg0
+FinalLabel : True
+
+84. sentence : Political effects on electoral systems : Simulation with the case of Kosovo
+adj/noun : political
+n_v : effects
+prep : on
+pobj : electoral systems
+originalPattern : political effects on electoral systems
+MVO : politics affect electoral systems
+MVOScore : -37.46786117553711
+MVpO : the politics effect on electoral systems
+MVpOScore : -40.45024490356445
+OVM : electoral systems affect politics
+OVMScore : -37.12129592895508
+OVpM : electoral systems effect on politics
+OVpMScore : -39.70548629760742
+VOpM : affect electoral systems in politics
+VOpMScore : -36.34966278076172
+VpOpM : effect of electoral systems in politics
+VpOpMScore : -38.91036987304688
+VMpO : affect the politics of electoral systems
+VMpOScore : -37.0703125
+VpMpO : effect on the politics of electoral systems
+VpMpOScore : -40.50360870361328
+M : the effects on electoral systems are political
+MScore : -43.84756851196289
+V1 : electoral systems study the political effects
+V1Score : -43.19463348388672
+V2 : study political effects on electoral systems
+V2Score : -42.35143280029297
+OVB : electoral systems affect politically
+OVBScore : -40.90690231323242
+VOB : affect electoral systems politically
+VOBScore : -37.32678985595703
+MVpOPassive : politics are affected by electoral systems
+MVpOPassiveScore : -39.48493957519531
+MpOVPassive : politics on the electoral systems are affected
+MpOVPassiveScore : -50.39411926269531
+OVpMPassive : electoral systems are affected by politics
+OVpMPassiveScore : -38.05649948120117
+gold : politics affect electoral systems
+reducedGold : politic affect electoral system 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : politics affect electoral systems
+reducedParaphrase : politic affect electoral system 
+adj/noun-label : arg0
+FinalLabel : True
+
+85. sentence : Price action trading can be included under the umbrella of technical analysis but is covered here in a separate article because it incorporates the behavioural analysis of market participants as a crowd from evidence displayed in price action - a type of analysis whose academic coverage isn't focused in any one area, rather is widely described and commented on in the literature on trading, speculation, gambling and competition generally.//Price action trading can be included under the umbrella of technical analysis but is covered here in a separate article because it incorporates the behavioural analysis of market participants as a crowd from evidence displayed in price action - a type of analysis whose academic coverage isn't focused in any one area, rather is widely described and commented on in the literature on trading, speculation, gambling and competition generally.//Price action trading can be included under the umbrella of technical analysis but is covered here in a separate article because it incorporates the behavioural analysis of market participants as a crowd from evidence displayed in price action - a type of analysis whose academic coverage isn't focused in any one area, rather is widely described and commented on in the literature on trading, speculation, gambling and competition generally.//Price action trading can be included under the umbrella of technical analysis but is covered here in a separate article because it incorporates the behavioural analysis of market participants as a crowd from evidence displayed in price action - a type of analysis whose academic coverage isn't focused in any one area, rather is widely described and commented on in the literature on trading, speculation, gambling and competition generally.
+adj/noun : behavioural
+n_v : analysis
+prep : of
+pobj : market participants
+originalPattern : behavioural analysis of market participants//behavioural analysis of market participants//behavioural analysis of market participants//behavioural analysis of market participants
+MVO : behavior analyses market participants//behavior analyses market participants//behavior analyses market participants//behavior analyses market participants
+MVOScore : -38.95122528076172//-38.95122528076172//-38.95122528076172//-38.95122528076172
+MVpO : //////
+MVpOScore : //////
+OVM : market participants analyze the behavior//market participants analyze the behavior//market participants analyze the behavior//market participants analyze the behavior
+OVMScore : -37.14929962158203//-37.14929962158203//-37.14929962158203//-37.14929962158203
+OVpM : market participants analyze as a behavior//market participants analyze as a behavior//market participants analyze as a behavior//market participants analyze as a behavior
+OVpMScore : -47.70816802978516//-47.70816802978516//-47.70816802978516//-47.70816802978516
+VOpM : analyze market participants for behavior//analyze market participants for behavior//analyze market participants for behavior//analyze market participants for behavior
+VOpMScore : -42.93708419799805//-42.93708419799805//-42.93708419799805//-42.93708419799805
+VpOpM : analyse with market participants on behavior//analyse with market participants on behavior//analyse with market participants on behavior//analyse with market participants on behavior
+VpOpMScore : -50.21266174316406//-50.21266174316406//-50.21266174316406//-50.21266174316406
+VMpO : analyze the behavior of market participants//analyze the behavior of market participants//analyze the behavior of market participants//analyze the behavior of market participants
+VMpOScore : -33.77409744262695//-33.77409744262695//-33.77409744262695//-33.77409744262695
+VpMpO : analyze of the behavior of market participants//analyze of the behavior of market participants//analyze of the behavior of market participants//analyze of the behavior of market participants
+VpMpOScore : -40.42123413085938//-40.42123413085938//-40.42123413085938//-40.42123413085938
+M : the analysis of market participants is behavioural//the analysis of market participants is behavioural//the analysis of market participants is behavioural//the analysis of market participants is behavioural
+MScore : -47.95476913452148//-47.95476913452148//-47.95476913452148//-47.95476913452148
+V1 : market participants improve the behavioural analysis//market participants improve the behavioural analysis//market participants improve the behavioural analysis//market participants improve the behavioural analysis
+V1Score : -47.56252288818359//-47.56252288818359//-47.56252288818359//-47.56252288818359
+V2 : improve behavioural analysis of market participants//improve behavioural analysis of market participants//improve behavioural analysis of market participants//improve behavioural analysis of market participants
+V2Score : -46.06709671020508//-46.06709671020508//-46.06709671020508//-46.06709671020508
+OVB : //////
+OVBScore : //////
+VOB : //////
+VOBScore : //////
+MVpOPassive : behavior is analyzed by market participants//behavior is analyzed by market participants//behavior is analyzed by market participants//behavior is analyzed by market participants
+MVpOPassiveScore : -39.71030044555664//-39.71030044555664//-39.71030044555664//-39.71030044555664
+MpOVPassive : the behavior of the market participants is analyzed//the behavior of the market participants is analyzed//the behavior of the market participants is analyzed//the behavior of the market participants is analyzed
+MpOVPassiveScore : -39.8313102722168//-39.8313102722168//-39.8313102722168//-39.8313102722168
+OVpMPassive : market participants are analyzed for behaviors//market participants are analyzed for behaviors//market participants are analyzed for behaviors//market participants are analyzed for behaviors
+OVpMPassiveScore : -43.00462341308594//-43.00462341308594//-43.00462341308594//-43.00462341308594
+gold : analyze the behavior of market participants//analyse the behavior of market participants//analyze the behaviour of market participants//analyse the behaviour of market participants
+reducedGold : analyze behavior of market participant //analyse behavior of market participant //analyze behaviour of market participant //analyse behaviour of market participant 
+OriginalHighestScorePattern : VMpO//VMpO//VMpO//VMpO
+HighestScorePattern : VMpO//VMpO//VMpO//VMpO
+HighestScorePatternSentence : analyze the behavior of market participants//analyze the behavior of market participants//analyze the behavior of market participants//analyze the behavior of market participants
+reducedParaphrase : analyze behavior of market participant //analyze behavior of market participant //analyze behavior of market participant //analyze behavior of market participant 
+adj/noun-label : arg1//arg1//arg1//arg1
+FinalLabel : True
+
+86. sentence : PURPOSE: To review selected behavioral medicine research to critically examine the perception among investigators that behavioral effects on health are small based on common metrics of clinical significance.//PURPOSE: To review selected behavioral medicine research to critically examine the perception among investigators that behavioral effects on health are small based on common metrics of clinical significance.
+adj/noun : behavioral
+n_v : effects
+prep : on
+pobj : health
+originalPattern : behavioral effects on health//behavioral effects on health
+MVO : behavior affects health//behavior affects health
+MVOScore : -27.93729400634766//-27.93729400634766
+MVpO : behavior effects on health//behavior effects on health
+MVpOScore : -28.62886619567871//-28.62886619567871
+OVM : health effects behavior//health effects behavior
+OVMScore : -27.15444183349609//-27.15444183349609
+OVpM : health effects on behavior//health effects on behavior
+OVpMScore : -27.12540626525879//-27.12540626525879
+VOpM : affect health as a behavior//affect health as a behavior
+VOpMScore : -34.28910827636719//-34.28910827636719
+VpOpM : effect on health of the behavior//effect on health of the behavior
+VpOpMScore : -35.14573669433594//-35.14573669433594
+VMpO : affect the behavior of health//affect the behavior of health
+VMpOScore : -29.46283721923828//-29.46283721923828
+VpMpO : effect on the behavior of health//effect on the behavior of health
+VpMpOScore : -31.59960556030273//-31.59960556030273
+M : the effects on health are behavioral//the effects on health are behavioral
+MScore : -37.87174987792969//-37.87174987792969
+V1 : health studies behavioral effects//health studies behavioral effects
+V1Score : -34.5135498046875//-34.5135498046875
+V2 : study behavioral effects on health//study behavioral effects on health
+V2Score : -33.47103118896484//-33.47103118896484
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : behavior is affected by health//behavior is affected by health
+MVpOPassiveScore : -30.46261215209961//-30.46261215209961
+MpOVPassive : behavior on health is affected//behavior on health is affected
+MpOVPassiveScore : -37.12697219848633//-37.12697219848633
+OVpMPassive : health is affected by behaviors//health is affected by behaviors
+OVpMPassiveScore : -34.17521286010742//-34.17521286010742
+gold : behaviour affect health//behavior affect health
+reducedGold : behaviour affect health //behavior affect health 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : behavior affects health//behavior affects health
+reducedParaphrase : behavior affect health //behavior affect health 
+adj/noun-label : arg0//arg0
+FinalLabel : True
+
+88. sentence : The 2013 event marks the 60th anniversary of the agency, and the 50th annual Presidential proclamation of National Small Business Week.
+adj/noun : presidential
+n_v : proclamation
+prep : of
+pobj : National Small Business Week
+originalPattern : presidential proclamation of National Small Business Week
+MVO : president proclaims National Small Business Week
+MVOScore : -45.39450836181641
+OVM : National Small Business Week proclaims the president
+OVMScore : -45.43304824829102
+OVpM : National Small Business Week proclaims for the president
+OVpMScore : -54.35302352905273
+VOpM : proclaim National Small Business Week as president
+VOpMScore : -57.19673156738281
+VpOpM : proclaim at National Small Business Week as president
+VpOpMScore : -62.47849273681641
+VMpO : proclaim president of National Small Business Week
+VMpOScore : -55.34182357788086
+VpMpO : proclaim as president of National Small Business Week
+VpMpOScore : -54.54119873046875
+M : the proclamation of National Small Business Week is presidential
+MScore : -55.9266357421875
+V1 : National Small Business Week celebrates the presidential proclamation
+V1Score : -50.58314514160156
+V2 : celebrate presidential proclamation of National Small Business Week
+V2Score : -53.53509140014648
+MVpOPassive : presidents are proclaimed at National Small Business Week
+MVpOPassiveScore : -53.64436340332031
+MpOVPassive : president of the National Small Business Week is proclaimed
+MpOVPassiveScore : -54.27053070068359
+OVpMPassive : National Small Business Week is proclaimed by the president
+OVpMPassiveScore : -48.21965026855469
+gold : the president proclaim National Small Business Week
+reducedGold : president proclaim national small business week 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : president proclaims National Small Business Week
+reducedParaphrase : president proclaim national small business week 
+adj/noun-label : arg0
+FinalLabel : True
+
+89. sentence : The Academy's Athletic Department mandates athletic participation for every student each term as a graduation requirement.
+adj/noun : athletic
+n_v : participation
+prep : for
+pobj : every student
+originalPattern : athletic participation for every student
+MVO : athletics participates every student
+MVOScore : -44.6849365234375
+MVpO : athletics participates for every student
+MVpOScore : -43.32389831542969
+OVM : every student participates the athletics
+OVMScore : -42.2352294921875
+OVpM : every student participates in athletics
+OVpMScore : -33.09199142456055
+VOpM : participate every student in athletics
+VOpMScore : -41.27333068847656
+VpOpM : participate with every student in the athletics
+VpOpMScore : -42.4788818359375
+VMpO : participate athletics for every student
+VMpOScore : -42.07952499389648
+VpMpO : participate in athletics for every student
+VpMpOScore : -36.85222244262695
+M : the participation for every student is athletic
+MScore : -49.84819793701172
+V1 : every student has an athletic participation
+V1Score : -38.94408798217773
+V2 : increase athletic participation for every student
+V2Score : -39.34084320068359
+MVpOPassive : athletics is participated by every student
+MVpOPassiveScore : -45.132568359375
+MpOVPassive : athletics for every student is participated
+MpOVPassiveScore : -46.72747039794922
+OVpMPassive : every student is participated in athletics
+OVpMPassiveScore : -40.97913360595703
+gold : every student participate in athletics
+reducedGold : student participate in athletic 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : every student participates in athletics
+reducedParaphrase : student participate in athletic 
+adj/noun-label : arg1
+FinalLabel : True
+
+96. sentence : The head of the CBO, despite the office's obscurity, is a key position in Washington because the office is responsible for calculating budgetary effects of tax and spending proposals.
+adj/noun : budgetary
+n_v : effects
+prep : of
+pobj : tax and spending proposals
+originalPattern : budgetary effects of tax and spending proposals
+MVO : budget effects tax and spending proposals
+MVOScore : -41.44805908203125
+OVM : tax and spending proposals affect the budget
+OVMScore : -41.49612045288086
+OVpM : tax and spending proposals effect on the budget
+OVpMScore : -49.17414474487305
+VOpM : affect tax and spending proposals in the budget
+VOpMScore : -43.41723251342773
+VpOpM : effect on tax and spending proposals in the budget
+VpOpMScore : -46.32095336914062
+VMpO : affect the budget through tax and spending proposals
+VMpOScore : -45.11791610717773
+VpMpO : effect on the budget through tax and spending proposals
+VpMpOScore : -47.79149627685547
+M : the effects of tax and spending proposals are budgetary
+MScore : -52.28682327270508
+V1 : tax and spending proposals reduce the budgetary effects
+V1Score : -50.36651992797852
+V2 : reduce budgetary effects of tax and spending proposals
+V2Score : -47.34901428222656
+MVpOPassive : budget is affected by tax and spending proposals
+MVpOPassiveScore : -41.82981109619141
+MpOVPassive : budget of the tax and spending proposals is affected
+MpOVPassiveScore : -50.74883651733398
+OVpMPassive : tax and spending proposals are affected by budget
+OVpMPassiveScore : -43.96131134033203
+gold : tax and spending proposals affect the budget
+reducedGold : tax and spending proposal affect budget 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : tax and spending proposals affect the budget
+reducedParaphrase : tax and spending proposal affect budget 
+adj/noun-label : arg1
+FinalLabel : True
+
+98. sentence : The legislative definition of the route was amended in 1996 to exclude the portions in Rancho Mirage and Cathedral City, which had both been relinquished.//The legislative definition of the route was amended in 1996 to exclude the portions in Rancho Mirage and Cathedral City, which had both been relinquished.
+adj/noun : legislative
+n_v : definition
+prep : of
+pobj : the route
+originalPattern : legislative definition of the route//legislative definition of the route
+MVO : legislation defines the route//legislation defines the route
+MVOScore : -34.02571868896484//-34.02571868896484
+MVpO : //
+MVpOScore : //
+OVM : the route defines the legislation//the route defines the legislation
+OVMScore : -37.92996215820312//-37.92996215820312
+OVpM : the route defines in the legislation//the route defines in the legislation
+OVpMScore : -41.73687362670898//-41.73687362670898
+VOpM : define the route of legislation//define the route of legislation
+VOpMScore : -46.96240234375//-46.96240234375
+VpOpM : define as the route of legislation//define as the route of legislation
+VpOpMScore : -49.33903121948242//-49.33903121948242
+VMpO : define legislation for the route//define legislation for the route
+VMpOScore : -45.40162658691406//-45.40162658691406
+VpMpO : define by legislature of the route//define by legislature of the route
+VpMpOScore : -54.42396545410156//-54.42396545410156
+M : the definition of the route is legislative//the definition of the route is legislative
+MScore : -46.52515411376953//-46.52515411376953
+V1 : the route follows the legislative definition//the route follows the legislative definition
+V1Score : -42.77178192138672//-42.77178192138672
+V2 : determine legislative definition of the route//determine legislative definition of the route
+V2Score : -50.06869125366211//-50.06869125366211
+OVB : the route defines legislatively//the route defines legislatively
+OVBScore : -41.54244995117188//-41.54244995117188
+VOB : define the route legislatively//define the route legislatively
+VOBScore : -46.47595596313477//-46.47595596313477
+MVpOPassive : the legislature is defined by the route//the legislature is defined by the route
+MVpOPassiveScore : -41.45018768310547//-41.45018768310547
+MpOVPassive : the legislation of the route is defined//the legislation of the route is defined
+MpOVPassiveScore : -42.27750015258789//-42.27750015258789
+OVpMPassive : the route is defined by legislation//the route is defined by legislation
+OVpMPassiveScore : -38.09198379516602//-38.09198379516602
+gold : the legislature define the route//the legislation define the route
+reducedGold : legislature define route //legislation define route 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : legislation defines the route//legislation defines the route
+reducedParaphrase : legislation define route //legislation define route 
+adj/noun-label : arg0//arg0
+FinalLabel : True
+
+102. sentence : The principal issues in this and subsequent elections were over federal policy: specifically the national response to threats of war with Revolutionary France, and the consequent need for increased taxes to arm the nation.
+adj/noun : national
+n_v : response
+prep : to
+pobj : threats
+originalPattern : national response to threats
+MVO : nation responds threats
+MVOScore : -35.26933288574219
+MVpO : nations respond to threats
+MVpOScore : -28.62101554870605
+OVM : threats respond national
+OVMScore : -36.13797760009766
+OVpM : threats respond to national
+OVpMScore : -33.679443359375
+VOpM : respond threats to national
+VOpMScore : -32.41964721679688
+VpOpM : respond to threats to national
+VpOpMScore : -29.00758361816406
+VMpO : respond nations to threats
+VMpOScore : -33.72139739990234
+VpMpO : respond to nationals with threats
+VpMpOScore : -37.1662712097168
+M : the response to threats is national
+MScore : -39.17317199707031
+V1 : threats improve the national response
+V1Score : -39.30158233642578
+V2 : improve national response to threats
+V2Score : -35.50158309936523
+OVB : threats respond nationally
+OVBScore : -35.44596862792969
+VOB : respond threats nationally
+VOBScore : -37.7598876953125
+MVpOPassive : nations are responded to threats
+MVpOPassiveScore : -37.56229782104492
+MpOVPassive : national to threats is responded
+MpOVPassiveScore : -46.18799209594727
+OVpMPassive : threats are responded by national
+OVpMPassiveScore : -39.77152252197266
+gold : the nation respond to threats
+reducedGold : nation respond to threat 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : nations respond to threats
+reducedParaphrase : nation respond to threat 
+adj/noun-label : arg0
+FinalLabel : True
+
+103. sentence : The project has also identified the area with the highest sighting rate of blue whales in the Southern Hemisphere (northwestern Chiloé Island) and has raised international awareness regarding the health status of this blue whale population by describing skinny blue whales and skin lesions associated to coastal pollution from the salmon farming industry.
+adj/noun : coastal
+n_v : pollution
+prep : from
+pobj : the salmon farming industry
+originalPattern : coastal pollution from the salmon farming industry
+MVO : coast pollutes the salmon farming industry
+MVOScore : -46.9105110168457
+MVpO : coasts air from the salmon farming industry
+MVpOScore : -50.89765548706055
+OVM : the salmon farming industry pollutes the coast
+OVMScore : -45.3546028137207
+OVpM : the salmon farming industry pollutes off the coast
+OVpMScore : -48.10392379760742
+VOpM : air the salmon farming industry on the coast
+VOpMScore : -45.61734390258789
+VpOpM : air for the salmon farming industry on the coast
+VpOpMScore : -48.91240310668945
+VMpO : air coast for the salmon farming industry
+VMpOScore : -44.12994003295898
+VpMpO : air to coast for the salmon farming industry
+VpMpOScore : -47.65153884887695
+M : the pollution from the salmon farming industry is coastal
+MScore : -53.56008529663086
+V1 : the salmon farming industry reduces the coastal pollution
+V1Score : -53.39830017089844
+V2 : reduce coastal pollution from the salmon farming industry
+V2Score : -48.55743789672852
+MVpOPassive : the coast is polluted by the salmon farming industry
+MVpOPassiveScore : -47.48892974853516
+MpOVPassive : coasts from the salmon farming industry are polluted
+MpOVPassiveScore : -52.66345977783203
+OVpMPassive : the salmon farming industry is polluted from the coast
+OVpMPassiveScore : -51.63389587402344
+gold : the salmon farming industry pollute the coast
+reducedGold : salmon farming industry pollute coast 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the salmon farming industry pollutes the coast
+reducedParaphrase : salmon farming industry pollute coast 
+adj/noun-label : arg1
+FinalLabel : True
+
+104. sentence : The second purpose for FA analysis is to assess the main prey species proportions (herring and sprat) in salmon diet: is there a dietary effect on female salmon reproduction success ?
+adj/noun : dietary
+n_v : effect
+prep : on
+pobj : female salmon reproduction success
+originalPattern : dietary effect on female salmon reproduction success
+MVO : diet affects female salmon reproduction success
+MVOScore : -53.72476959228516
+MVpO : dietary effects on female salmon reproduction success
+MVpOScore : -53.65122604370117
+OVM : female salmon reproduction success affects diet
+OVMScore : -52.80661773681641
+OVpM : female salmon reproduction success effects on diet
+OVpMScore : -54.23980331420898
+VOpM : cause female salmon reproduction success in diet
+VOpMScore : -55.9716796875
+VpOpM : cause of female salmon reproduction success in diet
+VpOpMScore : -57.41529846191406
+VMpO : effect diet on female salmon reproduction success
+VMpOScore : -57.27345275878906
+VpMpO : effect of diet on female salmon reproduction success
+VpMpOScore : -52.22464752197266
+M : the effect on female salmon reproduction success is dietary
+MScore : -62.86836624145508
+V1 : female salmon reproduction success reduces the dietary effect
+V1Score : -62.82155609130859
+V2 : reduce dietary effect on female salmon reproduction success
+V2Score : -64.93589782714844
+MVpOPassive : diet is caused by female salmon reproduction success
+MVpOPassiveScore : -62.03672409057617
+MpOVPassive : diet on the female salmon reproduction success is affected
+MpOVPassiveScore : -70.18555450439453
+OVpMPassive : female salmon reproduction success is affected by diet
+OVpMPassiveScore : -50.69710159301758
+gold : diet affect female salmon reproduction success
+reducedGold : diet affect female salmon reproduction success 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : diet affects female salmon reproduction success
+reducedParaphrase : diet affect female salmon reproduction success 
+adj/noun-label : arg0
+FinalLabel : True
+
+113. sentence : They were interested in Jomo Kenyatta and the rise of the Kikuyu tribal resistance to colonialism in Kenya, known as the "Mau-Mau" Rebellion as it moved to open violence.
+adj/noun : tribal
+n_v : resistance
+prep : to
+pobj : colonialism
+originalPattern : tribal resistance to colonialism
+MVO : tribe resists colonialism
+MVOScore : -35.8668327331543
+MVpO : tribes resist to colonialism
+MVpOScore : -40.897705078125
+OVM : colonialism resists tribes
+OVMScore : -37.5515251159668
+OVpM : colonialism resists by tribe
+OVpMScore : -42.38765716552734
+VOpM : resist colonialism of tribes
+VOpMScore : -41.61347198486328
+VpOpM : resist against colonialism of tribes
+VpOpMScore : -43.59043884277344
+VMpO : resist tribes against colonialism
+VMpOScore : -38.98182678222656
+VpMpO : resist of the tribes against colonialism
+VpMpOScore : -44.85000610351562
+M : the resistance to colonialism is tribal
+MScore : -39.3657112121582
+V1 : colonialism strengthens the tribal resistance
+V1Score : -41.87942123413086
+V2 : strengthen tribal resistance to colonialism
+V2Score : -41.10645294189453
+MVpOPassive : tribes are resisted by colonialism
+MVpOPassiveScore : -42.61325454711914
+MpOVPassive : tribe to colonialism is resisted
+MpOVPassiveScore : -45.11638641357422
+OVpMPassive : colonialism is resisted by tribes
+OVpMPassiveScore : -37.70124053955078
+gold : the tribe resist colonialism
+reducedGold : tribe resist colonialism 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : tribe resists colonialism
+reducedParaphrase : tribe resist colonialism 
+adj/noun-label : arg0
+FinalLabel : True
+
+116. sentence : ULCs have commonly been used by US companies investing in Canada on a greenfield basis or through corporate acquisitions of Canadian entities or assets, especially if those Canadian assets or operations are expected to generate business losses.
+adj/noun : corporate
+n_v : acquisitions
+prep : of
+pobj : Canadian entities or assets
+originalPattern : corporate acquisitions of Canadian entities or assets
+MVO : corporations acquire Canadian entities or assets
+MVOScore : -48.2645378112793
+OVM : Canadian entities or assets acquire corporations
+OVMScore : -48.39429473876953
+OVpM : Canadian entities or assets acquire by corporations
+OVpMScore : -53.17487335205078
+VOpM : acquire Canadian entities or assets of corporations
+VOpMScore : -51.31477737426758
+VpOpM : acquire of Canadian entities or assets of corporations
+VpOpMScore : -53.55657577514648
+VMpO : acquire corporations of Canadian entities or assets
+VMpOScore : -52.1779899597168
+VpMpO : acquire by corporation of Canadian entities or assets
+VpMpOScore : -57.71054077148438
+M : the acquisitions of Canadian entities or assets are corporate
+MScore : -56.52472686767578
+V1 : Canadian entities or assets facilitate the corporate acquisitions
+V1Score : -60.16139221191406
+V2 : facilitate corporate acquisitions of Canadian entities or assets
+V2Score : -54.71477890014648
+MVpOPassive : corporation is acquired by Canadian entities or assets
+MVpOPassiveScore : -52.41001892089844
+MpOVPassive : corporation of all Canadian entities or assets is acquired
+MpOVPassiveScore : -61.21092224121094
+OVpMPassive : Canadian entities or assets are acquired by corporations
+OVpMPassiveScore : -49.05635452270508
+gold : the corporation acquire Canadian entities or assets
+reducedGold : corporation acquire canadian entity or asset 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : corporations acquire Canadian entities or assets
+reducedParaphrase : corporation acquire canadian entity or asset 
+adj/noun-label : arg0
+FinalLabel : True
+
+118. sentence : We investigate climatic effects on mechanical properties of snow, ice, soil and rock
+adj/noun : climatic
+n_v : effects
+prep : on
+pobj : mechanical properties of snow, ice, soil and rock
+originalPattern : climatic effects on mechanical properties of snow, ice, soil and rock
+MVO : climate affects mechanical properties of snow, ice, soil and rock
+MVOScore : -57.70734786987305
+MVpO : climate effects on mechanical properties of snow, ice, soil and rock
+MVpOScore : -57.58680725097656
+OVM : mechanical properties of snow, ice, soil and rock affect climate
+OVMScore : -58.47696304321289
+OVpM : mechanical properties of snow, ice, soil and rock effect on climate
+OVpMScore : -61.48005676269531
+VOpM : affect mechanical properties of snow, ice, soil and rock in climate
+VOpMScore : -62.63697052001953
+VpOpM : effect on mechanical properties of snow, ice, soil and rock in climate
+VpOpMScore : -62.90276718139648
+VMpO : affect climates with mechanical properties of snow, ice, soil and rock
+VMpOScore : -66.10814666748047
+VpMpO : effect of climate on mechanical properties of snow, ice, soil and rock
+VpMpOScore : -61.66146469116211
+M : the effects on mechanical properties of snow, ice, soil and rock are climatic
+MScore : -69.70243835449219
+V1 : mechanical properties of snow, ice, soil and rock study the climatic effects
+V1Score : -68.71446990966797
+V2 : study climatic effects on mechanical properties of snow, ice, soil and rock
+V2Score : -68.07601165771484
+OVB : mechanical properties of snow, ice, soil and rock affect climatically
+OVBScore : -66.12443542480469
+VOB : affect mechanical properties of snow, ice, soil and rock climatically
+VOBScore : -63.13932800292969
+MVpOPassive : climate is caused by mechanical properties of snow, ice, soil and rock
+MVpOPassiveScore : -58.83980560302734
+MpOVPassive : climates on the mechanical properties of snow, ice, soil and rock are affected
+MpOVPassiveScore : -65.60408782958984
+OVpMPassive : mechanical properties of snow, ice, soil and rock are affected by climate
+OVpMPassiveScore : -55.09258270263672
+gold : climate affect the mechanical properties of snow, ice, soil and rock
+reducedGold : climate affect mechanical property of snow , ice , soil and rock 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : climate affects mechanical properties of snow, ice, soil and rock
+reducedParaphrase : climate affect mechanical property of snow , ice , soil and rock 
+adj/noun-label : arg0
+FinalLabel : True
+
+119. sentence : William I "believed or feigned to believe that French was introduced into the Walloon provinces only under the pressure of foreign influence." The linguistic barrier "acquired administrative significance for the first time in 1822 with William I's legislation on the use of Dutch in Flemish communes." William's linguistic policies were one of the contributing factors that led to the Belgian Revolution of 1830 and the linguistic legislation of the first unionist governments .
+adj/noun : linguistic
+n_v : legislation
+prep : of
+pobj : the first unionist governments
+originalPattern : linguistic legislation of the first unionist governments
+MVO : languages legislate the first unionist governments
+MVOScore : -57.13006973266602
+OVM : the first unionist governments legislate language
+OVMScore : -53.02715301513672
+OVpM : the first unionist governments legislate in language
+OVpMScore : -56.10669708251953
+VOpM : legislate the first unionist governments in the language
+VOpMScore : -60.19533920288086
+VpOpM : legislate for the first unionist governments in the language
+VpOpMScore : -63.6888313293457
+VMpO : legislate the language of the first unionist governments
+VMpOScore : -57.95420837402344
+VpMpO : legislate in the language of the first unionist governments
+VpMpOScore : -59.47019195556641
+M : the legislation of the first unionist governments is linguistic
+MScore : -61.86002731323242
+V1 : the first unionist governments introduce a linguistic legislation
+V1Score : -62.42926788330078
+V2 : implement linguistic legislation of the first unionist governments
+V2Score : -63.61072540283203
+OVB : the first unionist governments legislate linguistically
+OVBScore : -61.47816848754883
+VOB : legislate the first unionist governments linguistically
+VOBScore : -66.50306701660156
+MVpOPassive : languages are legislated by the first unionist governments
+MVpOPassiveScore : -54.22359466552734
+MpOVPassive : languages of all the first unionist governments are legislated
+MpOVPassiveScore : -67.44143676757812
+OVpMPassive : the first unionist governments are legislated in the language
+OVpMPassiveScore : -57.00064468383789
+gold : the first unionist governments legislate language
+reducedGold : first unionist government legislate language 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the first unionist governments legislate language
+reducedParaphrase : first unionist government legislate language 
+adj/noun-label : arg1
+FinalLabel : True
+
+120. sentence : WindMade will strive to achieve this by increasing transparency of corporate investments in wind energy , by informing citizens on the implications of using different energy sources, and by empowering consumers to favour corporations who make a real contribution to delivering new wind energy.
+adj/noun : corporate
+n_v : investments
+prep : in
+pobj : wind energy
+originalPattern : corporate investments in wind energy
+MVO : corporation invests wind energy
+MVOScore : -35.23875045776367
+MVpO : corporations invest in wind energy
+MVpOScore : -34.02156448364258
+OVM : wind energy invests corporations
+OVMScore : -40.34193801879883
+OVpM : wind energy invests in corporations
+OVpMScore : -40.83103561401367
+VOpM : invest wind energy in corporations
+VOpMScore : -37.48067474365234
+VpOpM : invest in wind energy as a corporation
+VpOpMScore : -40.28746032714844
+VMpO : invest corporations in wind energy
+VMpOScore : -37.21121597290039
+VpMpO : invest in corporations in wind energy
+VpMpOScore : -40.01236724853516
+M : all investments in wind energy are corporate
+MScore : -41.99395751953125
+V1 : wind energy encourages corporate investments
+V1Score : -45.55664825439453
+V2 : encourage corporate investments in wind energy
+V2Score : -41.38936996459961
+MVpOPassive : corporation is invested in wind energy
+MVpOPassiveScore : -36.77162551879883
+MpOVPassive : the corporation in wind energy is invested
+MpOVPassiveScore : -45.75786209106445
+OVpMPassive : wind energy is invested in corporations
+OVpMPassiveScore : -42.22685241699219
+gold : the corporation invest in wind energy
+reducedGold : corporation invest in wind energy 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : corporations invest in wind energy
+reducedParaphrase : corporation invest in wind energy 
+adj/noun-label : arg0
+FinalLabel : True
+
+122. sentence : With the formal military reforms of Gaius Marius in 107 BC, designed to combat a shortage of manpower due to wars against Jugurtha, the different classes of units were done away with entirely.
+adj/noun : military
+n_v : reforms
+prep : of
+pobj : Gaius Marius
+originalPattern : military reforms of Gaius Marius
+MVO : military changes Gaius Marius
+MVOScore : -44.50903701782227
+OVM : Gaius Marius reforms the military
+OVMScore : -40.56389617919922
+OVpM : Gaius Marius reforms to military
+OVpMScore : -44.22590637207031
+VOpM : change Gaius Marius to military
+VOpMScore : -49.06551742553711
+VpOpM : change from Gaius Marius to military
+VpOpMScore : -51.49985885620117
+VMpO : change the military to Gaius Marius
+VMpOScore : -50.15705871582031
+VpMpO : reform of the military under Gaius Marius
+VpMpOScore : -51.99535751342773
+M : the reforms of Gaius Marius are military
+MScore : -59.28948974609375
+V1 : Gaius Marius introduces the military reforms
+V1Score : -47.03660202026367
+V2 : support military reforms of Gaius Marius
+V2Score : -60.04836273193359
+OVB : Gaius Marius reforms militarily
+OVBScore : -44.64969635009766
+VOB : change Gaius Marius militarily
+VOBScore : -50.89328002929688
+MVpOPassive : military is reformed by Gaius Marius
+MVpOPassiveScore : -50.97595596313477
+MpOVPassive : the military of Gaius Marius is reformed
+MpOVPassiveScore : -52.99369049072266
+OVpMPassive : Gaius Marius is changed into a military
+OVpMPassiveScore : -46.48678970336914
+gold : Gaius Marius reform the military
+reducedGold : gaius marius reform military 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : Gaius Marius reforms the military
+reducedParaphrase : gaius marius reform military 
+adj/noun-label : arg1
+FinalLabel : True
+
+123. sentence : Yeung's publications appear in top scientific journals and include topics such as parental investment in children , work and family balance, ethnic disparities in educational attainment, poverty, and family wealth.
+adj/noun : parental
+n_v : investment
+prep : in
+pobj : children
+originalPattern : parental investment in children
+MVO : parents invest children
+MVOScore : -29.23188018798828
+MVpO : parents invest in children
+MVpOScore : -26.80485916137695
+OVM : children invest parents
+OVMScore : -32.19496917724609
+OVpM : children invest in parents
+OVpMScore : -30.5712947845459
+VOpM : invest children with parent
+VOpMScore : -35.26644515991211
+VpOpM : invest in children by parents
+VpOpMScore : -34.41949462890625
+VMpO : invest the parents of children
+VMpOScore : -31.79230690002441
+VpMpO : invest in the parents of children
+VpMpOScore : -31.34640884399414
+M : the investment in children is parental
+MScore : -42.57251739501953
+V1 : children receive a parental investment
+V1Score : -38.07091522216797
+V2 : increase parental investment in children
+V2Score : -30.66904067993164
+OVB : children invest parentally
+OVBScore : -39.56162261962891
+VOB : invest children parentally
+VOBScore : -43.79014205932617
+MVpOPassive : parents are invested in children
+MVpOPassiveScore : -29.57283782958984
+MpOVPassive : parent in the children is invested
+MpOVPassiveScore : -41.35942077636719
+OVpMPassive : children are invested by parents
+OVpMPassiveScore : -32.85088348388672
+gold : parents invest in children
+reducedGold : parent invest in child 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : parents invest in children
+reducedParaphrase : parent invest in child 
+adj/noun-label : arg0
+FinalLabel : True
+
+127. sentence : Although simple living is often a secular pursuit, it may still involve reconsidering personal definitions of appropriate technology , as Anabaptist groups such as the Amish or Mennonites have done.
+adj/noun : personal
+n_v : definitions
+prep : of
+pobj : appropriate technology
+originalPattern : personal definitions of appropriate technology
+MVO : person defines appropriate technology
+MVOScore : -37.73769378662109
+OVM : appropriate technology defines a person
+OVMScore : -37.78803253173828
+OVpM : appropriate technology defines as a person
+OVpMScore : -43.66100311279297
+VOpM : define appropriate technology for personal
+VOpMScore : -49.95672225952148
+VMpO : define person with appropriate technology
+VMpOScore : -46.71466064453125
+VpMpO : define as a person with appropriate technology
+VpMpOScore : -50.34945678710938
+M : the definitions of appropriate technology are personal
+MScore : -45.95570373535156
+V1 : appropriate technology provides the personal definitions
+V1Score : -51.24113464355469
+V2 : provide personal definitions of appropriate technology
+V2Score : -46.17229461669922
+OVB : appropriate technology defines personally
+OVBScore : -42.68404769897461
+VOB : define appropriate technology personally
+VOBScore : -50.98386001586914
+MVpOPassive : a person is defined by appropriate technology
+MVpOPassiveScore : -38.50916290283203
+MpOVPassive : person of the appropriate technology is defined
+MpOVPassiveScore : -43.37616729736328
+OVpMPassive : appropriate technology is defined by a person
+OVpMPassiveScore : -40.75469970703125
+gold : each person define appropriate technology
+reducedGold : person define appropriate technology 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : person defines appropriate technology
+reducedParaphrase : person define appropriate technology 
+adj/noun-label : arg0
+FinalLabel : True
+
+129. sentence : And the second between the state and political organizations in which the fundamental issue is to create a social agenda in response to the structural effects of the armed conflict .
+adj/noun : structural
+n_v : effects
+prep : of
+pobj : the armed conflict
+originalPattern : structural effects of the armed conflict
+MVO : structure causes the armed conflict
+MVOScore : -41.38933563232422
+OVM : the armed conflict affects the structure
+OVMScore : -40.72795104980469
+OVpM : the armed conflict effects on the structure
+OVpMScore : -45.60664367675781
+VOpM : effect the armed conflict on the structure
+VOpMScore : -45.66023635864258
+VpOpM : effect of the armed conflict on the structure
+VpOpMScore : -40.59870147705078
+VMpO : affect the structure of the armed conflict
+VMpOScore : -38.70214080810547
+VpMpO : cause of the structure of the armed conflict
+VpMpOScore : -39.05709838867188
+M : the effects of the armed conflict are structural
+MScore : -42.71173477172852
+V1 : the armed conflict has structural effects
+V1Score : -43.21875762939453
+V2 : examine structural effects of the armed conflict
+V2Score : -43.75094223022461
+OVB : the armed conflict causes structurally
+OVBScore : -44.10679244995117
+VOB : affect the armed conflict structurally
+VOBScore : -45.02225112915039
+MVpOPassive : structure is affected by the armed conflict
+MVpOPassiveScore : -39.27028656005859
+MpOVPassive : the structure of the armed conflict is affected
+MpOVPassiveScore : -40.77748870849609
+OVpMPassive : the armed conflict is caused by the structure
+OVpMPassiveScore : -41.93826293945312
+gold : armed conflicts affect the structure
+reducedGold : armed conflict affect structure 
+OriginalHighestScorePattern : MVpOPassive
+HighestScorePattern : OVM
+HighestScorePatternSentence : the armed conflict affects the structure
+reducedParaphrase : armed conflict affect structure 
+adj/noun-label : arg1
+FinalLabel : True
+
+133. sentence : Charging that Renaud's administration was undemocratic, the rebels established new municipal committees to oversee policy and increase civic participation in government .
+adj/noun : civic
+n_v : participation
+prep : in
+pobj : government
+originalPattern : civic participation in government
+MVO : city participates government
+MVOScore : -33.4390869140625
+MVpO : citizens participate in government
+MVpOScore : -29.1136417388916
+OVM : government participates city
+OVMScore : -33.83160400390625
+OVpM : government participates in city
+OVpMScore : -30.90433692932129
+VOpM : participate government of citizens
+VOpMScore : -38.50085830688477
+VpOpM : participate in government as a citizen
+VpOpMScore : -35.37882614135742
+VMpO : participate cities in government
+VMpOScore : -37.13299179077148
+VpMpO : participate in cities in government
+VpMpOScore : -38.32709884643555
+M : the participation in government is civic
+MScore : -40.84326934814453
+V1 : government encourages civic participation
+V1Score : -30.60057067871094
+V2 : promote civic participation in government
+V2Score : -32.31697082519531
+MVpOPassive : citizens are participated in government
+MVpOPassiveScore : -36.70200347900391
+MpOVPassive : citizens in the government are participated
+MpOVPassiveScore : -42.44746017456055
+OVpMPassive : government is participated by citizens
+OVpMPassiveScore : -38.52239227294922
+gold : citizens participate in government
+reducedGold : citizen participate in government 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : citizens participate in government
+reducedParaphrase : citizen participate in government 
+adj/noun-label : arg0
+FinalLabel : True
+
+134. sentence : Deciding whether to call a child a boy or a girl, then, employs social definitions of the essential components of gender.
+adj/noun : social
+n_v : definitions
+prep : of
+pobj : the essential components
+originalPattern : social definitions of the essential components
+MVO : society defines the essential components
+MVOScore : -37.45987701416016
+OVM : the essential components define the social
+OVMScore : -38.76133346557617
+OVpM : the essential components define in the society
+OVpMScore : -47.47666549682617
+VOpM : define the essential components of a social
+VOpMScore : -46.11327362060547
+VpOpM : define as the essential components of a social
+VpOpMScore : -48.75785064697266
+VMpO : define society as the essential components
+VMpOScore : -47.74761962890625
+VpMpO : define of a society as the essential components
+VpMpOScore : -55.46144485473633
+M : the definitions of the essential components are social
+MScore : -46.90743255615234
+V1 : the essential components develop the social definitions
+V1Score : -53.52872467041016
+V2 : develop social definitions of the essential components
+V2Score : -51.04277420043945
+OVB : the essential components define socially
+OVBScore : -43.25085067749023
+VOB : define the essential components socially
+VOBScore : -52.2592658996582
+MVpOPassive : a society is defined by the essential components
+MVpOPassiveScore : -39.63116455078125
+MpOVPassive : the societies of the essential components are defined
+MpOVPassiveScore : -47.87591171264648
+OVpMPassive : the essential components are defined by social
+OVpMPassiveScore : -41.67948150634766
+gold : the society define the essential components
+reducedGold : society define essential component 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : society defines the essential components
+reducedParaphrase : society define essential component 
+adj/noun-label : arg0
+FinalLabel : True
+
+137. sentence : Finally, there are indicators, such as the number of people serviced by sewage treatment, which track societal responses to environmental issues .
+adj/noun : societal
+n_v : responses
+prep : to
+pobj : environmental issues
+originalPattern : societal responses to environmental issues
+MVO : society responds environmental issues
+MVOScore : -41.41976165771484
+MVpO : society responds to environmental issues
+MVpOScore : -33.97455978393555
+OVM : environmental issues respond social
+OVMScore : -38.79905700683594
+OVpM : environmental issues respond to social
+OVpMScore : -34.29864883422852
+VOpM : respond environmental issues to social
+VOpMScore : -37.23370742797852
+VpOpM : respond to environmental issues as a social
+VpOpMScore : -39.83605575561523
+VMpO : respond society to environmental issues
+VMpOScore : -37.361083984375
+VpMpO : respond to society to environmental issues
+VpMpOScore : -41.85487365722656
+M : the responses to environmental issues are societal
+MScore : -46.04862213134766
+V1 : environmental issues improve the societal responses
+V1Score : -46.87926864624023
+V2 : improve societal responses to environmental issues
+V2Score : -38.90917587280273
+MVpOPassive : society is responded to environmental issues
+MVpOPassiveScore : -43.30519866943359
+MpOVPassive : social to the environmental issues is responded
+MpOVPassiveScore : -53.07396697998047
+OVpMPassive : environmental issues are responded by social
+OVpMPassiveScore : -41.84363174438477
+gold : society respond to environmental issues
+reducedGold : society respond to environmental issue 
+OriginalHighestScorePattern : MVpO
+HighestScorePattern : MVpO
+HighestScorePatternSentence : society responds to environmental issues
+reducedParaphrase : society respond to environmental issue 
+adj/noun-label : arg0
+FinalLabel : True
+
+146. sentence : In cabinet, Churley opposed attempts to reduce social assistance to single mothers , and only accepted the introduction of casino gambling with reluctance.
+adj/noun : social
+n_v : assistance
+prep : to
+pobj : single mothers
+originalPattern : social assistance to single mothers
+MVO : society assists single mothers
+MVOScore : -35.9085578918457
+MVpO : social assists to single mothers
+MVpOScore : -37.8604736328125
+OVM : single mothers assist social
+OVMScore : -38.95882415771484
+OVpM : single mothers assist with social
+OVpMScore : -39.11774444580078
+VOpM : assist single mothers in the social
+VOpMScore : -36.95437240600586
+VpOpM : assist with single mothers as a social
+VpOpMScore : -45.36830902099609
+VMpO : assist society for single mothers
+VMpOScore : -38.7330436706543
+VpMpO : assist in a society of single mothers
+VpMpOScore : -40.10353469848633
+M : the assistance to single mothers is social
+MScore : -45.55041122436523
+V1 : single mothers receive some social assistance
+V1Score : -41.53964233398438
+V2 : provide social assistance to single mothers
+V2Score : -34.08157348632812
+OVB : single mothers assist socially
+OVBScore : -40.05989837646484
+VOB : assist single mothers socially
+VOBScore : -37.59564590454102
+MVpOPassive : society is assisted by single mothers
+MVpOPassiveScore : -41.51249313354492
+MpOVPassive : society to single mothers is assisted
+MpOVPassiveScore : -51.21123886108398
+OVpMPassive : single mothers are assisted by social
+OVpMPassiveScore : -38.99972534179688
+gold : society assist single mothers
+reducedGold : society assist single mother 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : society assists single mothers
+reducedParaphrase : society assist single mother 
+adj/noun-label : arg0
+FinalLabel : True
+
+147. sentence : In the same year, he also staged the opera "Boris Godunov" at the Royal Opera House in London under the musical direction of Claudio Abbado.
+adj/noun : musical
+n_v : direction
+prep : of
+pobj : Claudio Abbado
+originalPattern : musical direction of Claudio Abbado
+MVO : music directs Claudio Abbado
+MVOScore : -48.40772247314453
+OVM : Claudio Abbado directs music
+OVMScore : -38.62604522705078
+OVpM : Claudio Abbado directs in the musical
+OVpMScore : -45.7945442199707
+VOpM : direct Claudio Abbado for the music
+VOpMScore : -53.18215179443359
+VpOpM : direct by Claudio Abbado for the music
+VpOpMScore : -53.09104919433594
+VMpO : direct music by Claudio Abbado
+VMpOScore : -46.68092727661133
+VpMpO : direct from music by Claudio Abbado
+VpMpOScore : -48.45517730712891
+M : the direction of Claudio Abbado is musical
+MScore : -57.77312088012695
+V1 : Claudio Abbado provides the musical direction
+V1Score : -46.34193801879883
+V2 : follow musical direction of Claudio Abbado
+V2Score : -57.45505905151367
+OVB : Claudio Abbado directs musically
+OVBScore : -45.83184814453125
+VOB : direct Claudio Abbado musically
+VOBScore : -53.70439147949219
+MVpOPassive : the music is directed by Claudio Abbado
+MVpOPassiveScore : -44.41580581665039
+MpOVPassive : the music of the Claudio Abbado is directed
+MpOVPassiveScore : -56.94540405273438
+OVpMPassive : Claudio Abbado is directed by music
+OVpMPassiveScore : -45.29655075073242
+gold : Claudio Abbado direct the music
+reducedGold : claudio abbado direct music 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : Claudio Abbado directs music
+reducedParaphrase : claudio abbado direct music 
+adj/noun-label : arg1
+FinalLabel : True
+
+148. sentence : It could also enhance the prospect of territorial acquisition for a dynasty by procuring legal claim to a foreign throne, or portions of its realm (e.g., colonies), through inheritance from an heiress whenever a monarch failed to leave an undisputed male heir.
+adj/noun : territorial
+n_v : acquisition
+prep : for
+pobj : a dynasty
+originalPattern : territorial acquisition for a dynasty
+MVO : territory acquires a dynasty
+MVOScore : -37.61715698242188
+MVpO : territorial acquire for a dynasty
+MVpOScore : -45.55316543579102
+OVM : a dynasty acquires territory
+OVMScore : -36.08786010742188
+OVpM : a dynasty acquires from a territory
+OVpMScore : -44.51888656616211
+VOpM : acquire a dynasty of territories
+VOpMScore : -41.68350982666016
+VpOpM : acquire of a dynasty in the territory
+VpOpMScore : -46.435302734375
+VMpO : acquire the territory of a dynasty
+VMpOScore : -40.24691390991211
+VpMpO : acquire of the territory of a dynasty
+VpMpOScore : -43.80838394165039
+M : the acquisition for a dynasty is territorial
+MScore : -53.15379333496094
+V1 : a dynasty facilitates the territorial acquisition
+V1Score : -46.25167846679688
+V2 : facilitate territorial acquisition for a dynasty
+V2Score : -53.51135635375977
+OVB : a dynasty acquires territorially
+OVBScore : -42.62277221679688
+VOB : acquire a dynasty territorially
+VOBScore : -43.30195236206055
+MVpOPassive : territory is acquired by a dynasty
+MVpOPassiveScore : -41.44933319091797
+MpOVPassive : the territory for a dynasty is acquired
+MpOVPassiveScore : -45.57006072998047
+OVpMPassive : a dynasty is acquired by a territory
+OVpMPassiveScore : -41.99449920654297
+gold : the dynasty acquire territories
+reducedGold : dynasty acquire territory 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : a dynasty acquires territory
+reducedParaphrase : dynasty acquire territory 
+adj/noun-label : arg1
+FinalLabel : True
+
+157. sentence : Remarkable that considering the mental effects of our invasive culture have yet to be fully understood, this seems like it could very well be a an utter disaster.
+adj/noun : mental
+n_v : effects
+prep : of
+pobj : our invasive culture
+originalPattern : mental effects of our invasive culture
+MVO : mind affects our invasive culture
+MVOScore : -46.97961044311523
+OVM : our invasive culture affects the minds
+OVMScore : -43.09188079833984
+OVpM : our invasive culture effects on the mind
+OVpMScore : -45.4015998840332
+VOpM : cause our invasive culture of the mind
+VOpMScore : -47.52853775024414
+VpOpM : effect of our invasive culture on the mind
+VpOpMScore : -46.2785530090332
+VMpO : affect the mind of our invasive culture
+VMpOScore : -46.73500823974609
+VpMpO : cause in the mind of our invasive culture
+VpMpOScore : -49.04777526855469
+M : the effects of our invasive culture are mental
+MScore : -49.79443740844727
+V1 : our invasive culture has mental effects
+V1Score : -50.88967895507812
+V2 : understand mental effects of our invasive culture
+V2Score : -56.29196929931641
+OVB : our invasive culture affects mentally
+OVBScore : -46.68901443481445
+VOB : affect our invasive culture mentally
+VOBScore : -52.06290054321289
+MVpOPassive : mind is affected by our invasive culture
+MVpOPassiveScore : -45.49077224731445
+MpOVPassive : mind of our invasive culture is affected
+MpOVPassiveScore : -51.18628311157227
+OVpMPassive : our invasive culture is caused by mind
+OVpMPassiveScore : -46.15444564819336
+gold : our invasive culture affect the mind
+reducedGold : -pron- invasive culture affect mind 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : our invasive culture affects the minds
+reducedParaphrase : -pron- invasive culture affect mind 
+adj/noun-label : arg1
+FinalLabel : True
+
+164. sentence : The Iraqi Air Force, however, had originally lacked modern equipment and experienced pilots, but after pleas from Iraqi military leaders, Saddam decreased political influence on everyday operations and left the fighting to his combatants.
+adj/noun : political
+n_v : influence
+prep : on
+pobj : everyday operations
+originalPattern : political influence on everyday operations
+MVO : politics influence everyday operations
+MVOScore : -39.51528167724609
+MVpO : politics influence on everyday operations
+MVpOScore : -40.72803497314453
+OVM : everyday operations influence politics
+OVMScore : -40.85148620605469
+OVpM : everyday operations influence on the politics
+OVpMScore : -47.8105354309082
+VOpM : influence everyday operations in politics
+VOpMScore : -43.99673461914062
+VpOpM : influence of everyday operations in politics
+VpOpMScore : -41.77684020996094
+VMpO : influence the politics of everyday operations
+VMpOScore : -39.2877311706543
+VpMpO : influence on the politics of everyday operations
+VpMpOScore : -40.09933471679688
+M : the influence on everyday operations is political
+MScore : -48.08950424194336
+V1 : everyday operations have a political influence
+V1Score : -41.99599838256836
+V2 : reduce political influence on everyday operations
+V2Score : -42.52301788330078
+OVB : everyday operations influence politically
+OVBScore : -44.97409820556641
+VOB : influence everyday operations politically
+VOBScore : -46.67855453491211
+MVpOPassive : politics are influenced by everyday operations
+MVpOPassiveScore : -43.15399551391602
+MpOVPassive : a politics on everyday operations is influenced
+MpOVPassiveScore : -54.11135482788086
+OVpMPassive : everyday operations are influenced by politics
+OVpMPassiveScore : -42.42233276367188
+gold : politics influence everyday operations
+reducedGold : politic influence everyday operation 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : politics influence everyday operations
+reducedParaphrase : politic influence everyday operation 
+adj/noun-label : arg0
+FinalLabel : True
+
+175. sentence : What is certain is that by AD 300, the entire North Danubian region had fallen under the political domination of Germanic-speaking groups, a hegemony that continued until c. AD 500: the Goths held overall hegemony, and under them, lesser Germanic tribes such as the Taifali and Gepids.
+adj/noun : political
+n_v : domination
+prep : of
+pobj : Germanic-speaking groups
+originalPattern : political domination of Germanic-speaking groups
+MVO : politics dominate Germanic-speaking groups
+MVOScore : -56.90657043457031
+OVM : Germanic-speaking groups dominate politics
+OVMScore : -42.37423324584961
+OVpM : Germanic-speaking groups dominate in the politics
+OVpMScore : -50.30712509155273
+VOpM : dominate Germanic-speaking groups in politics
+VOpMScore : -49.84818649291992
+VpOpM : domineer of Germanic-speaking groups in politics
+VpOpMScore : -58.66687774658203
+VMpO : dominate the politics of Germanic-speaking groups
+VMpOScore : -51.76768112182617
+VpMpO : dominate in the politics of Germanic-speaking groups
+VpMpOScore : -55.12234878540039
+M : the domination of Germanic-speaking groups is political
+MScore : -54.29692459106445
+V1 : Germanic-speaking groups speak political domination
+V1Score : -53.95810317993164
+V2 : prevent political domination of Germanic-speaking groups
+V2Score : -54.7917594909668
+OVB : Germanic-speaking groups dominate politically
+OVBScore : -45.02657699584961
+VOB : domineer Germanic-speaking groups politically
+VOBScore : -56.31486892700195
+MVpOPassive : politics are dominated by Germanic-speaking groups
+MVpOPassiveScore : -49.84403228759766
+MpOVPassive : the politics of the Germanic-speaking groups are dominated
+MpOVPassiveScore : -57.47452163696289
+OVpMPassive : Germanic-speaking groups are dominated by politics
+OVpMPassiveScore : -48.1317253112793
+gold : Germanic-speaking groups dominate politics
+reducedGold : germanic - speak group dominate politic 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : Germanic-speaking groups dominate politics
+reducedParaphrase : germanic - speak group dominate politic 
+adj/noun-label : arg1
+FinalLabel : True
+
+176. sentence : Within the Burgundian Netherlands, Holland was the dominant province in the north; the political influence of Holland largely determined the extent of Burgundian dominion in that area.
+adj/noun : political
+n_v : influence
+prep : of
+pobj : Holland
+originalPattern : political influence of Holland
+MVO : politics influence Holland
+MVOScore : -36.98894119262695
+OVM : Holland influences politics
+OVMScore : -32.3551025390625
+OVpM : Holland influences on the politics
+OVpMScore : -38.15621185302734
+VOpM : influence Holland in politics
+VOpMScore : -39.32436370849609
+VpOpM : influence of Holland in politics
+VpOpMScore : -38.78222274780273
+VMpO : influence politics in Holland
+VMpOScore : -36.42201232910156
+VpMpO : influence on the politics of Holland
+VpMpOScore : -35.85152053833008
+M : the influence of Holland is political
+MScore : -42.29631042480469
+V1 : Holland loses all political influence
+V1Score : -35.63071441650391
+V2 : increase political influence of Holland
+V2Score : -40.92749404907227
+OVB : Holland influences politically
+OVBScore : -35.60560989379883
+VOB : influence Holland politically
+VOBScore : -40.53466796875
+MVpOPassive : politics are influenced by Holland
+MVpOPassiveScore : -42.44855117797852
+MpOVPassive : the politics of the Holland are influenced
+MpOVPassiveScore : -47.92351150512695
+OVpMPassive : Holland is influenced by politics
+OVpMPassiveScore : -34.61255645751953
+gold : Holland influence politics
+reducedGold : holland influence politic 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : Holland influences politics
+reducedParaphrase : holland influence politic 
+adj/noun-label : arg1
+FinalLabel : True
+
+179. sentence : In 2012, Dr. Deborah Priest was appointed as the inaugural head of college at Moreton Bay College to oversee its daily operations and implementation of the budget and to feed into the strategic planning of the college.
+adj/noun : strategic
+n_v : planning
+prep : of
+pobj : the college
+originalPattern : strategic planning of the college
+MVO : strategy plans the college
+MVOScore : -34.97259902954102
+OVM : the college plans strategy
+OVMScore : -35.62425994873047
+OVpM : the college plans for a strategy
+OVpMScore : -39.34234619140625
+VOpM : plan the college as a strategy
+VOpMScore : -39.18202590942383
+VpOpM : plan for the college as a strategy
+VpOpMScore : -40.46332168579102
+VMpO : plan strategies for the college
+VMpOScore : -34.58841705322266
+VpMpO : plan of strategy of the college
+VpMpOScore : -37.62924575805664
+M : the planning of the college is strategic
+MScore : -41.9393196105957
+V1 : the college offers a strategic planning
+V1Score : -39.47748184204102
+V2 : facilitate strategic planning of the college
+V2Score : -40.30627822875977
+OVB : the college plans strategically
+OVBScore : -38.36528778076172
+VOB : plan the college strategically
+VOBScore : -36.74493408203125
+MVpOPassive : strategy is planned for the college
+MVpOPassiveScore : -37.78470993041992
+MpOVPassive : strategy of the college is planned
+MpOVPassiveScore : -40.25219345092773
+OVpMPassive : the college is planned with a strategy
+OVpMPassiveScore : -44.7112922668457
+gold : the college plan strategies
+reducedGold : college plan strategie 
+OriginalHighestScorePattern : OVM
+HighestScorePattern : OVM
+HighestScorePatternSentence : the college plans strategy
+reducedParaphrase : college plan strategy 
+adj/noun-label : arg1
+FinalLabel : True
+
+195. sentence : "Bollman" held that the constitutional definition of treason excluded mere conspiracy to levy war against the United States.//"Bollman" held that the constitutional definition of treason excluded mere conspiracy to levy war against the United States.
+adj/noun : constitutional
+n_v : definition
+prep : of
+pobj : treason
+originalPattern : constitutional definition of treason//constitutional definition of treason
+MVO : the constitution defines treason//the constitution defines treason
+MVOScore : -28.53539085388184//-28.53539085388184
+MVpO : //
+MVpOScore : //
+OVM : treason defines constitutional//treason defines constitutional
+OVMScore : -34.64512252807617//-34.64512252807617
+OVpM : treason defines in the constitution//treason defines in the constitution
+OVpMScore : -40.52018737792969//-40.52018737792969
+VOpM : define treason as a constitutional//define treason as a constitutional
+VOpMScore : -43.54097366333008//-43.54097366333008
+VpOpM : define as treason by constitution//define as treason by constitution
+VpOpMScore : -50.74330520629883//-50.74330520629883
+VMpO : define constitution as treason//define constitution as treason
+VMpOScore : -44.79570770263672//-44.79570770263672
+VpMpO : define in the constitution as treason//define in the constitution as treason
+VpMpOScore : -52.86455917358398//-52.86455917358398
+M : the definition of treason is constitutional//the definition of treason is constitutional
+MScore : -33.64480972290039//-33.64480972290039
+V1 : treason establishes a constitutional definition//treason establishes a constitutional definition
+V1Score : -41.28592300415039//-41.28592300415039
+V2 : establish constitutional definition of treason//establish constitutional definition of treason
+V2Score : -36.05408477783203//-36.05408477783203
+OVB : treason defines constitutionally//treason defines constitutionally
+OVBScore : -37.14447402954102//-37.14447402954102
+VOB : define treason constitutionally//define treason constitutionally
+VOBScore : -42.37399291992188//-42.37399291992188
+MVpOPassive : constitution is defined as treason//constitution is defined as treason
+MVpOPassiveScore : -35.59872817993164//-35.59872817993164
+MpOVPassive : constitution of treason is defined//constitution of treason is defined
+MpOVPassiveScore : -31.99291229248047//-31.99291229248047
+OVpMPassive : treason is defined by the constitutional//treason is defined by the constitutional
+OVpMPassiveScore : -34.17689514160156//-34.17689514160156
+gold : define treason in the constitution//the constitution define treason
+reducedGold : define treason in constitution //constitution define treason 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : the constitution defines treason//the constitution defines treason
+reducedParaphrase : constitution define treason //constitution define treason 
+adj/noun-label : PP//arg0
+FinalLabel : True
+
+197. sentence : After this, Sudharmono was appointed Chairman of the Central Government Personnel Orders Unit and provided administrative assistance to the Government .
+adj/noun : administrative
+n_v : assistance
+prep : to
+pobj : the Government
+originalPattern : administrative assistance to the Government
+MVO : administration assists the Government
+MVOScore : -31.68533706665039
+MVpO : administration assists to the Government
+MVpOScore : -37.1171989440918
+OVM : the Government assists the administration
+OVMScore : -34.73852157592773
+OVpM : the Government assists in the administration
+OVpMScore : -33.16073226928711
+VOpM : assist the Government in the administration
+VOpMScore : -28.79981231689453
+VpOpM : assist to the Government in the administration
+VpOpMScore : -33.24359512329102
+VMpO : assist the administration of the Government
+VMpOScore : -30.25116348266602
+VpMpO : assist in the administration of the Government
+VpMpOScore : -27.88566970825195
+M : the assistance to the Government is administrative
+MScore : -44.60783386230469
+V1 : the Government provides the administrative assistance
+V1Score : -36.63678741455078
+V2 : provide administrative assistance to the Government
+V2Score : -32.00532150268555
+OVB : the Government assists administratively
+OVBScore : -38.73388290405273
+VOB : assist the Government administratively
+VOBScore : -36.42956161499023
+MVpOPassive : administration is assisted by the Government
+MVpOPassiveScore : -35.16192245483398
+MpOVPassive : the administration to the Government is assisted
+MpOVPassiveScore : -45.99363708496094
+OVpMPassive : the Government is assisted in the administration
+OVpMPassiveScore : -37.15837860107422
+gold : the administration assist the Government
+reducedGold : administration assist government 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : administration assists the Government
+reducedParaphrase : administration assist government 
+adj/noun-label : arg0
+FinalLabel : True
+
+203. sentence : Four years later, in 1952, he heard a radio broadcast of Governor Adlai Stevenson's speech accepting the presidential nomination of the Democratic Party.
+adj/noun : presidential
+n_v : nomination
+prep : of
+pobj : the Democratic Party
+originalPattern : presidential nomination of the Democratic Party
+MVO : president nominates the Democratic Party
+MVOScore : -34.8665885925293
+OVM : the Democratic Party nominates a president
+OVMScore : -32.27356338500977
+OVpM : the Democratic Party nominates for president
+OVpMScore : -30.73902702331543
+VOpM : nominate the Democratic Party for president
+VOpMScore : -34.10020065307617
+VpOpM : nominate of the Democratic Party for president
+VpOpMScore : -37.42740249633789
+VMpO : nominate the president of the Democratic Party
+VMpOScore : -32.88029479980469
+VpMpO : nominate as president of the Democratic Party
+VpMpOScore : -33.45812606811523
+M : the nomination of the Democratic Party is presidential
+MScore : -42.29139709472656
+V1 : the Democratic Party wins the presidential nomination
+V1Score : -31.52404975891113
+V2 : win presidential nomination of the Democratic Party
+V2Score : -37.5175895690918
+MVpOPassive : the president is nominated by the Democratic Party
+MVpOPassiveScore : -32.34551620483398
+MpOVPassive : president of the Democratic Party is nominated
+MpOVPassiveScore : -35.8383674621582
+OVpMPassive : the Democratic Party is nominated for president
+OVpMPassiveScore : -31.33303642272949
+gold : Democratic Party nominate for president
+reducedGold : democratic party nominate for president 
+OriginalHighestScorePattern : OVpM
+HighestScorePattern : OVpM
+HighestScorePatternSentence : the Democratic Party nominates for president
+reducedParaphrase : democratic party nominate for president 
+adj/noun-label : PP
+FinalLabel : True
+
+204. sentence : He disagreed with the statutory interpretation of the decision , believing that examining the direct language of the provision would have led the Court to a contrary result.//He disagreed with the statutory interpretation of the decision , believing that examining the direct language of the provision would have led the Court to a contrary result.
+adj/noun : statutory
+n_v : interpretation
+prep : of
+pobj : the decision
+originalPattern : statutory interpretation of the decision//statutory interpretation of the decision
+MVO : statute interprets the decision//statute interprets the decision
+MVOScore : -33.97676849365234//-33.97676849365234
+MVpO : //
+MVpOScore : //
+OVM : the decision interprets the statute//the decision interprets the statute
+OVMScore : -35.36336898803711//-35.36336898803711
+OVpM : the decision interprets as a statute//the decision interprets as a statute
+OVpMScore : -42.22830200195312//-42.22830200195312
+VOpM : interpret the decision as a statute//interpret the decision as a statute
+VOpMScore : -36.55110168457031//-36.55110168457031
+VpOpM : interpret of the decision of the statute//interpret of the decision of the statute
+VpOpMScore : -40.92662811279297//-40.92662811279297
+VMpO : interpret statutes of the decision//interpret statutes of the decision
+VMpOScore : -38.04734420776367//-38.04734420776367
+VpMpO : interpret of the statutes of the decision//interpret of the statutes of the decision
+VpMpOScore : -41.85275650024414//-41.85275650024414
+M : the interpretation of the decision is statutory//the interpretation of the decision is statutory
+MScore : -39.70007705688477//-39.70007705688477
+V1 : the decision concerns the statutory interpretation//the decision concerns the statutory interpretation
+V1Score : -40.7908821105957//-40.7908821105957
+V2 : provide statutory interpretation of the decision//provide statutory interpretation of the decision
+V2Score : -42.09086608886719//-42.09086608886719
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : statute is interpreted as the decision//statute is interpreted as the decision
+MVpOPassiveScore : -37.68243026733398//-37.68243026733398
+MpOVPassive : statute of the decision is interpreted//statute of the decision is interpreted
+MpOVPassiveScore : -41.30905914306641//-41.30905914306641
+OVpMPassive : the decision is interpreted as a statute//the decision is interpreted as a statute
+OVpMPassiveScore : -37.86651611328125//-37.86651611328125
+gold : interpret the decision by statutes//the statute interpret the decision
+reducedGold : interpret decision by statute //statute interpret decision 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : statute interprets the decision//statute interprets the decision
+reducedParaphrase : statute interpret decision //statute interpret decision 
+adj/noun-label : PP//arg0
+FinalLabel : True
+
+206. sentence : However, although the common law is by nature flexible and adaptable, in the interests both of certainty and of securing convictions, most common law jurisdictions have codified their criminal law and now have statutory definitions of murder .//However, although the common law is by nature flexible and adaptable, in the interests both of certainty and of securing convictions, most common law jurisdictions have codified their criminal law and now have statutory definitions of murder .
+adj/noun : statutory
+n_v : definitions
+prep : of
+pobj : murder
+originalPattern : statutory definitions of murder//statutory definitions of murder
+MVO : statute defines murder//statute defines murder
+MVOScore : -29.29177856445312//-29.29177856445312
+MVpO : //
+MVpOScore : //
+OVM : murder defines a statute//murder defines a statute
+OVMScore : -34.55955123901367//-34.55955123901367
+OVpM : murder defines in the statute//murder defines in the statute
+OVpMScore : -39.13005828857422//-39.13005828857422
+VOpM : define murder by statute//define murder by statute
+VOpMScore : -39.12702560424805//-39.12702560424805
+VpOpM : define as murder by statute//define as murder by statute
+VpOpMScore : -45.21514129638672//-45.21514129638672
+VMpO : define statutes for murder//define statutes for murder
+VMpOScore : -42.34791946411133//-42.34791946411133
+VpMpO : define as a statute for murder//define as a statute for murder
+VpMpOScore : -48.97520065307617//-48.97520065307617
+M : the definitions of murder are statutory//the definitions of murder are statutory
+MScore : -38.99387359619141//-38.99387359619141
+V1 : murder requires the statutory definitions//murder requires the statutory definitions
+V1Score : -41.61189651489258//-41.61189651489258
+V2 : establish statutory definitions of murder//establish statutory definitions of murder
+V2Score : -36.90546035766602//-36.90546035766602
+OVB : //
+OVBScore : //
+VOB : //
+VOBScore : //
+MVpOPassive : statute is defined as murder//statute is defined as murder
+MVpOPassiveScore : -34.71837615966797//-34.71837615966797
+MpOVPassive : statute of murder is defined//statute of murder is defined
+MpOVPassiveScore : -34.08259582519531//-34.08259582519531
+OVpMPassive : murder is defined by statute//murder is defined by statute
+OVpMPassiveScore : -29.82352447509766//-29.82352447509766
+gold : define murder by statutes//the statute define murder
+reducedGold : define murder by statute //statute define murder 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : statute defines murder//statute defines murder
+reducedParaphrase : statute define murder //statute define murder 
+adj/noun-label : PP//arg0
+FinalLabel : True
+
+207. sentence : It was designed to provide an experimental analysis of the effects from interventions, which includes both instruction and curriculum.//It was designed to provide an experimental analysis of the effects from interventions, which includes both instruction and curriculum.//It was designed to provide an experimental analysis of the effects from interventions, which includes both instruction and curriculum.//It was designed to provide an experimental analysis of the effects from interventions, which includes both instruction and curriculum.
+adj/noun : experimental
+n_v : analysis
+prep : of
+pobj : the effects
+originalPattern : experimental analysis of the effects//experimental analysis of the effects//experimental analysis of the effects//experimental analysis of the effects
+MVO : experiment analyzes the effects//experiment analyzes the effects//experiment analyzes the effects//experiment analyzes the effects
+MVOScore : -27.68288803100586//-27.68288803100586//-27.68288803100586//-27.68288803100586
+MVpO : //////
+MVpOScore : //////
+OVM : the effects analyze experiments//the effects analyze experiments//the effects analyze experiments//the effects analyze experiments
+OVMScore : -38.0579719543457//-38.0579719543457//-38.0579719543457//-38.0579719543457
+OVpM : the effects analyze in experiments//the effects analyze in experiments//the effects analyze in experiments//the effects analyze in experiments
+OVpMScore : -41.65510177612305//-41.65510177612305//-41.65510177612305//-41.65510177612305
+VOpM : analyze the effects of experiments//analyze the effects of experiments//analyze the effects of experiments//analyze the effects of experiments
+VOpMScore : -33.10847473144531//-33.10847473144531//-33.10847473144531//-33.10847473144531
+VpOpM : analyze for the effects of experiment//analyze for the effects of experiment//analyze for the effects of experiment//analyze for the effects of experiment
+VpOpMScore : -41.00619125366211//-41.00619125366211//-41.00619125366211//-41.00619125366211
+VMpO : analyze experiments on the effects//analyze experiments on the effects//analyze experiments on the effects//analyze experiments on the effects
+VMpOScore : -33.52019882202148//-33.52019882202148//-33.52019882202148//-33.52019882202148
+VpMpO : analyse of the experiments on the effects//analyse of the experiments on the effects//analyse of the experiments on the effects//analyse of the experiments on the effects
+VpMpOScore : -42.89811325073242//-42.89811325073242//-42.89811325073242//-42.89811325073242
+M : the analysis of the effects is experimental//the analysis of the effects is experimental//the analysis of the effects is experimental//the analysis of the effects is experimental
+MScore : -40.59382247924805//-40.59382247924805//-40.59382247924805//-40.59382247924805
+V1 : the effects conduct the experimental analysis//the effects conduct the experimental analysis//the effects conduct the experimental analysis//the effects conduct the experimental analysis
+V1Score : -47.22716903686523//-47.22716903686523//-47.22716903686523//-47.22716903686523
+V2 : conduct experimental analysis of the effects//conduct experimental analysis of the effects//conduct experimental analysis of the effects//conduct experimental analysis of the effects
+V2Score : -32.86901473999023//-32.86901473999023//-32.86901473999023//-32.86901473999023
+OVB : the effects analyze experimentally//the effects analyze experimentally//the effects analyze experimentally//the effects analyze experimentally
+OVBScore : -39.43508911132812//-39.43508911132812//-39.43508911132812//-39.43508911132812
+VOB : analyze the effects experimentally//analyze the effects experimentally//analyze the effects experimentally//analyze the effects experimentally
+VOBScore : -36.46857070922852//-36.46857070922852//-36.46857070922852//-36.46857070922852
+MVpOPassive : experiments are analyzed for the effects//experiments are analyzed for the effects//experiments are analyzed for the effects//experiments are analyzed for the effects
+MVpOPassiveScore : -35.34909439086914//-35.34909439086914//-35.34909439086914//-35.34909439086914
+MpOVPassive : experiments of the effects are analyzed//experiments of the effects are analyzed//experiments of the effects are analyzed//experiments of the effects are analyzed
+MpOVPassiveScore : -40.5456657409668//-40.5456657409668//-40.5456657409668//-40.5456657409668
+OVpMPassive : the effects are analyzed in experiments//the effects are analyzed in experiments//the effects are analyzed in experiments//the effects are analyzed in experiments
+OVpMPassiveScore : -38.4645881652832//-38.4645881652832//-38.4645881652832//-38.4645881652832
+gold : analyze the effects through experiment//analyse the effects through experiment//the experiment analyze the effects//the experiment analyse the effects
+reducedGold : analyze effect through experiment //analyse effect through experiment //experiment analyze effect //experiment analyse effect 
+OriginalHighestScorePattern : MVO//MVO//MVO//MVO
+HighestScorePattern : MVO//MVO//MVO//MVO
+HighestScorePatternSentence : experiment analyzes the effects//experiment analyzes the effects//experiment analyzes the effects//experiment analyzes the effects
+reducedParaphrase : experiment analyze effect //experiment analyze effect //experiment analyze effect //experiment analyze effect 
+adj/noun-label : PP//PP//arg0//arg0
+FinalLabel : True
+
+214. sentence : The primary literary influence on film noir was the hardboiled school of American detective and crime fiction, led in its early years by such writers as Dashiell Hammett (whose first novel, "Red Harvest", was published in 1929) and James M. Cain (whose "The Postman Always Rings Twice" appeared five years later), and popularized in pulp magazines such as "Black Mask".
+adj/noun : literary
+n_v : influence
+prep : on
+pobj : film noir
+originalPattern : literary influence on film noir
+MVO : literature influences film noir
+MVOScore : -37.32789611816406
+MVpO : literature influences on film noir
+MVpOScore : -41.5504035949707
+OVM : film noir influences literature
+OVMScore : -39.09992218017578
+OVpM : film noir influences on literature
+OVpMScore : -41.62439346313477
+VOpM : influence film noir in literature
+VOpMScore : -42.99565887451172
+VpOpM : influence of film noir in literature
+VpOpMScore : -40.95742416381836
+VMpO : influence literature on film noir
+VMpOScore : -45.08390426635742
+VpMpO : influence of literature on film noir
+VpMpOScore : -42.01714706420898
+M : another influence on film noir is literary
+MScore : -51.11305999755859
+V1 : film noir has a literary influence
+V1Score : -40.20116424560547
+V2 : explore literary influence on film noir
+V2Score : -49.05479431152344
+MVpOPassive : literature is influenced by film noir
+MVpOPassiveScore : -39.39270782470703
+MpOVPassive : literature on the film noir is influenced
+MpOVPassiveScore : -50.45821762084961
+OVpMPassive : film noir is influenced by literature
+OVpMPassiveScore : -38.73811340332031
+gold : literature influence film noir
+reducedGold : literature influence film noir 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : literature influences film noir
+reducedParaphrase : literature influence film noir 
+adj/noun-label : arg0
+FinalLabel : True
+
+218. sentence : This linguistic definition of nation would have excluded parts of southern Serbia where the Torlak dialect is spoken.//This linguistic definition of nation would have excluded parts of southern Serbia where the Torlak dialect is spoken.
+adj/noun : linguistic
+n_v : definition
+prep : of
+pobj : nation
+originalPattern : linguistic definition of nation//linguistic definition of nation
+MVO : language defines nation//language defines nation
+MVOScore : -31.59076309204102//-31.59076309204102
+MVpO : //
+MVpOScore : //
+OVM : nation defines language//nation defines language
+OVMScore : -26.47114562988281//-26.47114562988281
+OVpM : nation defines as a language//nation defines as a language
+OVpMScore : -32.9659423828125//-32.9659423828125
+VOpM : define nation as language//define nation as language
+VOpMScore : -37.76385879516602//-37.76385879516602
+VpOpM : //
+VpOpMScore : //
+VMpO : define language by nation//define language by nation
+VMpOScore : -41.09814453125//-41.09814453125
+VpMpO : define as the language of nation//define as the language of nation
+VpMpOScore : -44.19465255737305//-44.19465255737305
+M : the definition of nation is linguistic//the definition of nation is linguistic
+MScore : -37.63787841796875//-37.63787841796875
+V1 : nation provides a linguistic definition//nation provides a linguistic definition
+V1Score : -37.90818786621094//-37.90818786621094
+V2 : provide linguistic definition of nation//provide linguistic definition of nation
+V2Score : -39.77061080932617//-39.77061080932617
+OVB : nation defines linguistically//nation defines linguistically
+OVBScore : -33.57949829101562//-33.57949829101562
+VOB : define nation linguistically//define nation linguistically
+VOBScore : -41.30592346191406//-41.30592346191406
+MVpOPassive : languages are defined by nation//languages are defined by nation
+MVpOPassiveScore : -32.91909790039062//-32.91909790039062
+MpOVPassive : the language of the nation is defined//the language of the nation is defined
+MpOVPassiveScore : -32.10331726074219//-32.10331726074219
+OVpMPassive : nation is defined by language//nation is defined by language
+OVpMPassiveScore : -31.70089912414551//-31.70089912414551
+gold : define a nation through language//language define a nation
+reducedGold : define nation through language //language define nation 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : language defines nation//language defines nation
+reducedParaphrase : language define nation //language define nation 
+adj/noun-label : PP//arg0
+FinalLabel : True
+
+220. sentence : Until the twentieth century, the Supreme Court of the United States may have been the only high tribunal in the world to use a court for constitutional interpretation of fundamental law , others generally depending on their national legislature.
+adj/noun : constitutional
+n_v : interpretation
+prep : of
+pobj : fundamental law
+originalPattern : constitutional interpretation of fundamental law
+MVO : the constitution interprets fundamental law
+MVOScore : -38.45852661132812
+OVM : fundamental law interprets the constitution
+OVMScore : -32.9349250793457
+OVpM : fundamental law interprets as constitutional
+OVpMScore : -37.71073913574219
+VOpM : interpret fundamental law as constitutional
+VOpMScore : -33.37226486206055
+VpOpM : interpret of fundamental law as constitutional
+VpOpMScore : -39.11420440673828
+VMpO : interpret the constitution as fundamental law
+VMpOScore : -38.56916427612305
+VpMpO : interpret of the constitution as fundamental law
+VpMpOScore : -41.71989440917969
+M : the interpretation of fundamental law is constitutional
+MScore : -38.13711547851562
+V1 : fundamental law promotes the constitutional interpretation
+V1Score : -44.83361434936523
+V2 : promote constitutional interpretation of fundamental law
+V2Score : -41.62255477905273
+OVB : fundamental law interprets constitutionally
+OVBScore : -36.39717102050781
+VOB : interpret fundamental law constitutionally
+VOBScore : -34.97926330566406
+MVpOPassive : the constitution is interpreted as fundamental law
+MVpOPassiveScore : -39.12796020507812
+MpOVPassive : the constitution of the fundamental law is interpreted
+MpOVPassiveScore : -40.52950286865234
+OVpMPassive : fundamental law is interpreted as a constitutional
+OVpMPassiveScore : -38.5356330871582
+gold : the constitution interpret fundamental law
+reducedGold : constitution interpret fundamental law 
+OriginalHighestScorePattern : MVO
+HighestScorePattern : MVO
+HighestScorePatternSentence : the constitution interprets fundamental law
+reducedParaphrase : constitution interpret fundamental law 
+adj/noun-label : arg0
+FinalLabel : True
+
+222. sentence : Her next book, "The Stolen Crown", was published in 2010 and is a fictional depiction of Catherine Woodville, Duchess of Buckingham.
+adj/noun : fictional
+n_v : depiction
+prep : of
+pobj : Catherine Woodville
+originalPattern : fictional depiction of Catherine Woodville
+MVO : fiction depicts Catherine Woodville
+MVOScore : -50.99004364013672
+OVM : Catherine Woodville depicts fiction
+OVMScore : -45.65080642700195
+OVpM : Catherine Woodville depicts in the fiction
+OVpMScore : -50.49003601074219
+VOpM : depict Catherine Woodville in fiction
+VOpMScore : -55.24190139770508
+VpOpM : depicture of Catherine Woodville as a fiction
+VpOpMScore : -60.46805191040039
+VMpO : depict the fiction of Catherine Woodville
+VMpOScore : -56.24049377441406
+VpMpO : depict in the fiction of Catherine Woodville
+VpMpOScore : -59.06972122192383
+M : the depiction of Catherine Woodville is fictional
+MScore : -55.16963958740234
+V1 : Catherine Woodville creates a fictional depiction
+V1Score : -47.53369522094727
+V2 : create fictional depiction of Catherine Woodville
+V2Score : -59.17168045043945
+MVpOPassive : fiction is depicted by Catherine Woodville
+MVpOPassiveScore : -53.73184967041016
+MpOVPassive : the fiction of Catherine Woodville is depicted
+MpOVPassiveScore : -55.00926208496094
+OVpMPassive : Catherine Woodville is depicted in fiction
+OVpMPassiveScore : -47.83341979980469
+gold : depict Catherine Woodville in fiction
+reducedGold : depict catherine woodville in fiction 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : OVpMPassiveVOpM
+HighestScorePatternSentence : depict Catherine Woodville in fiction
+reducedParaphrase : depict catherine woodville in fiction 
+adj/noun-label : PP
+FinalLabel : True
+
+223. sentence : He was actively involved in the peace talks with the Nigerian Government and worked actively towards a diplomatic resolution of the crisis.//He was actively involved in the peace talks with the Nigerian Government and worked actively towards a diplomatic resolution of the crisis.
+adj/noun : diplomatic
+n_v : resolution
+prep : of
+pobj : the crisis
+originalPattern : diplomatic resolution of the crisis//diplomatic resolution of the crisis
+MVO : diplomacy resolves the crisis//diplomacy resolves the crisis
+MVOScore : -31.11798095703125//-31.11798095703125
+MVpO : //
+MVpOScore : //
+OVM : the crisis resolves diplomacy//the crisis resolves diplomacy
+OVMScore : -39.68106842041016//-39.68106842041016
+OVpM : the crisis resolves through diplomacy//the crisis resolves through diplomacy
+OVpMScore : -37.57398223876953//-37.57398223876953
+VOpM : resolve the crisis through diplomacy//resolve the crisis through diplomacy
+VOpMScore : -27.82777214050293//-27.82777214050293
+VpOpM : resolve of the crisis through diplomacy//resolve of the crisis through diplomacy
+VpOpMScore : -38.05843734741211//-38.05843734741211
+VMpO : resolve diplomacy during the crisis//resolve diplomacy during the crisis
+VMpOScore : -36.16936492919922//-36.16936492919922
+VpMpO : resolve of diplomacy during the crisis//resolve of diplomacy during the crisis
+VpMpOScore : -41.28850936889648//-41.28850936889648
+M : the resolution of the crisis is diplomatic//the resolution of the crisis is diplomatic
+MScore : -36.67654418945312//-36.67654418945312
+V1 : the crisis requires a diplomatic resolution//the crisis requires a diplomatic resolution
+V1Score : -36.72613906860352//-36.72613906860352
+V2 : seek diplomatic resolution of the crisis//seek diplomatic resolution of the crisis
+V2Score : -36.21493148803711//-36.21493148803711
+OVB : the crisis resolves diplomatically//the crisis resolves diplomatically
+OVBScore : -36.11629486083984//-36.11629486083984
+VOB : resolve the crisis diplomatically//resolve the crisis diplomatically
+VOBScore : -27.4622974395752//-27.4622974395752
+MVpOPassive : diplomacy is resolved after the crisis//diplomacy is resolved after the crisis
+MVpOPassiveScore : -39.81432723999023//-39.81432723999023
+MpOVPassive : diplomacy of the crisis is resolved//diplomacy of the crisis is resolved
+MpOVPassiveScore : -39.54821014404297//-39.54821014404297
+OVpMPassive : the crisis is resolved by diplomacy//the crisis is resolved by diplomacy
+OVpMPassiveScore : -34.94744110107422//-34.94744110107422
+gold : diplomacy resolve the crisis//resolve the crisis with diplomacy
+reducedGold : diplomacy resolve crisis //resolve crisis with diplomacy 
+OriginalHighestScorePattern : MVO//MVO
+HighestScorePattern : MVO//MVO
+HighestScorePatternSentence : diplomacy resolves the crisis//diplomacy resolves the crisis
+reducedParaphrase : diplomacy resolve crisis //diplomacy resolve crisis 
+adj/noun-label : arg0//PP
+FinalLabel : True
+
+225. sentence : Daniel and his companions are given Babylonian names, but refuse to be 'defiled' by the royal provisions of meat and wine.
+adj/noun : royal
+n_v : provisions
+prep : of
+pobj : meat and wine
+originalPattern : royal provisions of meat and wine
+MVO : the monarch provides meat and wine
+MVOScore : -42.72969055175781
+OVM : meat and wine provide royal
+OVMScore : -40.05586624145508
+OVpM : meat and wine supply for the royal
+OVpMScore : -42.41140365600586
+VOpM : provide meat and wine to royalty
+VOpMScore : -41.81477355957031
+VpOpM : provision of meat and wine for royal
+VpOpMScore : -43.81733703613281
+VMpO : provide royals with meat and wine
+VMpOScore : -43.03628158569336
+VpMpO : provision of royalties for meat and wine
+VpMpOScore : -45.88605880737305
+M : the provisions of meat and wine are royal
+MScore : -51.99768829345703
+V1 : meat and wine ensure the royal provisions
+V1Score : -57.17142105102539
+V2 : ensure royal provisions of meat and wine
+V2Score : -52.9934196472168
+OVB : meat and wine provide royally
+OVBScore : -43.19695663452148
+VOB : supply meat and wine royally
+VOBScore : -51.51749420166016
+MVpOPassive : the monarch is provided with meat and wine
+MVpOPassiveScore : -46.43043899536133
+MpOVPassive : the monarch of meat and wine is supplied
+MpOVPassiveScore : -48.99367904663086
+OVpMPassive : meat and wine are provided by royal
+OVpMPassiveScore : -42.59983062744141
+gold : the monarch provide meat and wine
+reducedGold : monarch provide meat and wine 
+OriginalHighestScorePattern : OVpMPassive
+HighestScorePattern : MVO
+HighestScorePatternSentence : the monarch provides meat and wine
+reducedParaphrase : monarch provide meat and wine 
+adj/noun-label : arg0
+FinalLabel : True
+
+279. sentence : Detroit experienced a phenomenal increase in population during the 1910s. To accommodate the influx of residents and their children, numerous schools were built during the decade.
+adj/noun : phenomenal
+n_v : increase
+prep : in
+pobj : population
+originalPattern : phenomenal increase in population
+MVO : the phenomenon increases population
+MVOScore : -34.61210250854492
+MVpO : the phenomenon increases in population
+MVpOScore : -34.09026718139648
+OVM : population increases phenomenon
+OVMScore : -32.30234909057617
+OVpM : population increases as a phenomenon
+OVpMScore : -35.45773315429688
+VOpM : increase population as a phenomenon
+VOpMScore : -36.19029998779297
+VpOpM : increase of population as a phenomenon
+VpOpMScore : -39.32781219482422
+VMpO : increase the phenomenon of population
+VMpOScore : -34.07497406005859
+VpMpO : increase in the phenomenon of population
+VpMpOScore : -35.22390747070312
+M : the increase in population is phenomenal
+MScore : -34.97404861450195
+V1 : population has a phenomenal increase
+V1Score : -36.90038299560547
+V2 : prevent phenomenal increase in population
+V2Score : -40.32757949829102
+OVB : population increases phenomenally
+OVBScore : -34.35626220703125
+VOB : increase population phenomenally
+VOBScore : -38.70182800292969
+MVpOPassive : the phenomenon is increased in population
+MVpOPassiveScore : -35.58729553222656
+MpOVPassive : a phenomenon in the population is increased
+MpOVPassiveScore : -39.91911697387695
+OVpMPassive : population is increased by the phenomenon
+OVpMPassiveScore : -37.17289733886719
+gold : population increase phenomenally
+reducedGold : population increase phenomenally 
+OriginalHighestScorePattern : OVB
+HighestScorePattern : OVB
+HighestScorePatternSentence : population increases phenomenally
+reducedParaphrase : population increase phenomenally 
+adj/noun-label : A
+FinalLabel : True
+
+280. sentence : "The New Emerging Market Multinationals" is based on an in-depth study of 39 emerging market multinationals (EMNCs) that revealed innovative compete-from-below strategies and tactics fueling the meteoric rise of firms from countries such as India, China, Thailand, Turkey and Brazil.
+adj/noun : meteoric
+n_v : rise
+prep : of
+pobj : firms
+originalPattern : meteoric rise of firms
+MVO : meteorology rises firms
+MVOScore : -44.12302398681641
+OVM : firms rise meteorology
+OVMScore : -43.25453186035156
+OVpM : firms rise in meteorology
+OVpMScore : -42.46744537353516
+VOpM : rise firms in meteorology
+VOpMScore : -44.2318229675293
+VpOpM : rise of firms in the meteorology
+VpOpMScore : -42.60666275024414
+VMpO : rise a meteorology of firms
+VMpOScore : -51.31284713745117
+VpMpO : rise of a meteorology of firms
+VpMpOScore : -50.6852912902832
+M : the rise of firms is meteoric
+MScore : -42.55362701416016
+V1 : firms include the meteoric rise
+V1Score : -38.72517776489258
+V2 : prevent meteoric rise of firms
+V2Score : -41.73062896728516
+MVpOPassive : meteorology is risen in firms
+MVpOPassiveScore : -49.68194580078125
+MpOVPassive : the meteorology of the firms is risen
+MpOVPassiveScore : -53.31993865966797
+OVpMPassive : firms are risen in meteorology
+OVpMPassiveScore : -50.18162536621094
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+287. sentence : Led by Professor Walsh, Buffy is given the tour of the facility, and is made a member of their team; however, a Freudian slip from Buffy indicating her prior knowledge of the Initiative's behavior modification research ("viz." Spike's chip) does not go unnoticed by Walsh.
+adj/noun : Freudian
+n_v : slip
+prep : from
+pobj : Buffy
+originalPattern : Freudian slip from Buffy
+MVO : Freudian slips Buffy
+MVOScore : -39.01951217651367
+MVpO : Freud slips from Buffy
+MVpOScore : -42.73130035400391
+OVM : Buffy slips Freud
+OVMScore : -34.55974578857422
+OVpM : Buffy slips into Freud
+OVpMScore : -34.93446731567383
+VOpM : slip Buffy in the Freud
+VOpMScore : -43.68552017211914
+VpOpM : slip of Buffy in the Freud
+VpOpMScore : -48.49935913085938
+VMpO : slip Freud on Buffy
+VMpOScore : -42.53398895263672
+VpMpO : slip of Freud on Buffy
+VpMpOScore : -45.37614440917969
+M : the slip from Buffy is Freudian
+MScore : -51.42462158203125
+V1 : Buffy has a Freudian slip
+V1Score : -38.02517700195312
+V2 : get Freudian slip from Buffy
+V2Score : -51.70650482177734
+MVpOPassive : Freud is slipped by Buffy
+MVpOPassiveScore : -47.66819763183594
+MpOVPassive : Freuds from Buffy is slipped
+MpOVPassiveScore : -53.985107421875
+OVpMPassive : Buffy is slipped into a Freud
+OVpMPassiveScore : -41.59306716918945
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+291. sentence : Shapiro and the other plaintiffs argued the measures are draconian violations of free speech protections.
+adj/noun : draconian
+n_v : violations
+prep : of
+pobj : free speech protections
+originalPattern : draconian violations of free speech protections
+MVO : Draco violates free speech protections
+MVOScore : -39.20608139038086
+OVM : free speech protections violate Draco
+OVMScore : -46.90316009521484
+VOpM : violate free speech protections of Draco
+VOpMScore : -47.08586120605469
+VpOpM : violate of free speech protections against Dracos
+VpOpMScore : -61.23748397827148
+M : the violations of free speech protections are draconian
+MScore : -46.03020095825195
+V1 : free speech protections prevent any draconian violations
+V1Score : -54.69114685058594
+V2 : prevent draconian violations of free speech protections
+V2Score : -45.55409240722656
+OVpMPassive : free speech protections are violated by Draco
+OVpMPassiveScore : -50.49822235107422
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+293. sentence : Ada Louise Huxtable wrote in "The New York Times" that Pei's building was "a palatial statement of the creative accommodation of contemporary art and architecture".
+adj/noun : palatial
+n_v : statement
+prep : of
+pobj : the creative accommodation of contemporary art and architecture
+originalPattern : palatial statement of the creative accommodation of contemporary art and architecture
+MVO : palace states the creative accommodation of contemporary art and architecture
+MVOScore : -67.8124008178711
+OVM : the creative accommodation of contemporary art and architecture state palace
+OVMScore : -65.54612731933594
+OVpM : the creative accommodation of contemporary art and architecture state of the palace
+OVpMScore : -73.52425384521484
+VOpM : state the creative accommodation of contemporary art and architecture in palaces
+VOpMScore : -68.4275131225586
+VpOpM : state of the creative accommodation of contemporary art and architecture in palaces
+VpOpMScore : -65.4811782836914
+VMpO : state palace for the creative accommodation of contemporary art and architecture
+VMpOScore : -64.7447738647461
+VpMpO : state as a palace for the creative accommodation of contemporary art and architecture
+VpMpOScore : -72.57207489013672
+M : the statement of the creative accommodation of contemporary art and architecture is palatial
+MScore : -79.70195770263672
+V1 : the creative accommodation of contemporary art and architecture provide a palatial statement
+V1Score : -77.28978729248047
+V2 : provide palatial statement of the creative accommodation of contemporary art and architecture
+V2Score : -82.0227279663086
+MVpOPassive : palace is stated as the creative accommodation of contemporary art and architecture
+MVpOPassiveScore : -68.75906372070312
+MpOVPassive : palace of the creative accommodation of contemporary art and architecture is stated
+MpOVPassiveScore : -74.6417236328125
+OVpMPassive : the creative accommodation of contemporary art and architecture are stated in the palace
+OVpMPassiveScore : -76.56656646728516
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+296. sentence : Not only is there a seminal display of the collected art work but through the photoanimation technique combined with sound and music a unique visualization of the poem was created.
+adj/noun : seminal
+n_v : display
+prep : of
+pobj : the collected art work
+originalPattern : seminal display of the collected art work
+MVO : semen displays the collected art work
+MVOScore : -47.82629776000977
+OVM : the collected art work displays semen
+OVMScore : -52.78021240234375
+OVpM : the collected art work displays of semen
+OVpMScore : -54.99882125854492
+VOpM : display the collected art work in semen
+VOpMScore : -55.3536491394043
+VpOpM : display of the collected art work in semen
+VpOpMScore : -58.5477180480957
+VMpO : display the semen of the collected art work
+VMpOScore : -57.63122940063477
+VpMpO : display of semen of the collected art work
+VpMpOScore : -59.52093505859375
+M : the display of the collected art work is seminal
+MScore : -55.18142318725586
+V1 : the collected art work receives a seminal display
+V1Score : -61.47277450561523
+V2 : create seminal display of the collected art work
+V2Score : -60.29894256591797
+MVpOPassive : semen is displayed in the collected art work
+MVpOPassiveScore : -54.27076721191406
+MpOVPassive : semen of all the collected art work is displayed
+MpOVPassiveScore : -57.78837585449219
+OVpMPassive : the collected art work is displayed in semen
+OVpMPassiveScore : -54.39847183227539
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+300. sentence : In the 1920s, American newspapers began devoting more and more attention to baseball statistics, initiating what journalist and historian Alan Schwarz describes as a " tectonic shift in sports, as intrigue that once focused mostly on teams began to go to individual players and their statistics lines."
+adj/noun : tectonic
+n_v : shift
+prep : in
+pobj : sports
+originalPattern : tectonic shift in sports
+MVO : tectonics shift sports
+MVOScore : -39.09971618652344
+MVpO : tectonics shift in sports
+MVpOScore : -41.67097473144531
+OVM : sports shift tectonics
+OVMScore : -41.13774490356445
+OVpM : sports shift in tectonics
+OVpMScore : -45.220703125
+VOpM : shift sports in the tectonics
+VOpMScore : -49.59231948852539
+VpOpM : shift of sports in the tectonics
+VpOpMScore : -50.60333251953125
+VMpO : shift tectonics in sports
+VMpOScore : -41.89824295043945
+VpMpO : shift in tectonics in sports
+VpMpOScore : -46.86875534057617
+M : the shift in sports is tectonic
+MScore : -43.83354187011719
+V1 : sports explain the tectonic shift
+V1Score : -43.12036895751953
+V2 : explain tectonic shift in sports
+V2Score : -46.43247604370117
+MVpOPassive : tectonics are shifted to sports
+MVpOPassiveScore : -47.05048751831055
+MpOVPassive : tectonics in these sports are shifted
+MpOVPassiveScore : -52.4881477355957
+OVpMPassive : sports are shifted by tectonics
+OVpMPassiveScore : -47.17497253417969
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+305. sentence : As the premier UK-based organisation for travel media professionals, the Guild provides for collegial exchange of views between members as well as facilitating mutual support, a year-round programme of meetings for members, legal advice, and training and professional development.
+adj/noun : collegial
+n_v : exchange
+prep : of
+pobj : views
+originalPattern : collegial exchange of views
+MVO : colleagues exchange views
+MVOScore : -30.75086784362793
+OVM : views exchanges college
+OVMScore : -36.2313346862793
+OVpM : views exchanges with colleagues
+OVpMScore : -34.45067977905273
+VOpM : exchange views with colleagues
+VOpMScore : -32.83710479736328
+VpOpM : exchange of views with colleagues
+VpOpMScore : -31.01670455932617
+VMpO : exchange a colleague for views
+VMpOScore : -39.98027801513672
+VpMpO : exchange with a colleague for views
+VpMpOScore : -40.28670120239258
+M : the exchange of views is collegial
+MScore : -36.33895111083984
+V1 : views facilitates the collegial exchange
+V1Score : -43.84029769897461
+V2 : facilitate collegial exchange of views
+V2Score : -35.96562194824219
+MVpOPassive : colleagues are exchanged for views
+MVpOPassiveScore : -40.57070541381836
+MpOVPassive : a college of views is exchanged
+MpOVPassiveScore : -45.11530303955078
+OVpMPassive : views is exchanged with a colleague
+OVpMPassiveScore : -41.7315559387207
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+311. sentence : Vincent Canby of "The New York Times" said the film "seems to have been a terrifically genial collaboration between the writer and the director, Miss Fisher's tale of odd-ball woe being perfect material for Mr. Nichols's particular ability to discover the humane sensibility within the absurd."
+adj/noun : genial
+n_v : collaboration
+prep : between
+pobj : the writer and the director
+originalPattern : genial collaboration between the writer and the director
+MVO : chin collaborates the writer and the director
+MVOScore : -55.31151962280273
+MVpO : chin collaborates between the writer and the director
+MVpOScore : -49.7474365234375
+OVM : the writer and the director collaborate chin
+OVMScore : -49.90581130981445
+OVpM : the writer and the director collaborate on chin
+OVpMScore : -49.77233123779297
+VOpM : collaborate the writer and the director of chin
+VOpMScore : -57.79938888549805
+VpOpM : collaborate with the writer and the director of chin
+VpOpMScore : -53.02838897705078
+VMpO : collaborate chin of the writer and the director
+VMpOScore : -57.85993194580078
+VpMpO : collaborate under the chin of the writer and the director
+VpMpOScore : -54.05669021606445
+M : the collaboration between the writer and the director is genial
+MScore : -47.33443069458008
+V1 : the writer and the director have a genial collaboration
+V1Score : -50.96939849853516
+V2 : create genial collaboration between the writer and the director
+V2Score : -58.31049728393555
+OVB : the writer and the director collaborate genially
+OVBScore : -48.44858169555664
+VOB : collaborate the writer and the director genially
+VOBScore : -59.76057434082031
+MVpOPassive : chin is collaborated with the writer and the director
+MVpOPassiveScore : -52.19313049316406
+MpOVPassive : chins between both the writer and the director are collaborated
+MpOVPassiveScore : -67.50625610351562
+OVpMPassive : the writer and the director are collaborated by chin
+OVpMPassiveScore : -53.23786926269531
+gold : the writer and the director collaborate genially
+reducedGold : writer and director collaborate genially 
+OriginalHighestScorePattern : OVB
+HighestScorePattern : OVB
+HighestScorePatternSentence : the writer and the director collaborate genially
+reducedParaphrase : writer and director collaborate genially 
+adj/noun-label : A
+FinalLabel : True
+
+313. sentence : A monumental expansion of Harvard's graduate and professional school and departments facilitated specialization, while at the same time making the university a center for advanced scientific and technological research.
+adj/noun : monumental
+n_v : expansion
+prep : of
+pobj : Harvard's graduate and professional school and departments
+originalPattern : monumental expansion of Harvard's graduate and professional school and departments
+MVO : monuments expand Harvard's graduate and professional school and departments
+MVOScore : -74.6253890991211
+OVM : Harvard's graduate and professional school and departments expand monuments
+OVMScore : -69.81275177001953
+OVpM : Harvard's graduate and professional school and departments expand beyond monuments
+OVpMScore : -73.80076599121094
+VOpM : expand Harvard's graduate and professional school and departments as a monument
+VOpMScore : -78.46878051757812
+VpOpM : expand of Harvard's graduate and professional school and departments to the monument
+VpOpMScore : -82.20442962646484
+VMpO : expand monuments to Harvard's graduate and professional school and departments
+VMpOScore : -69.49150848388672
+VpMpO : expand of the monument to Harvard's graduate and professional school and departments
+VpMpOScore : -79.20814514160156
+M : the expansion of Harvard's graduate and professional school and departments is monumental
+MScore : -70.48650360107422
+V1 : Harvard's graduate and professional school and departments accommodate this monumental expansion
+V1Score : -77.21312713623047
+V2 : accommodate monumental expansion of Harvard's graduate and professional school and departments
+V2Score : -82.26776123046875
+MVpOPassive : monuments are expanded to Harvard's graduate and professional school and departments
+MVpOPassiveScore : -74.11064910888672
+MpOVPassive : monument of both Harvard's graduate and professional school and departments is expanded
+MpOVPassiveScore : -80.13946533203125
+OVpMPassive : Harvard's graduate and professional school and departments are expanded into a monument
+OVpMPassiveScore : -76.24126434326172
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+319. sentence : Her ninth book, "Understanding the Mammography Controversy: Science, Politics, and Breast Cancer Screening" (Westport, CT: Praeger Press. 2005) focused on breast cancer screening, and her 10th book, "Truth, Lies, and Public Health: How We Are Affected when Science and Politics Collide" (Westport, CT: Praeger Press. 2007) discusses in a series of essays the potentially toxic interaction of politics and science.
+adj/noun : toxic
+n_v : interaction
+prep : of
+pobj : politics and science
+originalPattern : toxic interaction of politics and science
+adj/noun-label : A
+FinalLabel : True
+
+324. sentence : In 1873 Vogel discovered dye sensitization, a pivotal contribution to the progress of photography.
+adj/noun : pivotal
+n_v : contribution
+prep : to
+pobj : the progress of photography
+originalPattern : pivotal contribution to the progress of photography
+adj/noun-label : A
+FinalLabel : True
+
+326. sentence : The fragmented structure of the novel, in which various moments in the past are interspersed with events in the present, generates heightened suspense and tension as its several sub-plots come together in the apocalyptic destruction of the town and the cult.
+adj/noun : apocalyptic
+n_v : destruction
+prep : of
+pobj : the town and the cult
+originalPattern : apocalyptic destruction of the town and the cult
+MVO : the apocalypses destroy the town and the cult
+MVOScore : -52.1573371887207
+OVM : the town and the cult destroy the apocalypse
+OVMScore : -52.13638305664062
+OVpM : the town and the cult destroy in the apocalypse
+OVpMScore : -57.14005279541016
+VOpM : destroy the town and the cult of apocalypse
+VOpMScore : -47.81418228149414
+VpOpM : destroy of the town and the cult of apocalypse
+VpOpMScore : -51.07318115234375
+VMpO : destroy the apocalypse of the town and the cult
+VMpOScore : -52.81896209716797
+VpMpO : destroy by an apocalypse between the town and the cult
+VpMpOScore : -61.75555038452148
+M : the destruction of the town and the cult is apocalyptic
+MScore : -52.46698379516602
+V1 : the town and the cult suffer an apocalyptic destruction
+V1Score : -57.10026550292969
+V2 : prevent apocalyptic destruction of the town and the cult
+V2Score : -55.78398132324219
+MVpOPassive : apocalypse is destructed by the town and the cult
+MVpOPassiveScore : -61.75419235229492
+MpOVPassive : the apocalypse of both the town and the cult is destructed
+MpOVPassiveScore : -67.18891143798828
+OVpMPassive : the town and the cult are destructed by the apocalypse
+OVpMPassiveScore : -62.24274826049805
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+327. sentence : In an account by Plutarch, the catastrophic failure of the Sicilian expedition led Athenians to trade renditions of Euripides's lyrics to their enemies in return for food and drink ("Life of Nicias" 29).
+adj/noun : catastrophic
+n_v : failure
+prep : of
+pobj : the Sicilian expedition
+originalPattern : catastrophic failure of the Sicilian expedition
+adj/noun-label : A
+FinalLabel : True
+
+347. sentence : In September 1998, Graham was expelled from the Labour Party for "bringing the party into disrepute", despite his categorical denials of any wrongdoing.
+adj/noun : categorical
+n_v : denials
+prep : of
+pobj : any wrongdoing
+originalPattern : categorical denials of any wrongdoing
+MVO : category denies any wrongdoing
+MVOScore : -29.30593109130859
+OVM : any wrongdoing denies category
+OVMScore : -44.42943954467773
+OVpM : any wrongdoing denies to the category
+OVpMScore : -52.24348831176758
+VOpM : deny any wrongdoing in the category
+VOpMScore : -39.92737579345703
+VpOpM : deny of any wrongdoing by category
+VpOpMScore : -42.2368278503418
+VMpO : deny a category of any wrongdoing
+VMpOScore : -42.27219390869141
+VpMpO : deny to the category of any wrongdoing
+VpMpOScore : -45.15743637084961
+M : the denials of any wrongdoing are categorical
+MScore : -42.08237838745117
+V1 : any wrongdoing requires some categorical denials
+V1Score : -56.84271621704102
+V2 : prevent categorical denials of any wrongdoing
+V2Score : -50.35149002075195
+OVB : any wrongdoing denies categorically
+OVBScore : -44.27951812744141
+VOB : deny any wrongdoing categorically
+VOBScore : -39.05262756347656
+MVpOPassive : category is denied for any wrongdoing
+MVpOPassiveScore : -42.21052169799805
+MpOVPassive : the category of any wrongdoing is denied
+MpOVPassiveScore : -46.25406646728516
+OVpMPassive : any wrongdoing is denied by category
+OVpMPassiveScore : -47.13324737548828
+gold : deny any wrongdoing categorically
+reducedGold : deny wrongdoing categorically 
+OriginalHighestScorePattern : VOB
+HighestScorePattern : VOB
+HighestScorePatternSentence : deny any wrongdoing categorically
+reducedParaphrase : deny wrongdoing categorically 
+adj/noun-label : A
+FinalLabel : True
+
+352. sentence : A few Japanese families settled in Colombia, inspired by the bucolic description of the Cauca Valley in Jorge Isaacs' novel "María".
+adj/noun : bucolic
+n_v : description
+prep : of
+pobj : the Cauca Valley
+originalPattern : bucolic description of the Cauca Valley
+MVO : shepherds describe the Cauca Valley
+MVOScore : -48.53307342529297
+OVM : the Cauca Valley describes a bucolic
+OVMScore : -49.71253967285156
+OVpM : the Cauca Valley describes as bucolic
+OVpMScore : -52.09346008300781
+VOpM : describe the Cauca Valley as a bucolic
+VOpMScore : -50.04136657714844
+VpOpM : describe of the Cauca Valley as a bucolic
+VpOpMScore : -55.90245056152344
+VMpO : describe shepherds of the Cauca Valley
+VMpOScore : -47.79782485961914
+VpMpO : describe as a shepherd in the Cauca Valley
+VpMpOScore : -51.49735641479492
+M : the description of the Cauca Valley is bucolic
+MScore : -52.89871978759766
+V1 : the Cauca Valley has a bucolic description
+V1Score : -56.76982116699219
+V2 : provide bucolic description of the Cauca Valley
+V2Score : -60.23854064941406
+MVpOPassive : shepherd is described in the Cauca Valley
+MVpOPassiveScore : -51.65597915649414
+MpOVPassive : shepherd of the the Cauca Valley is described
+MpOVPassiveScore : -59.01187133789062
+OVpMPassive : the Cauca Valley is described as a bucolic
+OVpMPassiveScore : -48.24216461181641
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+353. sentence : Haig was increasingly irritated by French's changes of orders and mercurial changes of mood as to the length of the war, which French now expected to last into 1916.
+adj/noun : mercurial
+n_v : changes
+prep : of
+pobj : mood
+originalPattern : mercurial changes of mood
+MVO : Mercury changes mood
+MVOScore : -27.08552551269531
+OVM : mood changes mercury
+OVMScore : -30.79489707946777
+OVpM : mood changes in mercury
+OVpMScore : -30.71756744384766
+VOpM : change mood with mercury
+VOpMScore : -37.22652053833008
+VpOpM : change of mood with mercury
+VpOpMScore : -38.51227951049805
+VMpO : change Mercury in mood
+VMpOScore : -36.87217330932617
+VpMpO : change of Mercury in mood
+VpMpOScore : -41.23380279541016
+M : the changes of mood are mercurial
+MScore : -43.93552780151367
+V1 : mood causes some mercurial changes
+V1Score : -44.41871643066406
+V2 : cause mercurial changes of mood
+V2Score : -39.24050521850586
+MVpOPassive : Mercury is changed in mood
+MVpOPassiveScore : -36.9948844909668
+MpOVPassive : the mercury of the mood is changed
+MpOVPassiveScore : -42.19067764282227
+OVpMPassive : mood is changed to Mercury
+OVpMPassiveScore : -38.46897125244141
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+354. sentence : By 1904, he was engaged in nativist attacks on blacks.
+adj/noun : nativist
+n_v : attacks
+prep : on
+pobj : blacks
+originalPattern : nativist attacks on blacks
+MVO : nativism attacks blacks
+MVOScore : -36.61388397216797
+MVpO : nativist attacks on blacks
+MVpOScore : -35.68877792358398
+OVM : blacks attack nativism
+OVMScore : -36.3743782043457
+OVpM : blacks attack as nativists
+OVpMScore : -41.88967895507812
+VOpM : attack blacks with nativism
+VOpMScore : -39.59442138671875
+VpOpM : attack on blacks as nativist
+VpOpMScore : -39.77322006225586
+VMpO : attack the nativism of blacks
+VMpOScore : -37.03402709960938
+VpMpO : attack of nativists against blacks
+VpMpOScore : -36.8963737487793
+M : the attacks on blacks are nativist
+MScore : -44.43447875976562
+V1 : blacks prevent the nativist attacks
+V1Score : -46.68635940551758
+V2 : prevent nativist attacks on blacks
+V2Score : -42.01783752441406
+MVpOPassive : nativism is attacked by blacks
+MVpOPassiveScore : -40.41094970703125
+MpOVPassive : nativism on the blacks is attacked
+MpOVPassiveScore : -49.79835891723633
+OVpMPassive : blacks are attacked by nativists
+OVpMPassiveScore : -37.64088439941406
+OriginalHighestScorePattern : M
+HighestScorePattern : M
+adj/noun-label : A
+FinalLabel : True
+
+358. sentence : A side effect of low blood oxygen is a vastly increased breathing rate, often 80–90 breaths per minute as opposed to a more typical 20–30.
+adj/noun : side
+n_v : effect
+prep : of
+pobj : low blood oxygen
+originalPattern : side effect of low blood oxygen
+adj/noun-label : A
+FinalLabel : True
+
